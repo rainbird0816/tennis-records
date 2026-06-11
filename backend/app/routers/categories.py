@@ -48,15 +48,27 @@ def category_detail(
         raise HTTPException(404, f"unknown tier: {tier}")
     series = query(
         """
-        SELECT name, COUNT(*) AS seasons,
-               MIN(season) AS first_season, MAX(season) AS last_season
-        FROM tournaments
-        WHERE tier = :tier AND tour = :tour
-        GROUP BY name
-        ORDER BY name
+        SELECT t.name, COUNT(*) AS seasons,
+               MIN(t.season) AS first_season, MAX(t.season) AS last_season,
+               (SELECT t2.start_date FROM tournaments t2
+                  WHERE t2.tour = t.tour AND t2.tier = t.tier AND t2.name = t.name
+                  ORDER BY t2.season DESC LIMIT 1) AS latest_start_date
+        FROM tournaments t
+        WHERE t.tier = :tier AND t.tour = :tour
+        GROUP BY t.name
         """,
         {"tier": tier, "tour": tour},
     )
+
+    # 개최 시기(달력)순 정렬 — 대표 시즌 시작일의 MMDD 기준 (이름순 X).
+    # GS 의 경우 자동으로 호주(01)→롤랑(05)→윔블던(06)→US(08) 순.
+    def cal_key(s: dict) -> str:
+        sd = s.get("latest_start_date") or ""
+        return sd[4:8] if len(sd) >= 8 else "9999"  # MMDD, 없으면 뒤로
+
+    for s in series:
+        s["cal_mmdd"] = cal_key(s)
+    series.sort(key=cal_key)
 
     # 시리즈별 최신 우승자 (§9.2). OLYMPICS 는 champions 뷰에 없어 비어 있음.
     latest: dict[str, dict] = {}

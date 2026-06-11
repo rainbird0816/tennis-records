@@ -46,6 +46,9 @@ _NAME_CANON = {
     "us open": "US Open",
     "australian chps.": "Australian Open",
     "australian championships": "Australian Open",
+    # 1977 년 1·12월 두 번 열린 호주오픈 → 같은 시리즈로 통합
+    "australian open-2": "Australian Open",
+    "australian open 2": "Australian Open",
     # ATP 연말 왕중왕전 계보 통합 (Masters Cup 2000–2008 = Tour Finals)
     "masters cup": "Tour Finals",
     # Next Gen Finals 표기 흔들림 통합

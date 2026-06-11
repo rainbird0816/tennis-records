@@ -4,7 +4,8 @@ import { api } from "../api/client";
 import type { MatchDetail } from "../api/types";
 import SetScoreboard from "../components/SetScoreboard";
 import StatCompareBar from "../components/StatCompareBar";
-import { flagEmoji } from "../lib/flags";
+import Flag from "../components/Flag";
+import { fmtDate, nameWithIoc, seedSuffix } from "../lib/format";
 
 /** /match/:matchId — Tier 1 매치 디테일 (§8). */
 export default function Match() {
@@ -18,14 +19,10 @@ export default function Match() {
   if (isLoading) return <p className="text-neutral-400">불러오는 중…</p>;
   if (error || !data) return <p className="text-amber-700 text-sm">경기를 찾을 수 없습니다.</p>;
 
-  const seed = (s: number | null) => (s ? ` [${s}]` : "");
-  const label = (name: string | null, ioc: string | null, id: number, s: number | null) => {
-    const flag = flagEmoji(ioc);
-    const cc = ioc ? `${ioc.toUpperCase()} ` : "";
-    return `${flag ? flag + " " : ""}${cc}${name ?? `선수 #${id}`}${seed(s)}`;
-  };
-  const w = label(data.winner_name, data.winner_ioc, data.winner_id, data.winner_seed);
-  const l = label(data.loser_name, data.loser_ioc, data.loser_id, data.loser_seed);
+  // 스코어보드 텍스트(국기는 헤더에서 이미지로 표기)
+  const wName = nameWithIoc(data.winner_name, data.winner_ioc, data.winner_id) + seedSuffix(data.winner_seed);
+  const lName = nameWithIoc(data.loser_name, data.loser_ioc, data.loser_id) + seedSuffix(data.loser_seed);
+  const date = fmtDate(data.start_date);
 
   return (
     <div className="space-y-6 max-w-2xl">
@@ -33,17 +30,22 @@ export default function Match() {
         <div className="text-xs text-neutral-500">
           {data.tour.toUpperCase()} · {data.tournament_name} {data.season} · {data.round}
           {data.surface && ` · ${data.surface}`}
+          {date && ` · ${date}`}
           {data.minutes != null && ` · ${data.minutes}분`}
         </div>
-        <h1 className="text-xl font-bold mt-1">
-          <Link to={`/player/${data.tour}/${data.winner_id}`} className="hover:underline">{w}</Link>
-          <span className="text-neutral-400 font-normal"> def. </span>
-          <Link to={`/player/${data.tour}/${data.loser_id}`} className="text-neutral-600 hover:underline">{l}</Link>
+        <h1 className="text-xl font-bold mt-1 flex items-center gap-2 flex-wrap">
+          <Link to={`/player/${data.tour}/${data.winner_id}`} className="inline-flex items-center gap-1.5 hover:underline">
+            <Flag ioc={data.winner_ioc} /> {wName}
+          </Link>
+          <span className="text-neutral-400 font-normal">def.</span>
+          <Link to={`/player/${data.tour}/${data.loser_id}`} className="inline-flex items-center gap-1.5 text-neutral-600 hover:underline">
+            <Flag ioc={data.loser_ioc} /> {lName}
+          </Link>
         </h1>
         <div className="text-sm text-neutral-500 font-mono">{data.score}</div>
       </header>
 
-      <SetScoreboard sets={data.sets} winnerName={w} loserName={l} outcome={data.outcome} />
+      <SetScoreboard sets={data.sets} winnerName={wName} loserName={lName} outcome={data.outcome} />
 
       {data.has_stats && data.stats ? (
         <section className="rounded-lg border bg-white p-4">

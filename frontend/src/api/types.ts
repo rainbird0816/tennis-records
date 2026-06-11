@@ -143,6 +143,22 @@ export interface Series {
   first_season: number;
   last_season: number;
   latest_champion: LatestChampion | null;
+  cal_mmdd?: string;
+}
+
+export interface OlympicEdition {
+  season: number;
+  atp_tid: string | null;
+  wta_tid: string | null;
+  location: string | null;
+}
+
+export interface Medal {
+  tour: Tour;
+  medal: "gold" | "silver" | "bronze";
+  player_id: number;
+  full_name: string | null;
+  ioc: string | null;
 }
 
 export interface Champion {
@@ -210,6 +226,7 @@ export interface MatchDetail {
   tier: Tier | null;
   season: number | null;
   surface: string | null;
+  start_date: string | null;
   winner_seed: number | null;
   loser_seed: number | null;
   winner_rank: number | null;

@@ -14,18 +14,42 @@ from ..db import query
 router = APIRouter()
 
 
+@router.get("/olympics/editions")
+def olympics_editions() -> dict:
+    """올림픽 개최 시즌 목록 (메달 데이터 보유 기준)."""
+    rows = query(
+        """
+        SELECT t.season,
+               MAX(CASE WHEN t.tour='atp' THEN t.tourney_id END) AS atp_tid,
+               MAX(CASE WHEN t.tour='wta' THEN t.tourney_id END) AS wta_tid,
+               MAX(t.location) AS location
+        FROM tournaments t
+        WHERE t.tier = 'OLYMPICS'
+        GROUP BY t.season
+        ORDER BY t.season DESC
+        """
+    )
+    return {"editions": rows}
+
+
 @router.get("/olympics/{season}/medals")
 def olympics_medals(season: int) -> dict:
-    medals = query(
+    rows = query(
         """
-        SELECT tour, medal, player_id
-        FROM olympic_medals
-        WHERE season = ?
-        ORDER BY tour, CASE medal WHEN 'gold' THEN 0 WHEN 'silver' THEN 1 ELSE 2 END
+        SELECT om.tour, om.medal, om.player_id,
+               p.full_name, p.ioc
+        FROM olympic_medals om
+        LEFT JOIN players p ON p.tour = om.tour AND p.player_id = om.player_id
+        WHERE om.season = ?
+        ORDER BY om.tour,
+                 CASE om.medal WHEN 'gold' THEN 0 WHEN 'silver' THEN 1 ELSE 2 END
         """,
         (season,),
     )
-    return {"season": season, "medals": medals}
+    by_tour: dict[str, list[dict]] = {"atp": [], "wta": []}
+    for r in rows:
+        by_tour.setdefault(r["tour"], []).append(r)
+    return {"season": season, "atp": by_tour.get("atp", []), "wta": by_tour.get("wta", [])}
 
 
 @router.get("/h2h")

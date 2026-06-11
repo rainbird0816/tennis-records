@@ -4,6 +4,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import { api } from "../api/client";
 import type { MatchRow, TournamentDetail, Tour } from "../api/types";
 import PlayerLabel from "../components/PlayerLabel";
+import { fmtDate } from "../lib/format";
 
 const ROUND_LABEL: Record<string, string> = {
   RR: "라운드 로빈", R128: "128강", R64: "64강", R32: "32강", R16: "16강",
@@ -81,6 +82,9 @@ export default function Bracket() {
         <h1 className="text-2xl font-bold">{slug} {season}</h1>
         {data?.tournament.surface && (
           <span className="text-xs rounded bg-neutral-200 px-2 py-0.5">{data.tournament.surface}</span>
+        )}
+        {data && fmtDate(data.tournament.start_date) && (
+          <span className="text-xs text-neutral-400">{fmtDate(data.tournament.start_date)}</span>
         )}
         {data?.tournament.draw_size && (
           <span className="text-xs text-neutral-400">드로 {data.tournament.draw_size}</span>

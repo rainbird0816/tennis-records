@@ -38,12 +38,18 @@ const IOC_TO_ISO2: Record<string, string> = {
   TWN: "TW", ZMB: "ZM", ZWE: "ZW",
 };
 
-/** IOC/ISO3 코드 → 국기 이모지 (매핑 불가 시 빈 문자열). */
-export function flagEmoji(ioc: string | null | undefined): string {
-  if (!ioc) return "";
+/** IOC/ISO3 코드 → ISO 3166-1 alpha-2 소문자 (flagcdn URL용). 매핑 불가 시 null. */
+export function iocToIso2(ioc: string | null | undefined): string | null {
+  if (!ioc) return null;
   const iso2 = IOC_TO_ISO2[ioc.trim().toUpperCase()];
+  return iso2 ? iso2.toLowerCase() : null;
+}
+
+/** IOC/ISO3 코드 → 국기 이모지 (Windows 미렌더링 — 이미지 Flag 컴포넌트 권장). */
+export function flagEmoji(ioc: string | null | undefined): string {
+  const iso2 = iocToIso2(ioc);
   if (!iso2) return "";
   return String.fromCodePoint(
-    ...[...iso2].map((ch) => 0x1f1e6 + (ch.charCodeAt(0) - 65)),
+    ...[...iso2.toUpperCase()].map((ch) => 0x1f1e6 + (ch.charCodeAt(0) - 65)),
   );
 }

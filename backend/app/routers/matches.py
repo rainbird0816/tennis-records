@@ -34,7 +34,7 @@ def match_detail(match_id: str) -> dict:
     }
     names = {pid: r["full_name"] for pid, r in players.items()}
     tmeta = query_one(
-        "SELECT name, tier, season, surface FROM tournaments "
+        "SELECT name, tier, season, surface, start_date FROM tournaments "
         "WHERE tour = ? AND tourney_id = ?",
         (m["tour"], m["tourney_id"]),
     ) or {}
@@ -70,6 +70,7 @@ def match_detail(match_id: str) -> dict:
         "tier": tmeta.get("tier"),
         "season": tmeta.get("season"),
         "surface": tmeta.get("surface"),
+        "start_date": tmeta.get("start_date"),
         "winner_seed": m["winner_seed"],
         "loser_seed": m["loser_seed"],
         "winner_rank": m["winner_rank"],

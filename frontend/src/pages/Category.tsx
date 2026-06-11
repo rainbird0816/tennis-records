@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Link, useParams } from "react-router-dom";
 import { api } from "../api/client";
-import type { Series, Tour } from "../api/types";
+import type { OlympicEdition, Series, Tour } from "../api/types";
 import TourToggle from "../components/TourToggle";
 
 const TITLES: Record<string, string> = {
@@ -14,7 +14,33 @@ const TITLES: Record<string, string> = {
   OLYMPICS: "Olympics",
 };
 
-/** /category/:tier — 시리즈 카드 + ATP/WTA 토글 (§9.2). */
+/** 올림픽 — 개최 연도(에디션) 카드 → 메달 페이지. */
+function OlympicsEditions() {
+  const { data, isLoading } = useQuery({
+    queryKey: ["olympics-editions"],
+    queryFn: () => api<{ editions: OlympicEdition[] }>("/olympics/editions"),
+  });
+  return (
+    <div>
+      <h1 className="text-2xl font-bold mb-6">🏅 Olympics 단식</h1>
+      {isLoading && <p className="text-neutral-400">불러오는 중…</p>}
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+        {data?.editions.map((e) => (
+          <Link
+            key={e.season}
+            to={`/olympics/${e.season}`}
+            className="rounded-xl border bg-white p-4 hover:shadow-md transition text-center"
+          >
+            <div className="text-xl font-bold">{e.season}</div>
+            <div className="text-xs text-neutral-500 mt-1">메달 보기</div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+/** /category/:tier — 시리즈 카드 + ATP/WTA 토글 (§9.2). 개최 시기순 정렬(백엔드). */
 export default function Category() {
   const { tier = "GS" } = useParams();
   const [tour, setTour] = useState<Tour>("atp");
@@ -22,7 +48,10 @@ export default function Category() {
   const { data, isLoading, error } = useQuery({
     queryKey: ["category", tier, tour],
     queryFn: () => api<{ series: Series[] }>(`/categories/${tier}`, { tour }),
+    enabled: tier !== "OLYMPICS",
   });
+
+  if (tier === "OLYMPICS") return <OlympicsEditions />;
 
   return (
     <div>

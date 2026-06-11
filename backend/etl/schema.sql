@@ -11,7 +11,7 @@ DROP TABLE IF EXISTS players;
 
 CREATE TABLE players(
   tour TEXT, player_id INTEGER, full_name TEXT, hand TEXT, dob TEXT,
-  ioc TEXT, height_cm INTEGER, PRIMARY KEY(tour, player_id)
+  ioc TEXT, height_cm INTEGER, wikidata_id TEXT, PRIMARY KEY(tour, player_id)
 );
 
 CREATE TABLE tournaments(

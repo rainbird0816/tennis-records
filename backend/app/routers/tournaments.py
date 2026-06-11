@@ -48,12 +48,14 @@ def series_champions(
         """
         SELECT c.season, c.name, c.surface, c.tourney_id,
                c.champion_id, c.runnerup_id, c.score,
+               t.start_date,
                wp.full_name AS champion_name, lp.full_name AS runnerup_name
         FROM champions c
+        JOIN tournaments t ON t.tour = c.tour AND t.tourney_id = c.tourney_id
         LEFT JOIN players wp ON wp.tour = c.tour AND wp.player_id = c.champion_id
         LEFT JOIN players lp ON lp.tour = c.tour AND lp.player_id = c.runnerup_id
         WHERE c.tour = ? AND c.name = ?
-        ORDER BY c.season DESC
+        ORDER BY c.season DESC, t.start_date DESC
         """,
         (tour, slug),
     )

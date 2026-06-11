@@ -119,6 +119,7 @@ export interface PlayerProfile {
     dob: string | null;
     ioc: string | null;
     height_cm: number | null;
+    wikidata_id: string | null;
   };
   record: { wins: number | null; losses: number | null };
   by_surface: SurfaceRecord[];
@@ -177,6 +178,7 @@ export interface Champion {
   champion_name: string | null;
   runnerup_name: string | null;
   score: string | null;
+  start_date: string | null;
 }
 
 export interface MatchRow {

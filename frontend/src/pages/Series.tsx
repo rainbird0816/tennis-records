@@ -2,6 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { Link, useParams, useSearchParams } from "react-router-dom";
 import { api } from "../api/client";
 import type { Champion, Tour } from "../api/types";
+import { fmtDate } from "../lib/format";
 
 /** /series/:slug — 시리즈 역대 우승자 (§9.2). */
 export default function Series() {
@@ -41,7 +42,12 @@ export default function Series() {
           <tbody>
             {data?.champions.map((c) => (
               <tr key={`${c.season}-${c.tourney_id}`} className="border-t hover:bg-neutral-50">
-                <td className="px-4 py-2 tabular-nums">{c.season}</td>
+                <td className="px-4 py-2">
+                  <div className="tabular-nums font-medium">{c.season}</div>
+                  {fmtDate(c.start_date) && (
+                    <div className="text-[0.65rem] text-neutral-400 tabular-nums">{fmtDate(c.start_date)}</div>
+                  )}
+                </td>
                 <td className="px-4 py-2">
                   <Link to={`/player/${tour}/${c.champion_id}`} className="font-medium text-court hover:underline">
                     {c.champion_name ?? `#${c.champion_id}`}

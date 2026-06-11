@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { api } from "../api/client";
 import type { PlayerProfile, RankingPoint, Title, Tour } from "../api/types";
 import Flag from "../components/Flag";
+import PlayerPhoto from "../components/PlayerPhoto";
 import RankChart from "../components/RankChart";
 
 const TIER_LABEL: Record<string, string> = {
@@ -58,14 +59,15 @@ export default function Player() {
     <div className="space-y-8">
       {/* 헤더 */}
       <header className="flex items-start gap-4 flex-wrap">
-        <div className="leading-none">
-          <Flag ioc={p.ioc} className="h-12 w-[72px] rounded object-cover border" />
-        </div>
+        <PlayerPhoto wikidataId={p.wikidata_id} name={p.full_name} ioc={p.ioc} />
         <div>
-          <h1 className="text-3xl font-bold">{p.full_name}</h1>
-          <div className="text-sm text-neutral-500 mt-1 flex gap-3 flex-wrap">
+          <h1 className="text-3xl font-bold flex items-center gap-2">
+            <Flag ioc={p.ioc} className="h-5 w-[30px] rounded-sm object-cover border align-[-2px]" />
+            {p.full_name}
+          </h1>
+          <div className="text-sm text-neutral-500 mt-1 flex gap-3 flex-wrap items-center">
             <span className="rounded bg-court text-white px-2 py-0.5 text-xs">{t.toUpperCase()}</span>
-            {p.ioc && <span>{p.ioc}</span>}
+            {p.ioc && <span className="font-semibold">{p.ioc}</span>}
             {p.hand && <span>{p.hand === "R" ? "오른손잡이" : p.hand === "L" ? "왼손잡이" : p.hand}</span>}
             {p.height_cm && <span>{p.height_cm}cm</span>}
             {p.dob && <span>{String(p.dob).slice(0, 4)}년생</span>}

@@ -103,16 +103,18 @@ def load_players(conn: sqlite3.Connection, tour: str) -> None:
         if pid is None:
             continue
         ht = _i(col("height").iloc[i]) if "height" in cols else None
+        wid = col("wikidata_id").iloc[i] if "wikidata_id" in cols else None
+        wid = str(wid) if wid is not None and pd.notna(wid) else None
         rows.append((
             tour, pid,
             str(name.iloc[i]) if name is not None else None,
             (str(col("hand").iloc[i]) if "hand" in cols else None),
             (str(_i(col("dob").iloc[i])) if "dob" in cols else None),
             (str(col("ioc").iloc[i]) if "ioc" in cols else None),
-            ht,
+            ht, wid,
         ))
     conn.executemany(
-        "INSERT OR REPLACE INTO players VALUES (?,?,?,?,?,?,?)", rows
+        "INSERT OR REPLACE INTO players VALUES (?,?,?,?,?,?,?,?)", rows
     )
     print(f"[players] {tour}: {len(rows):,} 명")
 

@@ -39,6 +39,10 @@ def build(conn: sqlite3.Connection) -> int:
         if f:
             rows.append((tour, season, "gold", f[0]))
             rows.append((tour, season, "silver", f[1]))
+        # 동메달:
+        #  - 동메달 결정전(BR)이 있으면 그 승자 (1996+ 단일 동메달)
+        #  - 없고 1992년 이전이면 4강 탈락자 2명에게 공동 동메달 (1988/1992 + 시범종목)
+        #  - 그 외(데이터에 BR 누락, 예: 2000/2004 WTA)는 추정하지 않고 비움
         br = conn.execute(
             "SELECT winner_id FROM matches "
             "WHERE tour=? AND tourney_id=? AND round='BR'",
@@ -46,6 +50,13 @@ def build(conn: sqlite3.Connection) -> int:
         ).fetchone()
         if br:
             rows.append((tour, season, "bronze", br[0]))
+        elif season <= 1992:
+            for (sf_loser,) in conn.execute(
+                "SELECT loser_id FROM matches "
+                "WHERE tour=? AND tourney_id=? AND round='SF'",
+                (tour, tourney_id),
+            ).fetchall():
+                rows.append((tour, season, "bronze", sf_loser))
 
     conn.executemany(
         "INSERT OR REPLACE INTO olympic_medals VALUES (?,?,?,?)", rows

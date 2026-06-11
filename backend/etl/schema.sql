@@ -44,10 +44,11 @@ CREATE TABLE match_sets(
 );
 
 -- 올림픽 메달 (build_olympics.py, §12)
+-- 동메달은 공동 수여(1988/1992: SF 패자 2명)가 있어 player_id 까지 PK 에 포함.
 CREATE TABLE olympic_medals(
   tour TEXT, season INTEGER, medal TEXT,  -- 'gold' | 'silver' | 'bronze'
   player_id INTEGER,
-  PRIMARY KEY(tour, season, medal)
+  PRIMARY KEY(tour, season, medal, player_id)
 );
 
 -- 시즌별 랭킹 요약 (build_rankings.py) — 연말 순위 + 시즌 최고 순위

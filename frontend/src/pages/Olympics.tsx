@@ -1,7 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import { Link, useParams } from "react-router-dom";
 import { api } from "../api/client";
-import type { Medal } from "../api/types";
+import type { Medal, Tour } from "../api/types";
 import Flag from "../components/Flag";
 
 const MEDAL_META: Record<string, { label: string; emoji: string; cls: string }> = {
@@ -11,43 +11,63 @@ const MEDAL_META: Record<string, { label: string; emoji: string; cls: string }> 
 };
 const ORDER = ["gold", "silver", "bronze"];
 
-function MedalColumn({ title, medals }: { title: string; medals: Medal[] }) {
-  const tour = medals[0]?.tour ?? "atp";
-  const byMedal = (m: string) => medals.find((x) => x.medal === m);
+function MedalRow({ medal, rows, tour }: { medal: string; rows: Medal[]; tour: Tour }) {
+  const meta = MEDAL_META[medal];
   return (
-    <div>
-      <h2 className="text-sm font-semibold mb-2">{title}</h2>
-      <div className="space-y-2">
-        {ORDER.map((m) => {
-          const meta = MEDAL_META[m];
-          const row = byMedal(m);
-          return (
-            <div key={m} className={`flex items-center gap-3 rounded-lg border px-3 py-2 ${meta.cls}`}>
-              <span className="text-xl">{meta.emoji}</span>
-              <span className="text-xs font-semibold text-neutral-500 w-4">{meta.label}</span>
-              {row ? (
-                <Link to={`/player/${tour}/${row.player_id}`} className="flex items-center gap-2 font-medium hover:underline">
-                  <Flag ioc={row.ioc} />
-                  {row.ioc && <span className="text-[0.65rem] text-neutral-400 font-semibold">{row.ioc}</span>}
-                  {row.full_name ?? `#${row.player_id}`}
-                </Link>
-              ) : (
-                <span className="text-neutral-400 text-sm">—</span>
-              )}
-            </div>
-          );
-        })}
+    <div className={`flex items-start gap-3 rounded-lg border px-3 py-2 ${meta.cls}`}>
+      <span className="text-xl leading-tight">{meta.emoji}</span>
+      <span className="text-xs font-semibold text-neutral-500 w-4 mt-1">{meta.label}</span>
+      <div className="flex flex-col gap-1">
+        {rows.length === 0 && <span className="text-neutral-400 text-sm">—</span>}
+        {rows.map((r) => (
+          <Link
+            key={r.player_id}
+            to={`/player/${tour}/${r.player_id}`}
+            className="flex items-center gap-2 font-medium hover:underline"
+          >
+            <Flag ioc={r.ioc} />
+            {r.ioc && <span className="text-[0.65rem] text-neutral-400 font-semibold">{r.ioc}</span>}
+            {r.full_name ?? `#${r.player_id}`}
+          </Link>
+        ))}
       </div>
     </div>
   );
 }
 
-/** /olympics/:season — 남·녀 메달 테이블 (§9.4, Phase 6). */
+function MedalColumn({ title, medals, tid, season }: { title: string; medals: Medal[]; tid: string | null; season: string }) {
+  const tour = medals[0]?.tour ?? "atp";
+  return (
+    <div>
+      <div className="flex items-center justify-between mb-2">
+        <h2 className="text-sm font-semibold">{title}</h2>
+        {tid && (
+          <Link
+            to={`/series/Olympics/${season}?tour=${tour}&tid=${encodeURIComponent(tid)}`}
+            className="text-xs text-court hover:underline"
+          >
+            대진 보기 →
+          </Link>
+        )}
+      </div>
+      <div className="space-y-2">
+        {ORDER.map((m) => (
+          <MedalRow key={m} medal={m} tour={tour} rows={medals.filter((x) => x.medal === m)} />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+/** /olympics/:season — 남·녀 메달 테이블 + 대진 링크 (§9.4, Phase 6). */
 export default function Olympics() {
   const { season = "" } = useParams();
   const { data, isLoading, error } = useQuery({
     queryKey: ["olympics", season],
-    queryFn: () => api<{ season: number; atp: Medal[]; wta: Medal[] }>(`/olympics/${season}/medals`),
+    queryFn: () =>
+      api<{ season: number; atp: Medal[]; wta: Medal[]; atp_tid: string | null; wta_tid: string | null }>(
+        `/olympics/${season}/medals`,
+      ),
   });
 
   return (
@@ -62,13 +82,16 @@ export default function Olympics() {
 
       {data && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 max-w-3xl">
-          <MedalColumn title="남자 단식 (ATP)" medals={data.atp} />
-          <MedalColumn title="여자 단식 (WTA)" medals={data.wta} />
+          <MedalColumn title="남자 단식 (ATP)" medals={data.atp} tid={data.atp_tid} season={season} />
+          <MedalColumn title="여자 단식 (WTA)" medals={data.wta} tid={data.wta_tid} season={season} />
         </div>
       )}
       {data && data.atp.length === 0 && data.wta.length === 0 && (
-        <p className="text-neutral-500 text-sm">메달 데이터가 없습니다 (동메달 결정전이 없던 초기 대회 등).</p>
+        <p className="text-neutral-500 text-sm">메달 데이터가 없습니다.</p>
       )}
+      <p className="text-[0.7rem] text-neutral-400 mt-6">
+        1988·1992년은 동메달 결정전이 없어 4강 탈락자 2명에게 공동 동메달이 수여되었습니다.
+      </p>
     </div>
   );
 }

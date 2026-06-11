@@ -49,7 +49,22 @@ def olympics_medals(season: int) -> dict:
     by_tour: dict[str, list[dict]] = {"atp": [], "wta": []}
     for r in rows:
         by_tour.setdefault(r["tour"], []).append(r)
-    return {"season": season, "atp": by_tour.get("atp", []), "wta": by_tour.get("wta", [])}
+
+    # 대진(드로) 링크용 tourney_id
+    tids = {
+        r["tour"]: r["tourney_id"]
+        for r in query(
+            "SELECT tour, tourney_id FROM tournaments WHERE tier='OLYMPICS' AND season=?",
+            (season,),
+        )
+    }
+    return {
+        "season": season,
+        "atp": by_tour.get("atp", []),
+        "wta": by_tour.get("wta", []),
+        "atp_tid": tids.get("atp"),
+        "wta_tid": tids.get("wta"),
+    }
 
 
 @router.get("/h2h")

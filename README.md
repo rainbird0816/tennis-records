@@ -65,7 +65,15 @@ npm run dev          # http://localhost:5173 (API 프록시 → :8000)
 - [x] **Phase 1** — 그랜드슬램 남·녀 + 매치 디테일 + 토글 (이름 정규화 포함)
 - [x] **Phase 2** — H2H(서피스/tier/라운드 분해) + 기록(우승/결승) + 선수 프로필 + 검색
 - [x] **Phase 3** — 1000(ATP 1990~ 정규화) + 파이널스(Tour Finals 계보 통합) + 토너먼트 트리 대진표(국기·접기)
-- [ ] Phase 4~7 — `PROJECT_BRIEF.md §11` 로드맵 참고
+- [x] **Phase 4+5** — ATP 500/250(2009~, 500 고정셋 큐레이션) + WTA 1000/500/250(2021~, level 코드) + 선수 상세 페이지(플레이스타일·서피스·등급별 커리어)
+- [ ] Phase 6~7 — 올림픽 대진/메달 화면, 다듬기 (`PROJECT_BRIEF.md §11`)
+
+### 데이터 자동 갱신
+주간 스케줄러로 진행 시즌 CSV 재수신 + DB 재빌드:
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\register_update_task.ps1   # 매주 월 05:00 등록
+powershell -ExecutionPolicy Bypass -File scripts\update_data.ps1            # 수동 1회 실행
+```
 
 > **ETL 주의:** `build_db` 는 `tennis.db` 에 쓰기 락이 필요하므로, **API 서버(uvicorn)를 먼저 멈춘 뒤** 실행할 것.
 > 실행 중이면 `database is locked` 로 스키마 적용이 조용히 실패한다.

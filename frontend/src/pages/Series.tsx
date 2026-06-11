@@ -42,8 +42,16 @@ export default function Series() {
             {data?.champions.map((c) => (
               <tr key={`${c.season}-${c.tourney_id}`} className="border-t hover:bg-neutral-50">
                 <td className="px-4 py-2 tabular-nums">{c.season}</td>
-                <td className="px-4 py-2 font-medium text-court">{c.champion_name ?? `#${c.champion_id}`}</td>
-                <td className="px-4 py-2 text-neutral-600">{c.runnerup_name ?? `#${c.runnerup_id}`}</td>
+                <td className="px-4 py-2">
+                  <Link to={`/player/${tour}/${c.champion_id}`} className="font-medium text-court hover:underline">
+                    {c.champion_name ?? `#${c.champion_id}`}
+                  </Link>
+                </td>
+                <td className="px-4 py-2 text-neutral-600">
+                  <Link to={`/player/${tour}/${c.runnerup_id}`} className="hover:underline">
+                    {c.runnerup_name ?? `#${c.runnerup_id}`}
+                  </Link>
+                </td>
                 <td className="px-4 py-2 font-mono text-xs text-neutral-500">{c.score}</td>
                 <td className="px-4 py-2 text-right">
                   <Link

@@ -50,6 +50,11 @@ _NAME_CANON = {
     "masters cup": "Tour Finals",
     # Next Gen Finals 표기 흔들림 통합
     "nextgen finals": "Next Gen Finals",
+    # 500/250 대회명 표기 흔들림 (Phase 4)
+    "atp rio de janeiro": "Rio de Janeiro",
+    "rio de janeiro": "Rio de Janeiro",
+    "st petersburg": "St. Petersburg",
+    "st. petersburg": "St. Petersburg",
 }
 
 

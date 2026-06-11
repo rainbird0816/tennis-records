@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { api } from "../api/client";
 import type { MatchDetail } from "../api/types";
 import SetScoreboard from "../components/SetScoreboard";
@@ -35,7 +35,11 @@ export default function Match() {
           {data.surface && ` · ${data.surface}`}
           {data.minutes != null && ` · ${data.minutes}분`}
         </div>
-        <h1 className="text-xl font-bold mt-1">{w} def. {l}</h1>
+        <h1 className="text-xl font-bold mt-1">
+          <Link to={`/player/${data.tour}/${data.winner_id}`} className="hover:underline">{w}</Link>
+          <span className="text-neutral-400 font-normal"> def. </span>
+          <Link to={`/player/${data.tour}/${data.loser_id}`} className="text-neutral-600 hover:underline">{l}</Link>
+        </h1>
         <div className="text-sm text-neutral-500 font-mono">{data.score}</div>
       </header>
 

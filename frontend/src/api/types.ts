@@ -78,6 +78,32 @@ export interface RecordLeader {
   n: number;
 }
 
+export interface SurfaceRecord {
+  surface: string;
+  wins: number;
+  losses: number;
+  pct: number | null;
+}
+
+export interface PlayerStyle {
+  matches: number;
+  ace_pct: number | null;
+  df_pct: number | null;
+  first_in_pct: number | null;
+  first_win_pct: number | null;
+  second_win_pct: number | null;
+  bp_saved_pct: number | null;
+  labels: string[];
+}
+
+export interface TierCareer {
+  tier: string;
+  titles: number;
+  runner_ups: number;
+  finals: number;
+  sf_exits: number;
+}
+
 export interface PlayerProfile {
   player: {
     tour: Tour;
@@ -89,6 +115,9 @@ export interface PlayerProfile {
     height_cm: number | null;
   };
   record: { wins: number | null; losses: number | null };
+  by_surface: SurfaceRecord[];
+  style: PlayerStyle | null;
+  by_tier: TierCareer[];
 }
 
 export interface Title {
@@ -98,6 +127,7 @@ export interface Title {
   surface: string | null;
   runnerup_id: number;
   score: string | null;
+  tourney_id: string;
 }
 
 export interface LatestChampion {

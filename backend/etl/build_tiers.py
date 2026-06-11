@@ -23,6 +23,21 @@ TIERS_CSV = SEED_DIR / "tournament_tiers.csv"
 
 _FINALS_HINTS = ("finals", "championships", "masters cup", "tour finals")
 
+# ATP 500 고정 셋 (2019+ 현행 기준, 이름 정규화 후 소문자). 나머지 tour-level 'A' = 250. (§1.2, Phase 4)
+ATP_500_NAMES = {
+    "rotterdam", "rio de janeiro", "dubai", "acapulco", "barcelona", "halle",
+    "queen's club", "hamburg", "washington", "beijing", "tokyo", "vienna",
+    "basel", "doha",
+}
+# 팀/엑시비전 (단식 범위 밖, §1.5) — level 'A' 로 새어 들어옴
+ATP_TEAM_EXCLUDE = {"atp cup", "laver cup", "united cup"}
+# ATP 500/250 분류 시작 시즌. 500/250 체계 출범(2009) 이후 전체 — Phase 4+5 통합.
+# (500 고정셋은 현행 기준이라 2009–2013 Memphis/Valencia 등 일부는 250 으로 분류될 수 있음)
+ATP_TOUR_MIN_SEASON = 2009
+
+# WTA 'P' 레벨 중 실제 1000 인 비(非)PM 대회 (이름 기준, 2021+). PM 은 항상 1000.
+WTA_1000_EXTRA = {"cincinnati", "montreal", "toronto", "wuhan", "guadalajara"}
+
 
 def load_seed_tiers() -> dict[tuple[str, int, str], str]:
     """(tour, season, name) → tier 매핑 (WTA 2021+ 등급 큐레이션)."""
@@ -59,8 +74,29 @@ def derive_tier(
         return "FINALS"
     if lvl == "M":  # ATP Masters 1000
         return "1000"
-    # WTA 등급 등은 시드 큐레이션에 의존
-    return seed_map.get((tour, season, name))
+
+    # 시드 큐레이션이 있으면 최우선 (WTA 1000 등 수동 지정)
+    seeded = seed_map.get((tour, season, name))
+    if seeded:
+        return seeded
+
+    # WTA 등급 (2021+; season 필터는 build_db 에서) — tourney_level 코드 기반 (§3)
+    if tour == "wta":
+        if lvl == "PM" or n in WTA_1000_EXTRA:
+            return "1000"
+        if lvl == "P":
+            return "500"
+        if lvl in ("I", "W"):
+            return "250"
+        return None
+
+    # ATP 500/250 (2019+; tour-level 'A') — 500 고정셋 외 나머지는 250 (§1.2)
+    if tour == "atp" and lvl == "A" and season >= ATP_TOUR_MIN_SEASON:
+        if n in ATP_TEAM_EXCLUDE:
+            return None
+        return "500" if n in ATP_500_NAMES else "250"
+
+    return None
 
 
 if __name__ == "__main__":

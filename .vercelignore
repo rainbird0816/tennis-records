@@ -1,0 +1,15 @@
+# 업로드 제외 (data/tennis.db 는 유지 — 함수에 번들)
+data/raw
+data/update.log
+data/*.db-*
+backend/.venv
+backend/__pycache__
+**/__pycache__
+.venv
+frontend/node_modules
+frontend/dist
+node_modules
+.git
+.pytest_cache
+.ruff_cache
+backend/etl

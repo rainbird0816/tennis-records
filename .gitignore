@@ -27,3 +27,5 @@ data/*.db
 Thumbs.db
 *.log
 .env
+
+.vercel

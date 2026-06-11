@@ -1,0 +1,2 @@
+# Vercel 서버리스 함수 런타임 의존성 (ETL용 pandas/numpy 불필요).
+fastapi==0.115.6

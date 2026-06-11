@@ -96,6 +96,12 @@ export interface PlayerStyle {
   labels: string[];
 }
 
+export interface RankingPoint {
+  season: number;
+  year_end_rank: number | null;
+  best_rank: number | null;
+}
+
 export interface TierCareer {
   tier: string;
   titles: number;

@@ -135,6 +135,21 @@ def player_profile(tour: str, player_id: int) -> dict:
     }
 
 
+@router.get("/players/{tour}/{player_id}/rankings")
+def player_rankings(tour: str, player_id: int) -> dict:
+    """시즌별 연말/최고 랭킹 (랭킹 추이 차트용, Phase 7)."""
+    rows = query(
+        """
+        SELECT season, year_end_rank, best_rank
+        FROM player_rankings
+        WHERE tour = ? AND player_id = ?
+        ORDER BY season
+        """,
+        (tour, player_id),
+    )
+    return {"tour": tour, "player_id": player_id, "rankings": rows}
+
+
 @router.get("/players/{tour}/{player_id}/titles")
 def player_titles(
     tour: str,

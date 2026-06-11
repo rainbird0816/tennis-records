@@ -30,9 +30,11 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-# ETL: 원천 CSV 다운로드 → tennis.db 빌드 (Phase 0~ 진행하며 채움)
-python -m etl.fetch_sources       # atp + wta 연도별 CSV → ../data/raw/
+# ETL: 원천 CSV 다운로드 → tennis.db 빌드
+python -m etl.fetch_sources       # atp + wta 연도별 매치 + 선수 + 랭킹 CSV → ../data/raw/
 python -m etl.build_db            # 정규화 + score 파싱 → ../data/tennis.db
+python -m etl.build_olympics      # 올림픽 금/은/동 추출
+python -m etl.build_rankings      # 시즌별 연말/최고 랭킹 (랭킹 추이 차트용)
 python -m etl.validate            # 정합성 리포트
 
 # API 서버
@@ -66,7 +68,8 @@ npm run dev          # http://localhost:5173 (API 프록시 → :8000)
 - [x] **Phase 2** — H2H(서피스/tier/라운드 분해) + 기록(우승/결승) + 선수 프로필 + 검색
 - [x] **Phase 3** — 1000(ATP 1990~ 정규화) + 파이널스(Tour Finals 계보 통합) + 토너먼트 트리 대진표(국기·접기)
 - [x] **Phase 4+5** — ATP 500/250(2009~, 500 고정셋 큐레이션) + WTA 1000/500/250(2021~, level 코드) + 선수 상세 페이지(플레이스타일·서피스·등급별 커리어)
-- [ ] Phase 6~7 — 올림픽 대진/메달 화면, 다듬기 (`PROJECT_BRIEF.md §11`)
+- [x] **Phase 6** — 올림픽 메달(남녀 금은동·국기) + 에디션 목록
+- [x] **Phase 7** — 랭킹 추이 차트(Recharts), 헤더 선수 검색, 토너먼트 대진 연결선, 달력순 정렬
 
 ### 데이터 자동 갱신
 주간 스케줄러로 진행 시즌 CSV 재수신 + DB 재빌드:

@@ -35,6 +35,8 @@ try {
   & $py -m etl.build_db 2>&1 | Select-Object -Last 4 | Tee-Object -FilePath $log -Append
   Log "build_olympics..."
   & $py -m etl.build_olympics 2>&1 | Select-Object -Last 1 | Tee-Object -FilePath $log -Append
+  Log "build_rankings..."
+  & $py -m etl.build_rankings 2>&1 | Select-Object -Last 1 | Tee-Object -FilePath $log -Append
   Log "=== 업데이트 완료 ==="
 }
 catch {

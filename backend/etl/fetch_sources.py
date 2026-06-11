@@ -22,10 +22,13 @@ RAW_BASE = {
     "wta": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master",
 }
 
-# 선수 마스터 + 컬럼 사전 등 정적 파일
+# 선수 마스터 + 컬럼 사전 + 랭킹(연대별) 등 정적 파일
+_RANK_DECADES = ["70s", "80s", "90s", "00s", "10s", "20s", "current"]
 STATIC_FILES = {
-    "atp": ["atp_players.csv", "matches_data_dictionary.txt"],
-    "wta": ["wta_players.csv"],
+    "atp": ["atp_players.csv", "matches_data_dictionary.txt"]
+    + [f"atp_rankings_{d}.csv" for d in _RANK_DECADES],
+    "wta": ["wta_players.csv"]
+    + [f"wta_rankings_{d}.csv" for d in _RANK_DECADES],
 }
 
 # 연도별 매치 파일 패턴 (atp_matches_2023.csv / wta_matches_2023.csv)

@@ -4,6 +4,7 @@ PRAGMA foreign_keys = ON;
 DROP VIEW  IF EXISTS champions;
 DROP TABLE IF EXISTS match_sets;
 DROP TABLE IF EXISTS olympic_medals;
+DROP TABLE IF EXISTS player_rankings;
 DROP TABLE IF EXISTS matches;
 DROP TABLE IF EXISTS tournaments;
 DROP TABLE IF EXISTS players;
@@ -49,10 +50,18 @@ CREATE TABLE olympic_medals(
   PRIMARY KEY(tour, season, medal)
 );
 
+-- 시즌별 랭킹 요약 (build_rankings.py) — 연말 순위 + 시즌 최고 순위
+CREATE TABLE player_rankings(
+  tour TEXT, player_id INTEGER, season INTEGER,
+  year_end_rank INTEGER, best_rank INTEGER,
+  PRIMARY KEY(tour, player_id, season)
+);
+
 CREATE INDEX idx_m_tourney ON matches(tour, tourney_id);
 CREATE INDEX idx_m_winner  ON matches(tour, winner_id);
 CREATE INDEX idx_m_loser   ON matches(tour, loser_id);
 CREATE INDEX idx_t_tier    ON tournaments(tier, tour, season);
+CREATE INDEX idx_rank_player ON player_rankings(tour, player_id);
 
 CREATE VIEW champions AS
 SELECT t.tour, t.tourney_id, t.name, t.tier, t.season, t.surface,

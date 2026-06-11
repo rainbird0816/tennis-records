@@ -1,8 +1,9 @@
 import { useQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom";
 import { api } from "../api/client";
-import type { PlayerProfile, Title, Tour } from "../api/types";
-import { flagEmoji } from "../lib/flags";
+import type { PlayerProfile, RankingPoint, Title, Tour } from "../api/types";
+import Flag from "../components/Flag";
+import RankChart from "../components/RankChart";
 
 const TIER_LABEL: Record<string, string> = {
   GS: "그랜드슬램", "1000": "Masters 1000", FINALS: "Tour Finals",
@@ -32,6 +33,10 @@ export default function Player() {
     queryKey: ["player-titles", t, playerId],
     queryFn: () => api<{ titles: Title[] }>(`/players/${t}/${playerId}/titles`),
   });
+  const ranksQ = useQuery({
+    queryKey: ["player-rankings", t, playerId],
+    queryFn: () => api<{ rankings: RankingPoint[] }>(`/players/${t}/${playerId}/rankings`),
+  });
 
   if (isLoading) return <p className="text-neutral-400">불러오는 중…</p>;
   if (error || !data) return <p className="text-amber-700 text-sm">선수를 찾을 수 없습니다.</p>;
@@ -40,7 +45,6 @@ export default function Player() {
   const wins = data.record.wins ?? 0;
   const losses = data.record.losses ?? 0;
   const winPct = wins + losses ? ((wins / (wins + losses)) * 100).toFixed(1) : "—";
-  const flag = flagEmoji(p.ioc);
 
   // 우승 목록을 tier 별로 그룹
   const titlesByTier = new Map<string, Title[]>();
@@ -54,7 +58,9 @@ export default function Player() {
     <div className="space-y-8">
       {/* 헤더 */}
       <header className="flex items-start gap-4 flex-wrap">
-        <div className="text-5xl leading-none">{flag || "🎾"}</div>
+        <div className="leading-none">
+          <Flag ioc={p.ioc} className="h-12 w-[72px] rounded object-cover border" />
+        </div>
         <div>
           <h1 className="text-3xl font-bold">{p.full_name}</h1>
           <div className="text-sm text-neutral-500 mt-1 flex gap-3 flex-wrap">
@@ -97,6 +103,14 @@ export default function Player() {
           <p className="text-[0.7rem] text-neutral-400 mt-1">
             서브 스탯 보유 경기 {data.style.matches.toLocaleString()}개 기준 (1991+).
           </p>
+        </section>
+      )}
+
+      {/* 랭킹 추이 */}
+      {ranksQ.data && ranksQ.data.rankings.length > 0 && (
+        <section>
+          <h2 className="text-sm font-semibold mb-2">랭킹 추이</h2>
+          <RankChart data={ranksQ.data.rankings} />
         </section>
       )}
 

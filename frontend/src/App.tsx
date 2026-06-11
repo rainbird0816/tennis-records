@@ -1,4 +1,5 @@
-import { Link, Outlet } from "react-router-dom";
+import { Link, Outlet, useNavigate } from "react-router-dom";
+import SearchBar from "./components/SearchBar";
 
 const NAV = [
   { to: "/category/GS", label: "Grand Slam" },
@@ -10,10 +11,11 @@ const NAV = [
 ];
 
 export default function App() {
+  const navigate = useNavigate();
   return (
     <div className="min-h-screen flex flex-col">
       <header className="bg-court text-white">
-        <div className="mx-auto max-w-6xl px-4 py-3 flex items-center gap-6">
+        <div className="mx-auto max-w-6xl px-4 py-3 flex items-center gap-4 flex-wrap">
           <Link to="/" className="font-bold text-lg tracking-tight">
             🎾 tennis-records
           </Link>
@@ -24,10 +26,15 @@ export default function App() {
               </Link>
             ))}
           </nav>
-          <div className="ml-auto flex gap-4 text-sm">
+          <div className="ml-auto flex items-center gap-4 text-sm">
             <Link to="/h2h" className="hover:underline">H2H</Link>
             <Link to="/records/GS" className="hover:underline">기록</Link>
-            <Link to="/search" className="hover:underline">검색</Link>
+            <div className="w-44 text-neutral-900">
+              <SearchBar
+                placeholder="선수 검색…"
+                onSelect={(p) => navigate(`/player/${p.tour}/${p.player_id}`)}
+              />
+            </div>
           </div>
         </div>
       </header>

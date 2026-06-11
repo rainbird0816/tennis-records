@@ -151,6 +151,7 @@ export interface Series {
   last_season: number;
   latest_champion: LatestChampion | null;
   cal_mmdd?: string;
+  active?: boolean;
 }
 
 export interface OlympicEdition {

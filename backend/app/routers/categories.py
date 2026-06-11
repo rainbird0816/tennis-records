@@ -66,9 +66,21 @@ def category_detail(
         sd = s.get("latest_start_date") or ""
         return sd[4:8] if len(sd) >= 8 else "9999"  # MMDD, 없으면 뒤로
 
+    # 진행/폐지 구분: 최근 시즌(데이터 최신 -2년) 이후 개최면 현행, 아니면 폐지.
+    max_last = max((s["last_season"] for s in series), default=0)
+    active_floor = max_last - 2
+
     for s in series:
         s["cal_mmdd"] = cal_key(s)
-    series.sort(key=cal_key)
+        s["active"] = s["last_season"] >= active_floor
+
+    # 현행(달력순) 먼저, 폐지(최근 폐지순) 나중.
+    def sort_key(s: dict):
+        if s["active"]:
+            return (0, cal_key(s), 0)
+        return (1, "", -s["last_season"])
+
+    series.sort(key=sort_key)
 
     # 시리즈별 최신 우승자 (§9.2). OLYMPICS 는 champions 뷰에 없어 비어 있음.
     latest: dict[str, dict] = {}

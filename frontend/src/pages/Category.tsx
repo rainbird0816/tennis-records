@@ -68,28 +68,66 @@ export default function Category() {
         </p>
       )}
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {data?.series.map((s) => (
-          <Link
-            key={s.name}
-            to={`/series/${encodeURIComponent(s.name)}?tour=${tour}`}
-            className="rounded-xl border bg-white p-4 hover:shadow-md transition"
-          >
-            <div className="font-semibold">{s.name}</div>
-            <div className="text-xs text-neutral-500 mt-0.5">
-              {s.first_season}–{s.last_season} · {s.seasons}회 개최
+      {(() => {
+        const active = data?.series.filter((s) => s.active) ?? [];
+        const defunct = data?.series.filter((s) => !s.active) ?? [];
+        return (
+          <>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {active.map((s) => (
+                <SeriesCard key={s.name} s={s} tour={tour} />
+              ))}
             </div>
-            {s.latest_champion && (
-              <div className="mt-3 text-sm">
-                <span className="text-neutral-400 text-xs">{s.latest_champion.season} 우승</span>
-                <div className="font-medium text-court">
-                  {s.latest_champion.champion_name ?? `#${s.latest_champion.champion_id}`}
+
+            {defunct.length > 0 && (
+              <section className="mt-8">
+                <h2 className="text-sm font-semibold text-neutral-500 mb-3 flex items-center gap-2">
+                  <span className="h-px flex-1 bg-neutral-200" />
+                  폐지된 대회 ({defunct.length})
+                  <span className="h-px flex-1 bg-neutral-200" />
+                </h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {defunct.map((s) => (
+                    <SeriesCard key={s.name} s={s} tour={tour} defunct />
+                  ))}
                 </div>
-              </div>
+              </section>
             )}
-          </Link>
-        ))}
-      </div>
+          </>
+        );
+      })()}
     </div>
+  );
+}
+
+function SeriesCard({ s, tour, defunct }: { s: Series; tour: Tour; defunct?: boolean }) {
+  return (
+    <Link
+      to={`/series/${encodeURIComponent(s.name)}?tour=${tour}`}
+      className={`rounded-xl border p-4 hover:shadow-md transition ${
+        defunct ? "bg-neutral-50 opacity-80 hover:opacity-100" : "bg-white"
+      }`}
+    >
+      <div className="flex items-center gap-2">
+        <span className={`font-semibold ${defunct ? "text-neutral-600" : ""}`}>{s.name}</span>
+        {defunct && (
+          <span className="text-[0.65rem] rounded bg-neutral-200 text-neutral-600 px-1.5 py-0.5">폐지</span>
+        )}
+      </div>
+      <div className="text-xs text-neutral-500 mt-0.5">
+        {s.first_season}–{s.last_season} · {s.seasons}회 개최
+      </div>
+      {s.latest_champion && (
+        <div className="mt-3 text-sm">
+          <span className="text-neutral-400 text-xs">
+            {defunct ? "마지막 우승" : `${s.latest_champion.season} 우승`}
+          </span>
+          <div className={`font-medium ${defunct ? "text-neutral-600" : "text-court"}`}>
+            {s.latest_champion.champion_name ?? `#${s.latest_champion.champion_id}`}
+            {defunct && <span className="text-neutral-400 text-xs ml-1">({s.latest_champion.season})</span>}
+          </div>
+        </div>
+      )}
+    </Link>
   );
 }

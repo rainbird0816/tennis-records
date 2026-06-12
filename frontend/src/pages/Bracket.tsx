@@ -4,18 +4,18 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import { api } from "../api/client";
 import type { MatchRow, TournamentDetail, Tour } from "../api/types";
 import PlayerLabel from "../components/PlayerLabel";
-import { fmtDate } from "../lib/format";
+import { fmtDateRange } from "../lib/format";
 
 const ROUND_LABEL: Record<string, string> = {
   RR: "라운드 로빈", R128: "128강", R64: "64강", R32: "32강", R16: "16강",
   QF: "8강", SF: "4강", BR: "동메달", F: "결승",
 };
 
-const PER_MATCH = 56; // 매치 카드 슬롯 높이(px)
+const PER_MATCH = 84; // 매치 카드 슬롯 높이(px) — 카드 실제 높이(~72)보다 커야 겹치지 않음
 const STUB = 16;      // 커넥터 가로 선 길이(px)
 
 /** 한 경기 카드 — 승자 강조, 국기 + IOC + 이름. */
-function MatchCard({ m }: { m: MatchRow }) {
+function MatchCard({ m, champion }: { m: MatchRow; champion?: boolean }) {
   return (
     <Link
       to={`/match/${m.match_id}`}
@@ -23,7 +23,9 @@ function MatchCard({ m }: { m: MatchRow }) {
     >
       <div className="flex items-center justify-between px-2 py-1 border-l-2 border-court bg-court/5">
         <PlayerLabel name={m.winner_name} ioc={m.winner_ioc} id={m.winner_id} seed={m.winner_seed} className="font-semibold text-neutral-800 max-w-[150px]" />
-        <span className="font-mono text-[0.7rem] text-court font-semibold shrink-0 ml-1">승</span>
+        <span className="shrink-0 ml-1 rounded bg-court/10 text-court text-[0.6rem] font-bold uppercase tracking-wide px-1 py-px">
+          {champion ? "🏆 Winner" : "Winner"}
+        </span>
       </div>
       <div className="flex items-center justify-between px-2 py-1 border-l-2 border-transparent text-neutral-500">
         <PlayerLabel name={m.loser_name} ioc={m.loser_ioc} id={m.loser_id} seed={m.loser_seed} className="max-w-[150px]" />
@@ -83,8 +85,10 @@ export default function Bracket() {
         {data?.tournament.surface && (
           <span className="text-xs rounded bg-neutral-200 px-2 py-0.5">{data.tournament.surface}</span>
         )}
-        {data && fmtDate(data.tournament.start_date) && (
-          <span className="text-xs text-neutral-400">{fmtDate(data.tournament.start_date)}</span>
+        {data && fmtDateRange(data.tournament.start_date, data.tournament.tier, data.tournament.draw_size) && (
+          <span className="text-xs text-neutral-400">
+            {fmtDateRange(data.tournament.start_date, data.tournament.tier, data.tournament.draw_size)}
+          </span>
         )}
         {data?.tournament.draw_size && (
           <span className="text-xs text-neutral-400">드로 {data.tournament.draw_size}</span>
@@ -134,7 +138,7 @@ export default function Bracket() {
                   </div>
                   {col.matches.map((m, i) => (
                     <div key={m.match_id} className="relative">
-                      <MatchCard m={m} />
+                      <MatchCard m={m} champion={col.round === "F"} />
                       {/* 들어오는 가로 스텁 (왼쪽) */}
                       {!isFirst && (
                         <span

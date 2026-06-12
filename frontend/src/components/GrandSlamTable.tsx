@@ -10,17 +10,20 @@ const SLAM_ABBR: Record<string, string> = {
   "US Open": "US오픈",
 };
 
-/** 셀 코드 → 색상 클래스 (성적이 좋을수록 진하게). */
+/** 셀 코드 → 표시 라벨 (F 는 Runner-up 으로). */
+const CODE_LABEL: Record<string, string> = { F: "Runner-up" };
+
+/** 셀 코드 → 색상 클래스 — 트로피 톤(우승 골드 / 준우승 실버 / 4강 브론즈). */
 function cellClass(code: string): string {
   switch (code) {
     case "W":
-      return "bg-court text-white font-bold";
+      return "bg-yellow-300 text-yellow-900 font-bold"; // 골드
     case "F":
-      return "bg-court/30 text-court font-semibold";
+      return "bg-slate-300 text-slate-700 font-semibold"; // 실버(준우승)
     case "SF":
-      return "bg-court/15 text-court font-medium";
+      return "bg-orange-200 text-orange-900 font-medium"; // 브론즈
     case "QF":
-      return "bg-court/5 text-neutral-700";
+      return "bg-orange-50 text-orange-700"; // 아주 연한 강조
     default:
       return "text-neutral-500"; // 4R/3R/2R/1R
   }
@@ -28,10 +31,28 @@ function cellClass(code: string): string {
 
 /** 선수 상세용 연도별 그랜드슬램 성적표 (GS 16강 이상 진출자만 표시). */
 export default function GrandSlamTable({ tour, playerId }: { tour: Tour; playerId: string }) {
-  const { data, isLoading } = useQuery({
+  const { data, isLoading, isError, refetch } = useQuery({
     queryKey: ["player-grand-slams", tour, playerId],
     queryFn: () => api<GrandSlamTimeline>(`/players/${tour}/${playerId}/grand-slams`),
   });
+
+  // API 연결 실패: 자격 여부를 알 수 없으므로 조용히 숨기지 않고 재시도 안내.
+  if (isError) {
+    return (
+      <section>
+        <h2 className="text-sm font-semibold mb-2">연도별 그랜드슬램</h2>
+        <div className="rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800 flex items-center gap-3">
+          <span>기록을 불러오지 못했습니다. (API 연결 실패)</span>
+          <button
+            onClick={() => refetch()}
+            className="rounded border border-amber-300 bg-white px-2 py-0.5 text-xs font-medium hover:bg-amber-100"
+          >
+            다시 시도
+          </button>
+        </div>
+      </section>
+    );
+  }
 
   if (isLoading || !data?.available || !data.results || !data.slams) return null;
 
@@ -76,8 +97,8 @@ export default function GrandSlamTable({ tour, playerId }: { tour: Tour; playerI
                   return (
                     <td key={s} className="px-1.5 py-1 text-center">
                       {code ? (
-                        <span className={`inline-block min-w-[2.2rem] rounded px-1.5 py-0.5 text-xs tabular-nums ${cellClass(code)}`}>
-                          {code}
+                        <span className={`inline-block min-w-[2.2rem] whitespace-nowrap rounded px-1.5 py-0.5 text-xs ${cellClass(code)}`}>
+                          {CODE_LABEL[code] ?? code}
                         </span>
                       ) : (
                         <span className="text-neutral-200">·</span>
@@ -105,7 +126,7 @@ export default function GrandSlamTable({ tour, playerId }: { tour: Tour; playerI
         </table>
       </div>
       <p className="text-[0.7rem] text-neutral-400 mt-1">
-        W 우승 · F 결승 · SF 4강 · QF 8강 · 4R 16강 · 3R 32강 · 2R 64강 · 1R 1회전 (빈칸=불참)
+        W 우승 · Runner-up 준우승 · SF 4강 · QF 8강 · 4R 16강 · 3R 32강 · 2R 64강 · 1R 1회전 (빈칸=불참)
       </p>
     </section>
   );

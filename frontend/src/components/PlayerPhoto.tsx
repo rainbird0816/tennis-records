@@ -45,7 +45,7 @@ export default function PlayerPhoto({ wikidataId, name, ioc }: Props) {
         alt={name}
         onError={() => setErrored(true)}
         loading="lazy"
-        className="h-28 w-24 rounded-lg object-cover border bg-neutral-100"
+        className="h-28 w-24 rounded-lg object-cover object-top border bg-neutral-100"
       />
     );
   }

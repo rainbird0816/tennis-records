@@ -98,7 +98,7 @@ export default function Player() {
           <div className="grid grid-cols-3 sm:grid-cols-6 gap-2">
             <StatBox label="에이스율" value={data.style.ace_pct} />
             <StatBox label="더블폴트율" value={data.style.df_pct} />
-            <StatBox label="1st 인率" value={data.style.first_in_pct} />
+            <StatBox label="1st 서브 성공률" value={data.style.first_in_pct} />
             <StatBox label="1st 득점" value={data.style.first_win_pct} />
             <StatBox label="2nd 득점" value={data.style.second_win_pct} />
             <StatBox label="BP 세이브" value={data.style.bp_saved_pct} />
@@ -116,9 +116,6 @@ export default function Player() {
           <RankChart data={ranksQ.data.rankings} />
         </section>
       )}
-
-      {/* 연도별 그랜드슬램 (GS 16강 이상 진출자만 노출) */}
-      <GrandSlamTable tour={t} playerId={playerId} />
 
       {/* 서피스별 승률 */}
       {data.by_surface.length > 0 && (
@@ -171,6 +168,9 @@ export default function Player() {
           <p className="text-[0.7rem] text-neutral-400 mt-1">WTA 1000/500/250 타이틀은 2021년 이후만 집계됩니다.</p>
         )}
       </section>
+
+      {/* 연도별 그랜드슬램 (GS 16강 이상 진출자만 노출) */}
+      <GrandSlamTable tour={t} playerId={playerId} />
 
       {/* 우승 목록 (tier별 그룹) */}
       <section>

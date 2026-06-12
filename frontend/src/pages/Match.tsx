@@ -6,6 +6,7 @@ import SetScoreboard from "../components/SetScoreboard";
 import StatCompareBar from "../components/StatCompareBar";
 import Flag from "../components/Flag";
 import { fmtDate, nameWithIoc, seedSuffix } from "../lib/format";
+import { matchAnalysis } from "../lib/matchAnalysis";
 
 /** /match/:matchId — Tier 1 매치 디테일 (§8). */
 export default function Match() {
@@ -23,6 +24,7 @@ export default function Match() {
   const wName = nameWithIoc(data.winner_name, data.winner_ioc, data.winner_id) + seedSuffix(data.winner_seed);
   const lName = nameWithIoc(data.loser_name, data.loser_ioc, data.loser_id) + seedSuffix(data.loser_seed);
   const date = fmtDate(data.start_date);
+  const analysis = matchAnalysis(data);
 
   return (
     <div className="space-y-6 max-w-2xl">
@@ -46,6 +48,21 @@ export default function Match() {
       </header>
 
       <SetScoreboard sets={data.sets} winnerName={wName} loserName={lName} outcome={data.outcome} />
+
+      {analysis.length > 0 && (
+        <section className="rounded-lg border bg-white p-4">
+          <h2 className="text-sm font-semibold mb-2">경기 분석</h2>
+          <ul className="space-y-1.5">
+            {analysis.map((line, i) => (
+              <li key={i} className="flex gap-2 text-sm text-neutral-700">
+                <span className="text-court shrink-0">·</span>
+                <span>{line}</span>
+              </li>
+            ))}
+          </ul>
+          <p className="text-[0.7rem] text-neutral-400 mt-2">세트 스코어·스탯·랭킹에서 자동 도출한 코멘트입니다.</p>
+        </section>
+      )}
 
       {data.has_stats && data.stats ? (
         <section className="rounded-lg border bg-white p-4">

@@ -249,6 +249,8 @@ export interface Champion {
   runnerup_name: string | null;
   score: string | null;
   start_date: string | null;
+  tier?: Tier;
+  draw_size?: number | null;
 }
 
 export interface MatchRow {

@@ -70,7 +70,7 @@ def series_champions(
         """
         SELECT c.season, c.name, c.surface, c.tourney_id,
                c.champion_id, c.runnerup_id, c.score,
-               t.start_date,
+               t.start_date, t.tier, t.draw_size,
                wp.full_name AS champion_name, lp.full_name AS runnerup_name
         FROM champions c
         JOIN tournaments t ON t.tour = c.tour AND t.tourney_id = c.tourney_id

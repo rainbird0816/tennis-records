@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 100169,
+  "full_name": "Ian Fletcher",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "3R"
+    },
+    "1969": {
+      "Australian Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1972": {
+      "Wimbledon": "4R",
+      "Roland Garros": "4R"
+    },
+    "1973": {
+      "Roland Garros": "1R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    }
+  }
+}

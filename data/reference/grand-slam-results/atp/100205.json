@@ -1,0 +1,47 @@
+{
+  "tour": "atp",
+  "player_id": 100205,
+  "full_name": "Paul Gerken",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "3R"
+    },
+    "1969": {
+      "US Open": "1R"
+    },
+    "1970": {
+      "US Open": "2R"
+    },
+    "1971": {
+      "US Open": "2R"
+    },
+    "1972": {
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "US Open": "2R"
+    }
+  }
+}

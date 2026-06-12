@@ -1,0 +1,48 @@
+{
+  "tour": "atp",
+  "player_id": 122298,
+  "full_name": "Botic Van De Zandschulp",
+  "ioc": "NED",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2021": {
+      "US Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "1R"
+    },
+    "2022": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "2023": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "2025": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    }
+  }
+}

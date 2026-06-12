@@ -1,0 +1,32 @@
+{
+  "tour": "wta",
+  "player_id": 222661,
+  "full_name": "Sonay Kartal",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Wimbledon": "1R"
+    },
+    "2023": {
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Wimbledon": "3R"
+    },
+    "2025": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tour": "atp",
+  "player_id": 101481,
+  "full_name": "Omar Camporese",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "Australian Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R"
+    },
+    "1992": {
+      "US Open": "3R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tour": "wta",
+  "player_id": 200398,
+  "full_name": "Iva Budarova",
+  "ioc": "TCH",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Roland Garros": "3R"
+    },
+    "1979": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "3R",
+      "US Open": "2R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1990": {
+      "Roland Garros": "2R"
+    }
+  }
+}

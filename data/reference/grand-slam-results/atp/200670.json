@@ -1,0 +1,30 @@
+{
+  "tour": "atp",
+  "player_id": 200670,
+  "full_name": "J J Wolf",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2020": {
+      "US Open": "3R"
+    },
+    "2022": {
+      "US Open": "3R"
+    },
+    "2023": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

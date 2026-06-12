@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200388,
+  "full_name": "Leslie Allen",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "Roland Garros": "4R",
+      "US Open": "3R"
+    },
+    "1980": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "US Open": "2R"
+    }
+  }
+}

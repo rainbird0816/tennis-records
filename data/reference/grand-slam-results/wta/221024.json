@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 221024,
+  "full_name": "Hailey Baptiste",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2020": {
+      "US Open": "1R"
+    },
+    "2021": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2022": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "Roland Garros": "2R"
+    },
+    "2025": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R"
+    }
+  }
+}

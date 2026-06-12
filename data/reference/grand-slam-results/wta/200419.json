@@ -1,0 +1,91 @@
+{
+  "tour": "wta",
+  "player_id": 200419,
+  "full_name": "Kathy Rinaldi Stunkel",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "1983": {
+      "Wimbledon": "4R",
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "US Open": "2R",
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Wimbledon": "SF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "3R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "1R"
+    },
+    "1995": {
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

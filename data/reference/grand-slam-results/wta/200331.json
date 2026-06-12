@@ -1,0 +1,49 @@
+{
+  "tour": "wta",
+  "player_id": 200331,
+  "full_name": "Kim Sands",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Australian Open": "4R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "2R"
+    },
+    "1986": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

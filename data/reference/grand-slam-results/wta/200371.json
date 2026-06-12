@@ -1,0 +1,86 @@
+{
+  "tour": "wta",
+  "player_id": 200371,
+  "full_name": "Mima Jausovec",
+  "ioc": "SLO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "US Open": "SF",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "1977": {
+      "US Open": "QF",
+      "Wimbledon": "3R",
+      "Roland Garros": "W"
+    },
+    "1978": {
+      "Roland Garros": "F",
+      "Wimbledon": "QF",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Australian Open": "SF",
+      "US Open": "QF",
+      "Roland Garros": "4R"
+    },
+    "1981": {
+      "Australian Open": "4R",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Roland Garros": "F",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1984": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1985": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Australian Open": "1R"
+    }
+  }
+}

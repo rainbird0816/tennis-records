@@ -1,0 +1,37 @@
+{
+  "tour": "wta",
+  "player_id": 200758,
+  "full_name": "Rayni Fox",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "US Open": "2R"
+    },
+    "1974": {
+      "US Open": "2R"
+    },
+    "1976": {
+      "US Open": "1R"
+    },
+    "1977": {
+      "Australian Open": "QF",
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1979": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "2R"
+    }
+  }
+}

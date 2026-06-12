@@ -1,0 +1,58 @@
+{
+  "tour": "wta",
+  "player_id": 201620,
+  "full_name": "Monica Puig",
+  "ioc": "PUR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2013": {
+      "Roland Garros": "3R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2015": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2017": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2018": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2019": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "US Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

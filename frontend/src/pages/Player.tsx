@@ -5,6 +5,7 @@ import type { PlayerProfile, RankingPoint, Title, Tour } from "../api/types";
 import Flag from "../components/Flag";
 import PlayerPhoto from "../components/PlayerPhoto";
 import RankChart from "../components/RankChart";
+import GrandSlamTable from "../components/GrandSlamTable";
 
 const TIER_LABEL: Record<string, string> = {
   GS: "그랜드슬램", "1000": "Masters 1000", FINALS: "Tour Finals",
@@ -115,6 +116,9 @@ export default function Player() {
           <RankChart data={ranksQ.data.rankings} />
         </section>
       )}
+
+      {/* 연도별 그랜드슬램 (GS 16강 이상 진출자만 노출) */}
+      <GrandSlamTable tour={t} playerId={playerId} />
 
       {/* 서피스별 승률 */}
       {data.by_surface.length > 0 && (

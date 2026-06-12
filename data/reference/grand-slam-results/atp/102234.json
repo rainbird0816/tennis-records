@@ -1,0 +1,35 @@
+{
+  "tour": "atp",
+  "player_id": 102234,
+  "full_name": "Oliver Gross",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1994": {
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R"
+    },
+    "1997": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "US Open": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

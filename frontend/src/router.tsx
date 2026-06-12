@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
 import Home from "./pages/Home";
 import Category from "./pages/Category";
+import Overview from "./pages/Overview";
 import Series from "./pages/Series";
 import Bracket from "./pages/Bracket";
 import Olympics from "./pages/Olympics";
@@ -19,6 +20,7 @@ export const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: "category/:tier", element: <Category /> },
+      { path: "overview/:tier", element: <Overview /> },
       { path: "series/:slug", element: <Series /> },
       { path: "series/:slug/:season", element: <Bracket /> },
       { path: "olympics/:season", element: <Olympics /> },

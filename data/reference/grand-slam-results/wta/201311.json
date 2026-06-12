@@ -1,0 +1,98 @@
+{
+  "tour": "wta",
+  "player_id": 201311,
+  "full_name": "Roberta Vinci",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "US Open": "1R"
+    },
+    "2002": {
+      "Wimbledon": "1R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2007": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "2012": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "QF"
+    },
+    "2013": {
+      "Roland Garros": "4R",
+      "Australian Open": "3R",
+      "Wimbledon": "4R",
+      "US Open": "QF"
+    },
+    "2014": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2015": {
+      "US Open": "F",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2016": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Australian Open": "3R"
+    },
+    "2017": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

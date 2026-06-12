@@ -1,0 +1,35 @@
+{
+  "tour": "wta",
+  "player_id": 200282,
+  "full_name": "Jenny Dimond",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Australian Open": "2R"
+    },
+    "1975": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Australian Open": "3R"
+    },
+    "1979": {
+      "Australian Open": "3R"
+    }
+  }
+}

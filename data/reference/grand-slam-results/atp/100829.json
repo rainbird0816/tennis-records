@@ -1,0 +1,60 @@
+{
+  "tour": "atp",
+  "player_id": 100829,
+  "full_name": "Jan Gunnarsson",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Roland Garros": "2R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1988": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1989": {
+      "Australian Open": "SF",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    }
+  }
+}

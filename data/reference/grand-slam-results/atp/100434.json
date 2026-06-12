@@ -1,0 +1,75 @@
+{
+  "tour": "atp",
+  "player_id": 100434,
+  "full_name": "Tomas Smid",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "Roland Garros": "2R"
+    },
+    "1977": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Roland Garros": "2R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1982": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R"
+    },
+    "1983": {
+      "US Open": "2R",
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Wimbledon": "QF",
+      "US Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1985": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "4R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

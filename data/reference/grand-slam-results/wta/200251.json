@@ -1,0 +1,53 @@
+{
+  "tour": "wta",
+  "player_id": 200251,
+  "full_name": "Kazuko Sawamatsu",
+  "ioc": "JPN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "1972": {
+      "Australian Open": "SF",
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1973": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1974": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Roland Garros": "QF",
+      "Wimbledon": "3R",
+      "US Open": "QF"
+    }
+  }
+}

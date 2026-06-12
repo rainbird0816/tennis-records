@@ -1,0 +1,86 @@
+{
+  "tour": "wta",
+  "player_id": 211701,
+  "full_name": "Katerina Siniakova",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2014": {
+      "Australian Open": "1R"
+    },
+    "2015": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2018": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "2019": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2021": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2022": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2023": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    }
+  }
+}

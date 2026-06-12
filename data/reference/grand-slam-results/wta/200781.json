@@ -1,0 +1,21 @@
+{
+  "tour": "wta",
+  "player_id": 200781,
+  "full_name": "Edda Buding",
+  "ioc": "FRG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R",
+      "Roland Garros": "4R"
+    },
+    "1971": {
+      "US Open": "2R"
+    }
+  }
+}

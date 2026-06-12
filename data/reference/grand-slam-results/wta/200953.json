@@ -1,0 +1,26 @@
+{
+  "tour": "wta",
+  "player_id": 200953,
+  "full_name": "Viviana Gonzalez",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Roland Garros": "3R"
+    },
+    "1978": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    }
+  }
+}

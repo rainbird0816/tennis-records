@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 100163,
+  "full_name": "Tom Leonard",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "1R"
+    },
+    "1969": {
+      "US Open": "2R"
+    },
+    "1970": {
+      "US Open": "1R"
+    },
+    "1971": {
+      "US Open": "3R"
+    },
+    "1972": {
+      "US Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "US Open": "1R"
+    },
+    "1980": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

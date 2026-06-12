@@ -1,0 +1,35 @@
+{
+  "tour": "wta",
+  "player_id": 201113,
+  "full_name": "Shirley Bloomer",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R"
+    },
+    "1969": {
+      "Wimbledon": "2R"
+    },
+    "1970": {
+      "Wimbledon": "3R"
+    },
+    "1971": {
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Wimbledon": "2R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Wimbledon": "2R"
+    }
+  }
+}

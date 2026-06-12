@@ -1,0 +1,91 @@
+{
+  "tour": "atp",
+  "player_id": 102450,
+  "full_name": "Tim Henman",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1994": {
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Wimbledon": "QF",
+      "Australian Open": "2R",
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1997": {
+      "Wimbledon": "QF",
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Wimbledon": "SF",
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1999": {
+      "Wimbledon": "SF",
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "2001": {
+      "Wimbledon": "SF",
+      "Australian Open": "4R",
+      "US Open": "3R",
+      "Roland Garros": "3R"
+    },
+    "2002": {
+      "US Open": "3R",
+      "Wimbledon": "SF",
+      "Australian Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "2003": {
+      "Roland Garros": "3R",
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "2004": {
+      "US Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "SF",
+      "Australian Open": "3R"
+    },
+    "2005": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2006": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    }
+  }
+}

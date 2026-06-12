@@ -1,0 +1,80 @@
+{
+  "tour": "wta",
+  "player_id": 201331,
+  "full_name": "Iveta Benesova",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2002": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2005": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2007": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2009": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2011": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Roland Garros": "1R"
+    }
+  }
+}

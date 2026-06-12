@@ -1,0 +1,86 @@
+{
+  "tour": "atp",
+  "player_id": 102202,
+  "full_name": "Kenneth Carlsen",
+  "ioc": "DEN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1993": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "2R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1996": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2001": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

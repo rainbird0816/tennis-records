@@ -1,0 +1,99 @@
+{
+  "tour": "wta",
+  "player_id": 200283,
+  "full_name": "Pam Teeguarden",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "2R"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1970": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "Roland Garros": "3R",
+      "US Open": "QF",
+      "Wimbledon": "4R"
+    },
+    "1973": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "4R",
+      "US Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Roland Garros": "4R",
+      "US Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1981": {
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1984": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "1R"
+    }
+  }
+}

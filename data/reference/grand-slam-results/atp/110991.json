@@ -1,0 +1,36 @@
+{
+  "tour": "atp",
+  "player_id": 110991,
+  "full_name": "Jaidip Mukerjea",
+  "ioc": "IND",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "US Open": "1R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1971": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1972": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Wimbledon": "4R"
+    }
+  }
+}

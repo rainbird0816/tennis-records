@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 200661,
+  "full_name": "Samantha Smith",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2000": {
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tour": "atp",
+  "player_id": 100208,
+  "full_name": "Dick Bohrnstedt",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "US Open": "1R"
+    },
+    "1976": {
+      "US Open": "1R"
+    },
+    "1977": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Australian Open": "2R"
+    }
+  }
+}

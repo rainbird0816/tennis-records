@@ -1,0 +1,38 @@
+{
+  "tour": "atp",
+  "player_id": 104548,
+  "full_name": "Brian Baker",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2003": {
+      "US Open": "1R"
+    },
+    "2004": {
+      "US Open": "1R"
+    },
+    "2005": {
+      "US Open": "2R"
+    },
+    "2012": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "2013": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

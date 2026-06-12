@@ -1,0 +1,52 @@
+{
+  "tour": "wta",
+  "player_id": 201587,
+  "full_name": "Bojana Jovanovski",
+  "ioc": "SRB",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2010": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2013": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "2014": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2016": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

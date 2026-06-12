@@ -1,0 +1,36 @@
+{
+  "tour": "atp",
+  "player_id": 100125,
+  "full_name": "John Cooper",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "US Open": "3R",
+      "Australian Open": "3R"
+    },
+    "1971": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1973": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    }
+  }
+}

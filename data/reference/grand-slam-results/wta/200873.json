@@ -1,0 +1,39 @@
+{
+  "tour": "wta",
+  "player_id": 200873,
+  "full_name": "Ana Maria Arias",
+  "ioc": "CHI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "US Open": "2R",
+      "Wimbledon": "1R",
+      "Roland Garros": "1R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Roland Garros": "2R"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "tour": "atp",
+  "player_id": 101035,
+  "full_name": "Menno Oosting",
+  "ioc": "NED",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "Australian Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Australian Open": "1R"
+    }
+  }
+}

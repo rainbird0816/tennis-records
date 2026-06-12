@@ -1,0 +1,25 @@
+{
+  "tour": "wta",
+  "player_id": 200810,
+  "full_name": "Annette Van Zyl",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "SF",
+      "Wimbledon": "2R"
+    },
+    "1970": {
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "tour": "atp",
+  "player_id": 103498,
+  "full_name": "Marat Safin",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "US Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "4R"
+    },
+    "2000": {
+      "US Open": "W",
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "SF",
+      "Australian Open": "4R"
+    },
+    "2002": {
+      "Wimbledon": "2R",
+      "Australian Open": "F",
+      "US Open": "2R",
+      "Roland Garros": "SF"
+    },
+    "2003": {
+      "Australian Open": "3R"
+    },
+    "2004": {
+      "Australian Open": "F",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Australian Open": "W",
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "2006": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "4R"
+    },
+    "2007": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "2008": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "SF",
+      "Australian Open": "2R"
+    },
+    "2009": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    }
+  }
+}

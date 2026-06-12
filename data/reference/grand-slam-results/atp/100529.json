@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 100529,
+  "full_name": "Kevin Curren",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "US Open": "2R"
+    },
+    "1979": {
+      "US Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "4R",
+      "Australian Open": "4R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "US Open": "4R"
+    },
+    "1982": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Wimbledon": "SF"
+    },
+    "1984": {
+      "Australian Open": "F",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1985": {
+      "Wimbledon": "F",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1988": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1989": {
+      "Wimbledon": "3R"
+    },
+    "1990": {
+      "Wimbledon": "QF",
+      "US Open": "4R"
+    },
+    "1991": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

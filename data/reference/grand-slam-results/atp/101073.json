@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 101073,
+  "full_name": "Martin Jaite",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "3R"
+    },
+    "1985": {
+      "Roland Garros": "QF",
+      "US Open": "3R"
+    },
+    "1986": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "1990": {
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1991": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    }
+  }
+}

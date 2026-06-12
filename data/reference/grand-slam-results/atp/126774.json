@@ -1,0 +1,69 @@
+{
+  "tour": "atp",
+  "player_id": 126774,
+  "full_name": "Stefanos Tsitsipas",
+  "ioc": "GRE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2017": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2018": {
+      "US Open": "2R",
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "Australian Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2020": {
+      "Australian Open": "3R",
+      "Roland Garros": "SF",
+      "US Open": "3R"
+    },
+    "2021": {
+      "Roland Garros": "F",
+      "Australian Open": "SF",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "2022": {
+      "Australian Open": "SF",
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Roland Garros": "QF",
+      "Australian Open": "F"
+    },
+    "2024": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "Australian Open": "4R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R"
+    }
+  }
+}

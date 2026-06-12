@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 100417,
+  "full_name": "Hans Gildemeister",
+  "ioc": "CHI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "US Open": "1R"
+    },
+    "1977": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Roland Garros": "QF"
+    },
+    "1979": {
+      "Roland Garros": "QF"
+    },
+    "1980": {
+      "Roland Garros": "QF"
+    },
+    "1981": {
+      "Roland Garros": "2R"
+    },
+    "1982": {
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Roland Garros": "3R"
+    },
+    "1984": {
+      "Roland Garros": "3R"
+    },
+    "1985": {
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

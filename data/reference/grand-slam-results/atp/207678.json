@@ -1,0 +1,28 @@
+{
+  "tour": "atp",
+  "player_id": 207678,
+  "full_name": "Juan Manuel Cerundolo",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Australian Open": "1R"
+    },
+    "2023": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "Roland Garros": "2R"
+    },
+    "2026": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R"
+    }
+  }
+}

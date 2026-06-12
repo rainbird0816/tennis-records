@@ -1,0 +1,18 @@
+{
+  "tour": "atp",
+  "player_id": 209857,
+  "full_name": "Leandro Riedi",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2025": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    }
+  }
+}

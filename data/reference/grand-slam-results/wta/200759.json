@@ -1,0 +1,54 @@
+{
+  "tour": "wta",
+  "player_id": 200759,
+  "full_name": "Katja Ebbinghaus",
+  "ioc": "FRG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Roland Garros": "2R"
+    },
+    "1970": {
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1972": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Roland Garros": "QF",
+      "US Open": "4R"
+    },
+    "1975": {
+      "US Open": "QF",
+      "Roland Garros": "2R"
+    },
+    "1977": {
+      "Wimbledon": "3R",
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "US Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "1R"
+    }
+  }
+}

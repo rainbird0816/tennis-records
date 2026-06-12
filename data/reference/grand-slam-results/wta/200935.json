@@ -1,0 +1,37 @@
+{
+  "tour": "wta",
+  "player_id": 200935,
+  "full_name": "Florenta Mihai",
+  "ioc": "ROU",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Roland Garros": "2R"
+    },
+    "1976": {
+      "Roland Garros": "SF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "F",
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "US Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "1R"
+    }
+  }
+}

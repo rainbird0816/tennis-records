@@ -1,0 +1,79 @@
+{
+  "tour": "atp",
+  "player_id": 100229,
+  "full_name": "Dick Stockton",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "2R"
+    },
+    "1969": {
+      "US Open": "1R"
+    },
+    "1970": {
+      "US Open": "2R"
+    },
+    "1971": {
+      "US Open": "2R"
+    },
+    "1972": {
+      "US Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1973": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "Wimbledon": "SF",
+      "US Open": "3R"
+    },
+    "1975": {
+      "US Open": "3R"
+    },
+    "1976": {
+      "US Open": "QF",
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Wimbledon": "4R",
+      "US Open": "QF",
+      "Australian Open": "4R"
+    },
+    "1978": {
+      "Roland Garros": "SF",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1979": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1980": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "US Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

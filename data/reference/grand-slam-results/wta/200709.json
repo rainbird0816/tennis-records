@@ -1,0 +1,61 @@
+{
+  "tour": "wta",
+  "player_id": 200709,
+  "full_name": "Rossana De Los Rios",
+  "ioc": "PAR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1993": {
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "2003": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2007": {
+      "Roland Garros": "1R"
+    },
+    "2008": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2009": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

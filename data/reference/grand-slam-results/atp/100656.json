@@ -1,0 +1,105 @@
+{
+  "tour": "atp",
+  "player_id": 100656,
+  "full_name": "Ivan Lendl",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Roland Garros": "1R"
+    },
+    "1979": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "US Open": "QF"
+    },
+    "1981": {
+      "US Open": "4R",
+      "Roland Garros": "F",
+      "Wimbledon": "1R"
+    },
+    "1982": {
+      "US Open": "F",
+      "Roland Garros": "4R"
+    },
+    "1983": {
+      "Wimbledon": "SF",
+      "Roland Garros": "QF",
+      "Australian Open": "F",
+      "US Open": "F"
+    },
+    "1984": {
+      "Wimbledon": "SF",
+      "Roland Garros": "W",
+      "US Open": "F",
+      "Australian Open": "4R"
+    },
+    "1985": {
+      "Roland Garros": "F",
+      "US Open": "W",
+      "Australian Open": "SF",
+      "Wimbledon": "4R"
+    },
+    "1986": {
+      "Roland Garros": "W",
+      "Wimbledon": "F",
+      "US Open": "W"
+    },
+    "1987": {
+      "US Open": "W",
+      "Wimbledon": "F",
+      "Roland Garros": "W",
+      "Australian Open": "SF"
+    },
+    "1988": {
+      "Roland Garros": "QF",
+      "Wimbledon": "SF",
+      "US Open": "F",
+      "Australian Open": "SF"
+    },
+    "1989": {
+      "Australian Open": "W",
+      "Wimbledon": "SF",
+      "Roland Garros": "4R",
+      "US Open": "F"
+    },
+    "1990": {
+      "Wimbledon": "SF",
+      "US Open": "QF",
+      "Australian Open": "W"
+    },
+    "1991": {
+      "Australian Open": "F",
+      "Wimbledon": "3R",
+      "US Open": "SF"
+    },
+    "1992": {
+      "US Open": "QF",
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tour": "atp",
+  "player_id": 102776,
+  "full_name": "Andrew Ilie",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1995": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "4R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "4R"
+    },
+    "2002": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "1R"
+    }
+  }
+}

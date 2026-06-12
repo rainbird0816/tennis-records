@@ -1,0 +1,64 @@
+{
+  "tour": "atp",
+  "player_id": 100114,
+  "full_name": "Ray Ruffels",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "Australian Open": "SF"
+    },
+    "1969": {
+      "US Open": "2R",
+      "Australian Open": "SF",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "US Open": "3R"
+    },
+    "1974": {
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Australian Open": "SF",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Wimbledon": "2R",
+      "Australian Open": "QF"
+    },
+    "1978": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1979": {
+      "Australian Open": "2R"
+    }
+  }
+}

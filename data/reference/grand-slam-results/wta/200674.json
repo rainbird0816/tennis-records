@@ -1,0 +1,57 @@
+{
+  "tour": "wta",
+  "player_id": 200674,
+  "full_name": "Bettina Fulco",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1987": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "QF",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "2R"
+    },
+    "1997": {
+      "Australian Open": "1R"
+    }
+  }
+}

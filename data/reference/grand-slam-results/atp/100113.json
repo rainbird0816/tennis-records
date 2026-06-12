@@ -1,0 +1,78 @@
+{
+  "tour": "atp",
+  "player_id": 100113,
+  "full_name": "Jan Kodes",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Wimbledon": "2R",
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "W",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Roland Garros": "W",
+      "US Open": "F",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Roland Garros": "QF",
+      "Wimbledon": "SF",
+      "US Open": "2R"
+    },
+    "1973": {
+      "US Open": "F",
+      "Roland Garros": "QF",
+      "Wimbledon": "W"
+    },
+    "1974": {
+      "Wimbledon": "QF",
+      "Roland Garros": "4R",
+      "US Open": "4R"
+    },
+    "1975": {
+      "US Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "US Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "1977": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

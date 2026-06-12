@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 126523,
+  "full_name": "Bernabe Zapata Miralles",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2021": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2022": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "1R"
+    }
+  }
+}

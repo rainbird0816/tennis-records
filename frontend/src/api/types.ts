@@ -169,6 +169,75 @@ export interface Medal {
   ioc: string | null;
 }
 
+export interface RecordLeaderRow {
+  player_id: number;
+  name: string | null;
+  ioc: string | null;
+  count: number;
+}
+
+export interface ConsecutiveRecord extends RecordLeaderRow {
+  seasons: number[];
+}
+
+export interface AgeRecord {
+  player_id: number;
+  name: string | null;
+  ioc: string | null;
+  season: number;
+  age_days: number;
+  age_str: string | null;
+}
+
+export interface LongestMatch {
+  match_id: string;
+  minutes: number;
+  round: string;
+  score: string | null;
+  season: number;
+  winner_name: string | null;
+  winner_ioc: string | null;
+  loser_name: string | null;
+  loser_ioc: string | null;
+}
+
+export interface SeriesRecords {
+  slug: string;
+  tour: Tour;
+  summary: { editions: number; first_season: number; last_season: number; surfaces: string[] };
+  most_titles: RecordLeaderRow[];
+  most_finals: RecordLeaderRow[];
+  most_consecutive: ConsecutiveRecord | null;
+  oldest_champion: AgeRecord | null;
+  youngest_champion: AgeRecord | null;
+  longest_match: LongestMatch | null;
+}
+
+export interface GrandSlamTimeline {
+  available: boolean;
+  tour?: Tour;
+  player_id?: number;
+  full_name?: string;
+  ioc?: string | null;
+  slams?: string[];
+  results?: Record<string, Record<string, string>>;
+}
+
+export interface OverviewCell {
+  champion_id: number;
+  champion_name: string | null;
+  ioc: string | null;
+  tourney_id: string;
+}
+
+export interface SeriesOverview {
+  tier: Tier;
+  tour: Tour;
+  columns: string[];
+  seasons: number[];
+  grid: Record<string, OverviewCell>;
+}
+
 export interface Champion {
   season: number;
   name: string;

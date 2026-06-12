@@ -1,0 +1,35 @@
+{
+  "tour": "atp",
+  "player_id": 208286,
+  "full_name": "Matteo Arnaldi",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2023": {
+      "US Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "SF",
+      "Australian Open": "1R"
+    }
+  }
+}

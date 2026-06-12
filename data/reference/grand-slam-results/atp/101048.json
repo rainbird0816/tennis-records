@@ -1,0 +1,22 @@
+{
+  "tour": "atp",
+  "player_id": 101048,
+  "full_name": "Francisco Maciel",
+  "ioc": "MEX",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "US Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R"
+    }
+  }
+}

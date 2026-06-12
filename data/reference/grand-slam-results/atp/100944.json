@@ -1,0 +1,57 @@
+{
+  "tour": "atp",
+  "player_id": 100944,
+  "full_name": "Mikael Pernfors",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "US Open": "1R"
+    },
+    "1985": {
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Roland Garros": "F"
+    },
+    "1987": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "3R"
+    },
+    "1990": {
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "1991": {
+      "US Open": "1R"
+    },
+    "1992": {
+      "US Open": "1R"
+    },
+    "1993": {
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

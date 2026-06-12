@@ -1,0 +1,28 @@
+{
+  "tour": "wta",
+  "player_id": 200756,
+  "full_name": "Bunny Bruning",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "US Open": "1R",
+      "Wimbledon": "2R"
+    }
+  }
+}

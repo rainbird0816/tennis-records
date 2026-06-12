@@ -1,0 +1,93 @@
+{
+  "tour": "atp",
+  "player_id": 100119,
+  "full_name": "Ilie Nastase",
+  "ioc": "ROU",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "4R"
+    },
+    "1970": {
+      "Wimbledon": "4R",
+      "Roland Garros": "QF"
+    },
+    "1971": {
+      "Roland Garros": "F",
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "US Open": "W",
+      "Wimbledon": "F",
+      "Roland Garros": "2R"
+    },
+    "1973": {
+      "Roland Garros": "W",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "US Open": "QF",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "US Open": "SF",
+      "Wimbledon": "F"
+    },
+    "1977": {
+      "US Open": "2R",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF"
+    },
+    "1978": {
+      "Wimbledon": "QF"
+    },
+    "1979": {
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1983": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "US Open": "1R"
+    }
+  }
+}

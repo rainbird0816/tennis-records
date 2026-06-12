@@ -1,0 +1,65 @@
+{
+  "tour": "wta",
+  "player_id": 200389,
+  "full_name": "Kathy Jordan",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "US Open": "2R",
+      "Wimbledon": "3R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1980": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "QF"
+    },
+    "1981": {
+      "Australian Open": "4R",
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "1982": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "F",
+      "Wimbledon": "QF",
+      "Roland Garros": "4R",
+      "US Open": "4R"
+    },
+    "1984": {
+      "Wimbledon": "SF",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1985": {
+      "US Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1986": {
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R"
+    },
+    "1987": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

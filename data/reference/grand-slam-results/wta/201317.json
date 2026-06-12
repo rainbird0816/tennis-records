@@ -1,0 +1,35 @@
+{
+  "tour": "wta",
+  "player_id": 201317,
+  "full_name": "Aniko Kapros",
+  "ioc": "HUN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "US Open": "1R"
+    },
+    "2002": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Australian Open": "1R"
+    }
+  }
+}

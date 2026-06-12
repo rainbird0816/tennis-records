@@ -1,0 +1,89 @@
+{
+  "tour": "wta",
+  "player_id": 200002,
+  "full_name": "Mirjana Lucic",
+  "ioc": "CRO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1997": {
+      "US Open": "3R"
+    },
+    "1998": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1999": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "SF",
+      "US Open": "2R"
+    },
+    "2000": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "3R"
+    },
+    "2002": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2012": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "2015": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "SF"
+    },
+    "2018": {
+      "Australian Open": "2R"
+    }
+  }
+}

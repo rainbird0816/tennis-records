@@ -1,0 +1,37 @@
+{
+  "tour": "atp",
+  "player_id": 100012,
+  "full_name": "Nicola Pietrangeli",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Roland Garros": "3R"
+    },
+    "1972": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R"
+    },
+    "1973": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

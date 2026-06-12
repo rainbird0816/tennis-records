@@ -1,0 +1,48 @@
+{
+  "tour": "atp",
+  "player_id": 100600,
+  "full_name": "Pascal Portes",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "US Open": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R"
+    },
+    "1984": {
+      "Roland Garros": "2R"
+    },
+    "1985": {
+      "Roland Garros": "2R"
+    }
+  }
+}

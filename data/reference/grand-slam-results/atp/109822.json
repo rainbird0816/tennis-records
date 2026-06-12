@@ -1,0 +1,28 @@
+{
+  "tour": "atp",
+  "player_id": 109822,
+  "full_name": "Thomas Lejus",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Roland Garros": "1R"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "tour": "wta",
+  "player_id": 200572,
+  "full_name": "Gabriela Sabatini",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "US Open": "3R"
+    },
+    "1985": {
+      "Roland Garros": "SF",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "US Open": "4R",
+      "Wimbledon": "SF",
+      "Roland Garros": "4R"
+    },
+    "1987": {
+      "Roland Garros": "SF",
+      "Wimbledon": "QF",
+      "US Open": "QF"
+    },
+    "1988": {
+      "Wimbledon": "4R",
+      "US Open": "F",
+      "Roland Garros": "SF"
+    },
+    "1989": {
+      "US Open": "SF",
+      "Roland Garros": "4R",
+      "Australian Open": "SF",
+      "Wimbledon": "2R"
+    },
+    "1990": {
+      "US Open": "W",
+      "Australian Open": "3R",
+      "Wimbledon": "SF",
+      "Roland Garros": "4R"
+    },
+    "1991": {
+      "Wimbledon": "F",
+      "Australian Open": "QF",
+      "Roland Garros": "SF",
+      "US Open": "QF"
+    },
+    "1992": {
+      "US Open": "QF",
+      "Roland Garros": "SF",
+      "Australian Open": "SF",
+      "Wimbledon": "SF"
+    },
+    "1993": {
+      "Australian Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "US Open": "QF"
+    },
+    "1994": {
+      "US Open": "SF",
+      "Australian Open": "SF",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "US Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Australian Open": "4R",
+      "US Open": "3R"
+    }
+  }
+}

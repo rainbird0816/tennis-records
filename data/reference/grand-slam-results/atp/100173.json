@@ -1,0 +1,71 @@
+{
+  "tour": "atp",
+  "player_id": 100173,
+  "full_name": "Andrew Pattison",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "Roland Garros": "3R",
+      "US Open": "4R"
+    },
+    "1974": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "US Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "US Open": "1R"
+    }
+  }
+}

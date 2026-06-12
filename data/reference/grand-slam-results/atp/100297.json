@@ -1,0 +1,61 @@
+{
+  "tour": "atp",
+  "player_id": 100297,
+  "full_name": "Corrado Barazzutti",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Roland Garros": "1R"
+    },
+    "1972": {
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "Roland Garros": "3R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "US Open": "SF",
+      "Roland Garros": "1R"
+    },
+    "1978": {
+      "Roland Garros": "SF",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Roland Garros": "1R"
+    },
+    "1982": {
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "Roland Garros": "2R"
+    }
+  }
+}

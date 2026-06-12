@@ -1,0 +1,101 @@
+{
+  "tour": "atp",
+  "player_id": 103096,
+  "full_name": "Arnaud Clement",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1997": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "US Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "2000": {
+      "US Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "4R"
+    },
+    "2001": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Australian Open": "F",
+      "Roland Garros": "1R"
+    },
+    "2002": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "US Open": "4R",
+      "Australian Open": "2R"
+    },
+    "2003": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2004": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "2008": {
+      "Wimbledon": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "2010": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2012": {
+      "Roland Garros": "2R"
+    }
+  }
+}

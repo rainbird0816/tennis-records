@@ -1,0 +1,31 @@
+{
+  "tour": "wta",
+  "player_id": 200926,
+  "full_name": "Donna Ganz",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "US Open": "2R"
+    },
+    "1975": {
+      "Roland Garros": "QF",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

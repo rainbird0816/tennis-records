@@ -1,0 +1,54 @@
+{
+  "tour": "atp",
+  "player_id": 101806,
+  "full_name": "Marc Kevin Goellner",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "US Open": "2R"
+    },
+    "1993": {
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "1R"
+    }
+  }
+}

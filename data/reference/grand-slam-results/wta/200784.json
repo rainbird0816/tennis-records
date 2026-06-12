@@ -1,0 +1,30 @@
+{
+  "tour": "wta",
+  "player_id": 200784,
+  "full_name": "Fay Toyne",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1970": {
+      "Wimbledon": "1R",
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    }
+  }
+}

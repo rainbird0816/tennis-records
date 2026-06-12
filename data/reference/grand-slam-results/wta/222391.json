@@ -1,0 +1,21 @@
+{
+  "tour": "wta",
+  "player_id": 222391,
+  "full_name": "Lois Boisson",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2025": {
+      "Roland Garros": "SF",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "1R"
+    }
+  }
+}

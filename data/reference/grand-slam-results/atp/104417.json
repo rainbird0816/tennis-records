@@ -1,0 +1,65 @@
+{
+  "tour": "atp",
+  "player_id": 104417,
+  "full_name": "Robin Soderling",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2002": {
+      "US Open": "2R"
+    },
+    "2003": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2005": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2007": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Roland Garros": "F",
+      "Australian Open": "2R",
+      "US Open": "QF",
+      "Wimbledon": "4R"
+    },
+    "2010": {
+      "Roland Garros": "F",
+      "US Open": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "QF"
+    }
+  }
+}

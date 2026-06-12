@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 100525,
+  "full_name": "Gilles Moretton",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

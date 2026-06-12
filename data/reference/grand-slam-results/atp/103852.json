@@ -1,0 +1,139 @@
+{
+  "tour": "atp",
+  "player_id": 103852,
+  "full_name": "Feliciano Lopez",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "Roland Garros": "1R"
+    },
+    "2002": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "2003": {
+      "Australian Open": "3R",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Australian Open": "3R",
+      "Wimbledon": "QF",
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2007": {
+      "Wimbledon": "3R",
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    },
+    "2008": {
+      "Roland Garros": "1R",
+      "Wimbledon": "QF",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2009": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2010": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "2011": {
+      "Wimbledon": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "2012": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2013": {
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "2014": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "2015": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "QF"
+    },
+    "2016": {
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2017": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2018": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2019": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2020": {
+      "Australian Open": "1R",
+      "US Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

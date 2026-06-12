@@ -1,0 +1,32 @@
+{
+  "tour": "wta",
+  "player_id": 201529,
+  "full_name": "Kristie Ahn",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2008": {
+      "US Open": "1R"
+    },
+    "2018": {
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "2020": {
+      "Australian Open": "1R",
+      "US Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Wimbledon": "2R"
+    }
+  }
+}

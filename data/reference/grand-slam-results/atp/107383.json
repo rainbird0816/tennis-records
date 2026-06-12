@@ -1,0 +1,17 @@
+{
+  "tour": "atp",
+  "player_id": 107383,
+  "full_name": "John Fraser",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "4R"
+    }
+  }
+}

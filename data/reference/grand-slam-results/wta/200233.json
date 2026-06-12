@@ -1,0 +1,43 @@
+{
+  "tour": "wta",
+  "player_id": 200233,
+  "full_name": "Chris Matison",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Australian Open": "3R"
+    },
+    "1973": {
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "QF"
+    },
+    "1975": {
+      "Australian Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Australian Open": "SF"
+    }
+  }
+}

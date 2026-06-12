@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 100742,
+  "full_name": "Christo Steyn",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "US Open": "2R"
+    },
+    "1985": {
+      "Wimbledon": "3R",
+      "Australian Open": "4R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1987": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Australian Open": "1R"
+    }
+  }
+}

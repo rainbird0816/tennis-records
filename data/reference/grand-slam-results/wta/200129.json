@@ -1,0 +1,48 @@
+{
+  "tour": "wta",
+  "player_id": 200129,
+  "full_name": "Lesley Turner",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "SF",
+      "Wimbledon": "QF"
+    },
+    "1969": {
+      "Australian Open": "4R",
+      "Roland Garros": "SF",
+      "Wimbledon": "QF",
+      "US Open": "3R"
+    },
+    "1971": {
+      "Australian Open": "4R",
+      "Roland Garros": "QF",
+      "Wimbledon": "4R"
+    },
+    "1972": {
+      "Australian Open": "4R"
+    },
+    "1973": {
+      "US Open": "3R"
+    },
+    "1974": {
+      "Australian Open": "2R"
+    },
+    "1975": {
+      "Australian Open": "QF"
+    },
+    "1977": {
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    }
+  }
+}

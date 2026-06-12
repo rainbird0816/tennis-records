@@ -1,0 +1,48 @@
+{
+  "tour": "wta",
+  "player_id": 200358,
+  "full_name": "Marcie Louie",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "US Open": "2R"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "2R"
+    },
+    "1975": {
+      "US Open": "2R"
+    },
+    "1976": {
+      "US Open": "4R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 100064,
+  "full_name": "Juan Gisbert",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Australian Open": "F"
+    },
+    "1970": {
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "1R"
+    },
+    "1972": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1974": {
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    }
+  }
+}

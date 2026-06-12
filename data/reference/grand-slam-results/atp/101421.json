@@ -1,0 +1,30 @@
+{
+  "tour": "atp",
+  "player_id": 101421,
+  "full_name": "Veli Paloheimo",
+  "ioc": "FIN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "US Open": "2R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

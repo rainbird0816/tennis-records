@@ -1,0 +1,49 @@
+{
+  "tour": "wta",
+  "player_id": 200945,
+  "full_name": "Marita Redondo",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "US Open": "3R"
+    },
+    "1972": {
+      "US Open": "3R"
+    },
+    "1973": {
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1975": {
+      "US Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "2R"
+    },
+    "1978": {
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

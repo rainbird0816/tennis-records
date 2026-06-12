@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 200957,
+  "full_name": "Ruta Gerulaitis",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "US Open": "3R"
+    },
+    "1977": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Roland Garros": "QF",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "US Open": "1R"
+    }
+  }
+}

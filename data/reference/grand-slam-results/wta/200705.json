@@ -1,0 +1,55 @@
+{
+  "tour": "wta",
+  "player_id": 200705,
+  "full_name": "Linda Ferrando",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1987": {
+      "Roland Garros": "2R"
+    },
+    "1988": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1989": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "US Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Roland Garros": "3R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R"
+    }
+  }
+}

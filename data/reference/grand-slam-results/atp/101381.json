@@ -1,0 +1,77 @@
+{
+  "tour": "atp",
+  "player_id": 101381,
+  "full_name": "Aaron Krickstein",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "US Open": "4R"
+    },
+    "1984": {
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1985": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "US Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1987": {
+      "Roland Garros": "3R"
+    },
+    "1988": {
+      "US Open": "QF",
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Wimbledon": "4R",
+      "US Open": "SF",
+      "Roland Garros": "2R",
+      "Australian Open": "4R"
+    },
+    "1990": {
+      "Australian Open": "4R",
+      "US Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "1991": {
+      "Roland Garros": "2R",
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1992": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R"
+    },
+    "1993": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1994": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "Australian Open": "3R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "SF",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Australian Open": "1R"
+    }
+  }
+}

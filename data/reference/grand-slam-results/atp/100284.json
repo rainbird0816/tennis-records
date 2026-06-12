@@ -1,0 +1,116 @@
+{
+  "tour": "atp",
+  "player_id": 100284,
+  "full_name": "Jimmy Connors",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "1R"
+    },
+    "1971": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "US Open": "QF",
+      "Australian Open": "W",
+      "Wimbledon": "QF",
+      "Roland Garros": "1R"
+    },
+    "1974": {
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Australian Open": "F"
+    },
+    "1975": {
+      "US Open": "F",
+      "Wimbledon": "F"
+    },
+    "1976": {
+      "US Open": "W",
+      "Wimbledon": "QF"
+    },
+    "1977": {
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "1978": {
+      "Wimbledon": "F",
+      "US Open": "W"
+    },
+    "1979": {
+      "Wimbledon": "SF",
+      "Roland Garros": "SF",
+      "US Open": "SF"
+    },
+    "1980": {
+      "Wimbledon": "SF",
+      "Roland Garros": "SF",
+      "US Open": "SF"
+    },
+    "1981": {
+      "Wimbledon": "SF",
+      "Roland Garros": "QF",
+      "US Open": "SF"
+    },
+    "1982": {
+      "US Open": "W",
+      "Wimbledon": "W",
+      "Roland Garros": "QF"
+    },
+    "1983": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "W"
+    },
+    "1984": {
+      "US Open": "SF",
+      "Roland Garros": "SF",
+      "Wimbledon": "F"
+    },
+    "1985": {
+      "Roland Garros": "SF",
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "1986": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1987": {
+      "Roland Garros": "QF",
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "1988": {
+      "Wimbledon": "4R",
+      "US Open": "QF"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "QF"
+    },
+    "1991": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "SF"
+    },
+    "1992": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

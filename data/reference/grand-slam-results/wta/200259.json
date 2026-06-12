@@ -1,0 +1,108 @@
+{
+  "tour": "wta",
+  "player_id": 200259,
+  "full_name": "Chris Evert",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "US Open": "SF"
+    },
+    "1972": {
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "1973": {
+      "Wimbledon": "F",
+      "Roland Garros": "F",
+      "US Open": "SF",
+      "Australian Open": "F"
+    },
+    "1974": {
+      "US Open": "SF",
+      "Wimbledon": "W",
+      "Roland Garros": "W"
+    },
+    "1975": {
+      "US Open": "W",
+      "Roland Garros": "W",
+      "Wimbledon": "SF"
+    },
+    "1976": {
+      "Wimbledon": "W",
+      "US Open": "W"
+    },
+    "1977": {
+      "Wimbledon": "SF",
+      "US Open": "W"
+    },
+    "1978": {
+      "Wimbledon": "F",
+      "US Open": "W"
+    },
+    "1979": {
+      "Wimbledon": "F",
+      "US Open": "F",
+      "Roland Garros": "W"
+    },
+    "1980": {
+      "Wimbledon": "F",
+      "Roland Garros": "W",
+      "US Open": "W"
+    },
+    "1981": {
+      "Australian Open": "F",
+      "Roland Garros": "SF",
+      "Wimbledon": "W",
+      "US Open": "SF"
+    },
+    "1982": {
+      "Australian Open": "W",
+      "Wimbledon": "F",
+      "Roland Garros": "SF",
+      "US Open": "W"
+    },
+    "1983": {
+      "Roland Garros": "W",
+      "Wimbledon": "3R",
+      "US Open": "F"
+    },
+    "1984": {
+      "Australian Open": "W",
+      "US Open": "F",
+      "Roland Garros": "F",
+      "Wimbledon": "F"
+    },
+    "1985": {
+      "Australian Open": "F",
+      "Wimbledon": "F",
+      "US Open": "SF",
+      "Roland Garros": "W"
+    },
+    "1986": {
+      "Wimbledon": "SF",
+      "US Open": "SF",
+      "Roland Garros": "W"
+    },
+    "1987": {
+      "US Open": "QF",
+      "Roland Garros": "SF",
+      "Wimbledon": "SF"
+    },
+    "1988": {
+      "Wimbledon": "SF",
+      "US Open": "SF",
+      "Australian Open": "F",
+      "Roland Garros": "3R"
+    },
+    "1989": {
+      "Wimbledon": "SF",
+      "US Open": "QF"
+    }
+  }
+}

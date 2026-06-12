@@ -1,0 +1,29 @@
+{
+  "tour": "atp",
+  "player_id": 100660,
+  "full_name": "Bob Green",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "US Open": "4R"
+    },
+    "1985": {
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tour": "wta",
+  "player_id": 200338,
+  "full_name": "Elizabeth Little",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Australian Open": "4R"
+    },
+    "1979": {
+      "Australian Open": "3R"
+    },
+    "1980": {
+      "Australian Open": "3R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

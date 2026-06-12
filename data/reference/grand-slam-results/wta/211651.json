@@ -1,0 +1,53 @@
+{
+  "tour": "wta",
+  "player_id": 211651,
+  "full_name": "Paula Badosa",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2019": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2021": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2022": {
+      "Wimbledon": "4R",
+      "Australian Open": "4R",
+      "US Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "2023": {
+      "Wimbledon": "2R"
+    },
+    "2024": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "US Open": "QF",
+      "Wimbledon": "4R"
+    },
+    "2025": {
+      "Australian Open": "SF",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Australian Open": "2R"
+    }
+  }
+}

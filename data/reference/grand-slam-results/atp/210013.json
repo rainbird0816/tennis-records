@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 210013,
+  "full_name": "Martin Damm Sr",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "1R"
+    }
+  }
+}

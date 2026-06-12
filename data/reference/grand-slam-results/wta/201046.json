@@ -1,0 +1,21 @@
+{
+  "tour": "wta",
+  "player_id": 201046,
+  "full_name": "Silvia La Fratta",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "4R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

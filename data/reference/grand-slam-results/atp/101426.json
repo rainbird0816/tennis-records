@@ -1,0 +1,30 @@
+{
+  "tour": "atp",
+  "player_id": 101426,
+  "full_name": "Kent Carlsson",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "3R"
+    },
+    "1985": {
+      "Roland Garros": "2R"
+    },
+    "1986": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "4R"
+    },
+    "1988": {
+      "Roland Garros": "4R"
+    }
+  }
+}

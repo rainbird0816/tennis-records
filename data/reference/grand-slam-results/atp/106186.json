@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 106186,
+  "full_name": "Jason Kubler",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2010": {
+      "Australian Open": "1R"
+    },
+    "2018": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2019": {
+      "Australian Open": "1R"
+    },
+    "2022": {
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "2023": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Australian Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R"
+    }
+  }
+}

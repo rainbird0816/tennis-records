@@ -1,0 +1,48 @@
+{
+  "tour": "wta",
+  "player_id": 200435,
+  "full_name": "Barbara Gerken",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "US Open": "QF"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "US Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tour": "atp",
+  "player_id": 100101,
+  "full_name": "Mike Belkin",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "QF"
+    },
+    "1969": {
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "US Open": "1R"
+    },
+    "1972": {
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "tour": "atp",
+  "player_id": 100252,
+  "full_name": "Tim Gullikson",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "Australian Open": "4R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1979": {
+      "US Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "QF"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1984": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1985": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1986": {
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tour": "wta",
+  "player_id": 200428,
+  "full_name": "Lori Mcneil",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "Australian Open": "3R"
+    },
+    "1984": {
+      "US Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "US Open": "SF",
+      "Wimbledon": "2R",
+      "Australian Open": "QF",
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Roland Garros": "3R",
+      "US Open": "3R",
+      "Australian Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1991": {
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "1992": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "US Open": "3R"
+    },
+    "1993": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Wimbledon": "SF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Australian Open": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    }
+  }
+}

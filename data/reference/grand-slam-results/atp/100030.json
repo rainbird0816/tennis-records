@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 100030,
+  "full_name": "Fred Stolle",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1969": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "QF",
+      "Australian Open": "QF"
+    },
+    "1970": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1971": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R"
+    },
+    "1972": {
+      "US Open": "QF"
+    },
+    "1975": {
+      "US Open": "1R"
+    },
+    "1977": {
+      "US Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "1R"
+    }
+  }
+}

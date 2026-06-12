@@ -1,0 +1,54 @@
+{
+  "tour": "atp",
+  "player_id": 100428,
+  "full_name": "Gene Mayer",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "US Open": "2R"
+    },
+    "1976": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "US Open": "3R",
+      "Roland Garros": "4R"
+    },
+    "1980": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1981": {
+      "US Open": "4R"
+    },
+    "1982": {
+      "US Open": "QF",
+      "Wimbledon": "QF"
+    },
+    "1983": {
+      "US Open": "3R"
+    },
+    "1984": {
+      "US Open": "QF",
+      "Wimbledon": "1R"
+    }
+  }
+}

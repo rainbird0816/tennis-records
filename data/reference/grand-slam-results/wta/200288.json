@@ -1,0 +1,41 @@
+{
+  "tour": "wta",
+  "player_id": 200288,
+  "full_name": "Sue Mappin",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Wimbledon": "2R"
+    },
+    "1974": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Wimbledon": "2R"
+    }
+  }
+}

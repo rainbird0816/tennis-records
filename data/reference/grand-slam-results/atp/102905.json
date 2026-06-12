@@ -1,0 +1,76 @@
+{
+  "tour": "atp",
+  "player_id": 102905,
+  "full_name": "Stefan Koubek",
+  "ioc": "AUT",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "2001": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "US Open": "1R"
+    },
+    "2007": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Australian Open": "3R"
+    },
+    "2009": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "2010": {
+      "Australian Open": "3R",
+      "Wimbledon": "1R"
+    }
+  }
+}

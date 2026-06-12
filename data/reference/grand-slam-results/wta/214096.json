@@ -1,0 +1,59 @@
+{
+  "tour": "wta",
+  "player_id": 214096,
+  "full_name": "Karolina Muchova",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2018": {
+      "US Open": "3R"
+    },
+    "2019": {
+      "US Open": "3R",
+      "Wimbledon": "QF",
+      "Roland Garros": "2R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "US Open": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Roland Garros": "3R",
+      "Wimbledon": "QF",
+      "Australian Open": "SF",
+      "US Open": "1R"
+    },
+    "2022": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Roland Garros": "F",
+      "US Open": "SF",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "US Open": "SF",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "US Open": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R"
+    }
+  }
+}

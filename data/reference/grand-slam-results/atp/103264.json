@@ -1,0 +1,46 @@
+{
+  "tour": "atp",
+  "player_id": 103264,
+  "full_name": "Mariano Puerta",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "2000": {
+      "Roland Garros": "3R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2002": {
+      "Roland Garros": "2R"
+    },
+    "2003": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "F",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

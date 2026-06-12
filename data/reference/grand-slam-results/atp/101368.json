@@ -1,0 +1,36 @@
+{
+  "tour": "atp",
+  "player_id": 101368,
+  "full_name": "Christian Miniussi",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "Roland Garros": "3R"
+    },
+    "1987": {
+      "Australian Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Roland Garros": "4R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

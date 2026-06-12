@@ -1,0 +1,67 @@
+{
+  "tour": "atp",
+  "player_id": 111815,
+  "full_name": "Cameron Norrie",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2017": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2018": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2019": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2020": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Australian Open": "3R",
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2022": {
+      "Wimbledon": "SF",
+      "US Open": "4R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2023": {
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2024": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "2025": {
+      "Wimbledon": "QF",
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "US Open": "3R"
+    },
+    "2026": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    }
+  }
+}

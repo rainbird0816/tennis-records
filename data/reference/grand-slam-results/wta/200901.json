@@ -1,0 +1,33 @@
+{
+  "tour": "wta",
+  "player_id": 200901,
+  "full_name": "Nell Truman",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "tour": "wta",
+  "player_id": 201435,
+  "full_name": "Kateryna Bondarenko",
+  "ioc": "UKR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2005": {
+      "Wimbledon": "1R"
+    },
+    "2006": {
+      "Wimbledon": "2R"
+    },
+    "2007": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2008": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Roland Garros": "3R",
+      "US Open": "QF",
+      "Australian Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "2010": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2011": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2012": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "US Open": "2R"
+    },
+    "2016": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2017": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2018": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2020": {
+      "Australian Open": "1R",
+      "US Open": "2R"
+    }
+  }
+}

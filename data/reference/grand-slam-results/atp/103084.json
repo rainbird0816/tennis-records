@@ -1,0 +1,67 @@
+{
+  "tour": "atp",
+  "player_id": 103084,
+  "full_name": "Guillermo Canas",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1999": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "2000": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "US Open": "2R",
+      "Wimbledon": "4R",
+      "Roland Garros": "4R",
+      "Australian Open": "2R"
+    },
+    "2002": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "2003": {
+      "Australian Open": "2R"
+    },
+    "2004": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2005": {
+      "Roland Garros": "QF",
+      "Australian Open": "4R"
+    },
+    "2007": {
+      "Wimbledon": "3R",
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "2008": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "tour": "wta",
+  "player_id": 200617,
+  "full_name": "Kimiko Date Krumm",
+  "ioc": "JPN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "4R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1991": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "US Open": "QF",
+      "Roland Garros": "2R",
+      "Australian Open": "2R"
+    },
+    "1994": {
+      "US Open": "QF",
+      "Australian Open": "SF",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "US Open": "4R",
+      "Wimbledon": "QF",
+      "Australian Open": "3R",
+      "Roland Garros": "SF"
+    },
+    "1996": {
+      "Australian Open": "2R",
+      "Wimbledon": "SF",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "Australian Open": "1R"
+    }
+  }
+}

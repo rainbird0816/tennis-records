@@ -1,0 +1,66 @@
+{
+  "tour": "atp",
+  "player_id": 106045,
+  "full_name": "Denis Kudla",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2012": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2014": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2015": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2018": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2019": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2020": {
+      "US Open": "1R"
+    },
+    "2021": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "tour": "wta",
+  "player_id": 201136,
+  "full_name": "Trish Mcclenaughan",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "4R"
+    },
+    "1971": {
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "US Open": "3R"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "tour": "atp",
+  "player_id": 100689,
+  "full_name": "Tim Mayotte",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "1R"
+    },
+    "1980": {
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Wimbledon": "QF",
+      "Australian Open": "QF",
+      "US Open": "3R"
+    },
+    "1982": {
+      "US Open": "2R",
+      "Wimbledon": "SF",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Australian Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "4R",
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Australian Open": "4R"
+    },
+    "1986": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "Wimbledon": "QF",
+      "US Open": "3R"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "Wimbledon": "QF",
+      "US Open": "QF"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    }
+  }
+}

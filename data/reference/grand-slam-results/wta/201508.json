@@ -1,0 +1,55 @@
+{
+  "tour": "wta",
+  "player_id": 201508,
+  "full_name": "Petra Cetkovska",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2007": {
+      "US Open": "2R"
+    },
+    "2008": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2011": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "2012": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "2013": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "2015": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2016": {
+      "Australian Open": "1R"
+    }
+  }
+}

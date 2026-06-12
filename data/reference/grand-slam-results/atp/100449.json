@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 100449,
+  "full_name": "Stanislav Birner",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

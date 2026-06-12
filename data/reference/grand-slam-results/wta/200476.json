@@ -1,0 +1,42 @@
+{
+  "tour": "wta",
+  "player_id": 200476,
+  "full_name": "Cammy Macgregor",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "US Open": "2R"
+    },
+    "1987": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Australian Open": "3R"
+    },
+    "1989": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R"
+    },
+    "1993": {
+      "Wimbledon": "1R"
+    }
+  }
+}

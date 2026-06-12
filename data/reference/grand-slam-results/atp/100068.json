@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 100068,
+  "full_name": "Herb Fitzgibbon",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "2R",
+      "Roland Garros": "4R"
+    },
+    "1969": {
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1971": {
+      "US Open": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

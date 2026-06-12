@@ -1,0 +1,24 @@
+{
+  "tour": "atp",
+  "player_id": 102455,
+  "full_name": "Lorenzo Manta",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "2000": {
+      "Australian Open": "1R"
+    }
+  }
+}

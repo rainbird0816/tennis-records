@@ -1,0 +1,58 @@
+{
+  "tour": "wta",
+  "player_id": 200405,
+  "full_name": "Susan Mascarin",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "1R"
+    },
+    "1980": {
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1982": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "US Open": "4R",
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

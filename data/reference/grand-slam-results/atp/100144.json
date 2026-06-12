@@ -1,0 +1,77 @@
+{
+  "tour": "atp",
+  "player_id": 100144,
+  "full_name": "Bob Lutz",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1971": {
+      "Australian Open": "SF",
+      "Wimbledon": "3R",
+      "US Open": "4R",
+      "Roland Garros": "4R"
+    },
+    "1972": {
+      "US Open": "4R"
+    },
+    "1974": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "US Open": "3R",
+      "Wimbledon": "3R"
+    },
+    "1977": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Wimbledon": "3R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1983": {
+      "US Open": "1R"
+    }
+  }
+}

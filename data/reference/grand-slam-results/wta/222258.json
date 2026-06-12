@@ -1,0 +1,33 @@
+{
+  "tour": "wta",
+  "player_id": 222258,
+  "full_name": "Linda Fruhvirtova",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "US Open": "2R"
+    },
+    "2023": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Australian Open": "1R"
+    },
+    "2025": {
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

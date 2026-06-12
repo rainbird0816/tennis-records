@@ -1,0 +1,22 @@
+{
+  "tour": "wta",
+  "player_id": 200240,
+  "full_name": "Eugenia Birioukova",
+  "ioc": "AZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1973": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    }
+  }
+}

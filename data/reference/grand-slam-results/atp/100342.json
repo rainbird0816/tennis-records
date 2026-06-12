@@ -1,0 +1,82 @@
+{
+  "tour": "atp",
+  "player_id": 100342,
+  "full_name": "Vitas Gerulaitis",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "US Open": "1R"
+    },
+    "1972": {
+      "US Open": "2R"
+    },
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Wimbledon": "QF",
+      "US Open": "4R"
+    },
+    "1977": {
+      "Australian Open": "W",
+      "Wimbledon": "SF",
+      "US Open": "4R"
+    },
+    "1978": {
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "1979": {
+      "US Open": "F",
+      "Roland Garros": "SF",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Roland Garros": "F",
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "US Open": "SF",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R"
+    },
+    "1982": {
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "US Open": "4R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    }
+  }
+}

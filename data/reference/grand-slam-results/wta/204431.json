@@ -1,0 +1,45 @@
+{
+  "tour": "wta",
+  "player_id": 204431,
+  "full_name": "Anna Lena Friedsam",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2014": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2015": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2018": {
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "Wimbledon": "1R"
+    },
+    "2020": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2023": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

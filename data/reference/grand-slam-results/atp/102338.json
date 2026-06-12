@@ -1,0 +1,74 @@
+{
+  "tour": "atp",
+  "player_id": 102338,
+  "full_name": "Yevgeny Kafelnikov",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1993": {
+      "Roland Garros": "2R"
+    },
+    "1994": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "US Open": "4R",
+      "Australian Open": "2R"
+    },
+    "1995": {
+      "Roland Garros": "SF",
+      "Wimbledon": "QF",
+      "US Open": "3R",
+      "Australian Open": "QF"
+    },
+    "1996": {
+      "Roland Garros": "W",
+      "Australian Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Wimbledon": "4R",
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "1998": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1999": {
+      "Wimbledon": "3R",
+      "Australian Open": "W",
+      "US Open": "SF",
+      "Roland Garros": "2R"
+    },
+    "2000": {
+      "Australian Open": "F",
+      "US Open": "3R",
+      "Roland Garros": "QF",
+      "Wimbledon": "2R"
+    },
+    "2001": {
+      "Australian Open": "QF",
+      "Wimbledon": "3R",
+      "Roland Garros": "QF",
+      "US Open": "SF"
+    },
+    "2002": {
+      "US Open": "2R",
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "2003": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

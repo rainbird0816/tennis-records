@@ -1,0 +1,96 @@
+{
+  "tour": "atp",
+  "player_id": 101222,
+  "full_name": "Stefan Edberg",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Australian Open": "QF",
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1985": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Australian Open": "W",
+      "Roland Garros": "QF"
+    },
+    "1986": {
+      "US Open": "SF",
+      "Wimbledon": "3R",
+      "Roland Garros": "2R"
+    },
+    "1987": {
+      "Wimbledon": "SF",
+      "Roland Garros": "2R",
+      "US Open": "SF",
+      "Australian Open": "W"
+    },
+    "1988": {
+      "Australian Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "W",
+      "US Open": "4R"
+    },
+    "1989": {
+      "Australian Open": "QF",
+      "Wimbledon": "F",
+      "US Open": "4R",
+      "Roland Garros": "F"
+    },
+    "1990": {
+      "Wimbledon": "W",
+      "Australian Open": "F",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "SF",
+      "US Open": "W",
+      "Australian Open": "SF",
+      "Roland Garros": "QF"
+    },
+    "1992": {
+      "Australian Open": "F",
+      "US Open": "W",
+      "Wimbledon": "QF",
+      "Roland Garros": "3R"
+    },
+    "1993": {
+      "Wimbledon": "SF",
+      "Australian Open": "F",
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "SF",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1995": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1996": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "US Open": "QF"
+    }
+  }
+}

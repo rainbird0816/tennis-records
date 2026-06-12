@@ -1,0 +1,81 @@
+{
+  "tour": "wta",
+  "player_id": 200104,
+  "full_name": "Emilie Loit",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1997": {
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Roland Garros": "2R"
+    },
+    "1999": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R"
+    },
+    "2001": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2002": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "2R"
+    },
+    "2003": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2007": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Roland Garros": "1R"
+    }
+  }
+}

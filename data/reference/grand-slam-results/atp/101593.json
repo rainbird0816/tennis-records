@@ -1,0 +1,23 @@
+{
+  "tour": "atp",
+  "player_id": 101593,
+  "full_name": "Chris Garner",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "4R"
+    },
+    "1994": {
+      "Australian Open": "1R"
+    }
+  }
+}

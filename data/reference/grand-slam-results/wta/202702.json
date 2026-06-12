@@ -1,0 +1,27 @@
+{
+  "tour": "wta",
+  "player_id": 202702,
+  "full_name": "Tereza Smitkova",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2014": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2018": {
+      "Wimbledon": "1R"
+    }
+  }
+}

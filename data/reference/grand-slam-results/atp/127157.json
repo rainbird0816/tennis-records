@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 127157,
+  "full_name": "Daniel Altmaier",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2020": {
+      "Roland Garros": "4R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

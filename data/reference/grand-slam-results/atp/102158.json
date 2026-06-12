@@ -1,0 +1,69 @@
+{
+  "tour": "atp",
+  "player_id": 102158,
+  "full_name": "Patrick Rafter",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "Australian Open": "1R"
+    },
+    "1993": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1995": {
+      "Australian Open": "4R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Roland Garros": "SF",
+      "US Open": "W",
+      "Wimbledon": "4R",
+      "Australian Open": "1R"
+    },
+    "1998": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "US Open": "W",
+      "Roland Garros": "2R"
+    },
+    "1999": {
+      "Australian Open": "3R",
+      "Wimbledon": "SF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "2R",
+      "Wimbledon": "F",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Wimbledon": "F",
+      "Roland Garros": "1R",
+      "US Open": "4R",
+      "Australian Open": "SF"
+    }
+  }
+}

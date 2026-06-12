@@ -1,0 +1,72 @@
+{
+  "tour": "wta",
+  "player_id": 200481,
+  "full_name": "Elna Reinach",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Australian Open": "3R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1988": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "US Open": "4R"
+    },
+    "1989": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "US Open": "3R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1995": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

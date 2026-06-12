@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 101920,
+  "full_name": "Jamie Morgan",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tour": "wta",
+  "player_id": 220367,
+  "full_name": "Leylah Fernandez",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2020": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2021": {
+      "US Open": "F",
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2022": {
+      "Roland Garros": "QF",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2023": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "2026": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

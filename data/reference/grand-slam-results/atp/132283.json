@@ -1,0 +1,63 @@
+{
+  "tour": "atp",
+  "player_id": 132283,
+  "full_name": "Lorenzo Sonego",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2018": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2019": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2020": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2021": {
+      "Australian Open": "2R",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2022": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R"
+    }
+  }
+}

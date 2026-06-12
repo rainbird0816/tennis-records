@@ -1,0 +1,26 @@
+{
+  "tour": "atp",
+  "player_id": 122669,
+  "full_name": "Juan Pablo Varillas",
+  "ioc": "PER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Roland Garros": "1R"
+    },
+    "2023": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "1R"
+    }
+  }
+}

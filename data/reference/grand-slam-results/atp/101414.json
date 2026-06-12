@@ -1,0 +1,90 @@
+{
+  "tour": "atp",
+  "player_id": 101414,
+  "full_name": "Boris Becker",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Australian Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1985": {
+      "Wimbledon": "W",
+      "Roland Garros": "2R",
+      "US Open": "4R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "W",
+      "Roland Garros": "QF",
+      "US Open": "SF"
+    },
+    "1987": {
+      "Roland Garros": "SF",
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1988": {
+      "Wimbledon": "F",
+      "US Open": "2R",
+      "Roland Garros": "4R"
+    },
+    "1989": {
+      "Australian Open": "4R",
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Roland Garros": "SF"
+    },
+    "1990": {
+      "US Open": "SF",
+      "Wimbledon": "F",
+      "Australian Open": "QF",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Australian Open": "W",
+      "Roland Garros": "SF",
+      "US Open": "3R",
+      "Wimbledon": "F"
+    },
+    "1992": {
+      "US Open": "4R",
+      "Australian Open": "3R",
+      "Wimbledon": "QF"
+    },
+    "1993": {
+      "Wimbledon": "SF",
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "1994": {
+      "Wimbledon": "SF",
+      "US Open": "1R"
+    },
+    "1995": {
+      "US Open": "SF",
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "Wimbledon": "F"
+    },
+    "1996": {
+      "Wimbledon": "3R",
+      "Australian Open": "W"
+    },
+    "1997": {
+      "Wimbledon": "QF",
+      "Australian Open": "1R"
+    },
+    "1999": {
+      "Wimbledon": "4R"
+    }
+  }
+}

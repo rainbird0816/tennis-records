@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 100855,
+  "full_name": "Scott Davis",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "US Open": "3R"
+    },
+    "1983": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "4R",
+      "Australian Open": "QF",
+      "US Open": "2R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "US Open": "3R"
+    },
+    "1989": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    }
+  }
+}

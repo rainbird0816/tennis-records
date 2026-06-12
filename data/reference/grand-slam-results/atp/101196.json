@@ -1,0 +1,67 @@
+{
+  "tour": "atp",
+  "player_id": 101196,
+  "full_name": "Derrick Rostagno",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "US Open": "1R"
+    },
+    "1986": {
+      "US Open": "1R"
+    },
+    "1987": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Australian Open": "2R"
+    },
+    "1989": {
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1990": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Wimbledon": "4R",
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "tour": "wta",
+  "player_id": 200223,
+  "full_name": "Sharon Walsh Pete",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1971": {
+      "Australian Open": "QF"
+    },
+    "1972": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1973": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "US Open": "2R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "F"
+    },
+    "1980": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Australian Open": "3R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1982": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "QF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

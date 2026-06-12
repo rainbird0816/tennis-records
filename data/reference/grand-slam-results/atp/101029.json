@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 101029,
+  "full_name": "Ricki Osterthun",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "Australian Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "tour": "wta",
+  "player_id": 200315,
+  "full_name": "Nina Bohm",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Australian Open": "3R"
+    },
+    "1977": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R"
+    }
+  }
+}

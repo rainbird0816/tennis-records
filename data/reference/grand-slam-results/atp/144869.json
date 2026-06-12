@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 144869,
+  "full_name": "Tomas Martin Etcheverry",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Australian Open": "2R",
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2025": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2026": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    }
+  }
+}

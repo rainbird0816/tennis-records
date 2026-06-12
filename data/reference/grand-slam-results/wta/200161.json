@@ -1,0 +1,29 @@
+{
+  "tour": "wta",
+  "player_id": 200161,
+  "full_name": "Janine Whyte",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "2R"
+    },
+    "1969": {
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Australian Open": "3R"
+    },
+    "1971": {
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "Australian Open": "2R"
+    }
+  }
+}

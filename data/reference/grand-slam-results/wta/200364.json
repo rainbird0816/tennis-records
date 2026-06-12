@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200364,
+  "full_name": "Barbara Hallquist",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "US Open": "1R"
+    },
+    "1977": {
+      "US Open": "2R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Wimbledon": "3R"
+    },
+    "1979": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "US Open": "QF",
+      "Australian Open": "4R"
+    },
+    "1981": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

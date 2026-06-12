@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 100921,
+  "full_name": "Patrice Kuchna",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Roland Garros": "2R"
+    },
+    "1982": {
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Roland Garros": "3R"
+    },
+    "1985": {
+      "Roland Garros": "1R"
+    },
+    "1987": {
+      "Roland Garros": "4R"
+    },
+    "1988": {
+      "Roland Garros": "1R"
+    }
+  }
+}

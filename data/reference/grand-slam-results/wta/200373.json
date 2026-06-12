@@ -1,0 +1,40 @@
+{
+  "tour": "wta",
+  "player_id": 200373,
+  "full_name": "Bonnie Gadusek",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1982": {
+      "US Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "1983": {
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "US Open": "4R"
+    },
+    "1985": {
+      "US Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1986": {
+      "US Open": "QF"
+    },
+    "1987": {
+      "US Open": "1R"
+    }
+  }
+}

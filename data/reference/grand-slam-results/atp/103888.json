@@ -1,0 +1,81 @@
+{
+  "tour": "atp",
+  "player_id": 103888,
+  "full_name": "Mardy Fish",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2000": {
+      "US Open": "1R"
+    },
+    "2001": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "2003": {
+      "Australian Open": "3R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2004": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2006": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2007": {
+      "Australian Open": "QF",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2008": {
+      "Roland Garros": "2R",
+      "US Open": "QF",
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "2009": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "Australian Open": "3R"
+    },
+    "2010": {
+      "US Open": "4R",
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "2011": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "QF",
+      "US Open": "4R"
+    },
+    "2012": {
+      "Wimbledon": "4R",
+      "US Open": "4R",
+      "Australian Open": "2R"
+    },
+    "2015": {
+      "US Open": "2R"
+    }
+  }
+}

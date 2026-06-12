@@ -1,0 +1,23 @@
+{
+  "tour": "atp",
+  "player_id": 100153,
+  "full_name": "Patrice Hagelauer",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Roland Garros": "1R"
+    },
+    "1975": {
+      "Australian Open": "4R"
+    },
+    "1976": {
+      "Roland Garros": "1R"
+    }
+  }
+}

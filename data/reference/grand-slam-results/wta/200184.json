@@ -1,0 +1,70 @@
+{
+  "tour": "wta",
+  "player_id": 200184,
+  "full_name": "Helen Gourlay",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "1969": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "US Open": "QF",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Australian Open": "SF",
+      "Roland Garros": "F",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Roland Garros": "4R"
+    },
+    "1973": {
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "SF"
+    },
+    "1976": {
+      "US Open": "3R"
+    },
+    "1977": {
+      "Australian Open": "F",
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "2R"
+    },
+    "1980": {
+      "Australian Open": "2R"
+    }
+  }
+}

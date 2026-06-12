@@ -1,0 +1,61 @@
+{
+  "tour": "atp",
+  "player_id": 100087,
+  "full_name": "John Newcombe",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "QF",
+      "Wimbledon": "4R"
+    },
+    "1969": {
+      "Wimbledon": "F",
+      "US Open": "SF",
+      "Roland Garros": "QF",
+      "Australian Open": "QF"
+    },
+    "1970": {
+      "Wimbledon": "W",
+      "US Open": "SF",
+      "Australian Open": "QF"
+    },
+    "1971": {
+      "Wimbledon": "W",
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "1972": {
+      "Australian Open": "W",
+      "US Open": "3R"
+    },
+    "1973": {
+      "US Open": "W",
+      "Australian Open": "QF",
+      "Roland Garros": "1R"
+    },
+    "1974": {
+      "Australian Open": "W",
+      "Wimbledon": "QF",
+      "US Open": "SF"
+    },
+    "1975": {
+      "Australian Open": "F"
+    },
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "1977": {
+      "Australian Open": "QF"
+    },
+    "1978": {
+      "Wimbledon": "4R"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tour": "wta",
+  "player_id": 200860,
+  "full_name": "Kristy Pigeon",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1969": {
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    }
+  }
+}

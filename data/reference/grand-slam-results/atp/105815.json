@@ -1,0 +1,41 @@
+{
+  "tour": "atp",
+  "player_id": 105815,
+  "full_name": "Tennys Sandgren",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2017": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2018": {
+      "Australian Open": "QF",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2019": {
+      "Wimbledon": "4R",
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2020": {
+      "Australian Open": "QF",
+      "US Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "2021": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tour": "wta",
+  "player_id": 200660,
+  "full_name": "Kimberly Po Messerli",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "US Open": "3R"
+    },
+    "1992": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1993": {
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1997": {
+      "US Open": "3R",
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1999": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

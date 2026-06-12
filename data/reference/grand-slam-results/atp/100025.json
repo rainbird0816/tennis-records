@@ -1,0 +1,67 @@
+{
+  "tour": "atp",
+  "player_id": 100025,
+  "full_name": "Barry Phillips Moore",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "SF"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "QF"
+    },
+    "1972": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "3R"
+    },
+    "1973": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "1R"
+    }
+  }
+}

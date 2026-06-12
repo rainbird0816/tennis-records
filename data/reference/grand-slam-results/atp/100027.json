@@ -1,0 +1,44 @@
+{
+  "tour": "atp",
+  "player_id": 100027,
+  "full_name": "Gene Scott",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1969": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "2R"
+    },
+    "1975": {
+      "US Open": "1R"
+    }
+  }
+}

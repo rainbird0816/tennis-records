@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200397,
+  "full_name": "Tracy Austin",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "US Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1978": {
+      "US Open": "QF",
+      "Wimbledon": "4R"
+    },
+    "1979": {
+      "Wimbledon": "SF",
+      "US Open": "W"
+    },
+    "1980": {
+      "US Open": "SF",
+      "Wimbledon": "SF"
+    },
+    "1981": {
+      "US Open": "W",
+      "Australian Open": "QF",
+      "Wimbledon": "QF"
+    },
+    "1982": {
+      "US Open": "QF",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF"
+    },
+    "1983": {
+      "Roland Garros": "QF"
+    },
+    "1994": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

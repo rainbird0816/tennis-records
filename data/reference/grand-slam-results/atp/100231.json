@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 100231,
+  "full_name": "Erik Van Dillen",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "1R"
+    },
+    "1969": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1970": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1971": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Wimbledon": "3R"
+    },
+    "1973": {
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1980": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

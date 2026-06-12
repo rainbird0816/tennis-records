@@ -1,0 +1,69 @@
+{
+  "tour": "atp",
+  "player_id": 100074,
+  "full_name": "Arthur Ashe",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "W",
+      "Wimbledon": "SF"
+    },
+    "1969": {
+      "Wimbledon": "SF",
+      "US Open": "SF",
+      "Roland Garros": "4R"
+    },
+    "1970": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "Australian Open": "W",
+      "US Open": "QF"
+    },
+    "1971": {
+      "Australian Open": "F",
+      "US Open": "SF",
+      "Roland Garros": "QF",
+      "Wimbledon": "3R"
+    },
+    "1972": {
+      "US Open": "F"
+    },
+    "1973": {
+      "Roland Garros": "4R",
+      "US Open": "3R"
+    },
+    "1974": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "QF"
+    },
+    "1975": {
+      "Wimbledon": "W",
+      "US Open": "4R"
+    },
+    "1976": {
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Australian Open": "QF"
+    },
+    "1978": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "4R",
+      "Australian Open": "SF"
+    },
+    "1979": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    }
+  }
+}

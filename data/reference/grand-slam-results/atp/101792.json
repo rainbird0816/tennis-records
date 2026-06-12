@@ -1,0 +1,66 @@
+{
+  "tour": "atp",
+  "player_id": 101792,
+  "full_name": "Slava Dosedel",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1992": {
+      "US Open": "1R"
+    },
+    "1993": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1995": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1996": {
+      "Roland Garros": "2R"
+    },
+    "1997": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1999": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "QF"
+    },
+    "2000": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "4R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

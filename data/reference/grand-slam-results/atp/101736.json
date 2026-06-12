@@ -1,0 +1,117 @@
+{
+  "tour": "atp",
+  "player_id": 101736,
+  "full_name": "Andre Agassi",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "US Open": "SF",
+      "Roland Garros": "SF"
+    },
+    "1989": {
+      "US Open": "SF",
+      "Roland Garros": "3R"
+    },
+    "1990": {
+      "Roland Garros": "F",
+      "US Open": "F"
+    },
+    "1991": {
+      "Wimbledon": "QF",
+      "Roland Garros": "F",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Wimbledon": "W",
+      "US Open": "QF",
+      "Roland Garros": "SF"
+    },
+    "1993": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Roland Garros": "2R",
+      "US Open": "W",
+      "Wimbledon": "4R"
+    },
+    "1995": {
+      "Wimbledon": "SF",
+      "US Open": "F",
+      "Roland Garros": "QF",
+      "Australian Open": "W"
+    },
+    "1996": {
+      "US Open": "SF",
+      "Australian Open": "SF",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "US Open": "4R"
+    },
+    "1998": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1999": {
+      "Roland Garros": "W",
+      "Australian Open": "4R",
+      "Wimbledon": "F",
+      "US Open": "W"
+    },
+    "2000": {
+      "Roland Garros": "2R",
+      "Wimbledon": "SF",
+      "US Open": "2R",
+      "Australian Open": "W"
+    },
+    "2001": {
+      "Roland Garros": "QF",
+      "Wimbledon": "SF",
+      "US Open": "QF",
+      "Australian Open": "W"
+    },
+    "2002": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "F"
+    },
+    "2003": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "SF",
+      "Australian Open": "W"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "US Open": "QF",
+      "Australian Open": "SF"
+    },
+    "2005": {
+      "Roland Garros": "1R",
+      "US Open": "F",
+      "Australian Open": "QF"
+    },
+    "2006": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    }
+  }
+}

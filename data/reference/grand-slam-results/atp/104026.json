@@ -1,0 +1,31 @@
+{
+  "tour": "atp",
+  "player_id": 104026,
+  "full_name": "Joachim Johansson",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2003": {
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "US Open": "SF",
+      "Roland Garros": "1R"
+    },
+    "2005": {
+      "Wimbledon": "3R",
+      "Australian Open": "4R"
+    },
+    "2007": {
+      "Australian Open": "1R"
+    }
+  }
+}

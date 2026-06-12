@@ -1,0 +1,44 @@
+{
+  "tour": "wta",
+  "player_id": 200808,
+  "full_name": "Laura Rossouw",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "US Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Wimbledon": "2R"
+    }
+  }
+}

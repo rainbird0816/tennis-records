@@ -1,0 +1,24 @@
+{
+  "tour": "wta",
+  "player_id": 200193,
+  "full_name": "Ann Jones",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "SF",
+      "Roland Garros": "F",
+      "US Open": "SF"
+    },
+    "1969": {
+      "Roland Garros": "F",
+      "Wimbledon": "W",
+      "Australian Open": "SF"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tour": "wta",
+  "player_id": 200615,
+  "full_name": "Kristin Godridge",
+  "ioc": "HKG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "2R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

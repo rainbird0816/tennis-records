@@ -1,0 +1,64 @@
+{
+  "tour": "atp",
+  "player_id": 101377,
+  "full_name": "Christian Bergstrom",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "Roland Garros": "3R",
+      "Wimbledon": "QF",
+      "Australian Open": "2R"
+    },
+    "1991": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Wimbledon": "QF",
+      "Australian Open": "1R",
+      "US Open": "2R"
+    },
+    "1995": {
+      "Wimbledon": "1R"
+    }
+  }
+}

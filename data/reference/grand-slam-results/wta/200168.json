@@ -1,0 +1,52 @@
+{
+  "tour": "wta",
+  "player_id": 200168,
+  "full_name": "Karen Krantzcke",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1969": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "QF"
+    },
+    "1970": {
+      "Australian Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "SF"
+    },
+    "1971": {
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "3R",
+      "Australian Open": "QF"
+    },
+    "1973": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "QF"
+    },
+    "1974": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Australian Open": "SF"
+    }
+  }
+}

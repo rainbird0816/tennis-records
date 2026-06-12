@@ -1,0 +1,92 @@
+{
+  "tour": "atp",
+  "player_id": 100203,
+  "full_name": "Phil Dent",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1973": {
+      "US Open": "3R",
+      "Australian Open": "F",
+      "Roland Garros": "3R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "3R"
+    },
+    "1976": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "SF",
+      "Australian Open": "QF",
+      "Wimbledon": "QF",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1979": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "QF"
+    },
+    "1980": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1982": {
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1983": {
+      "Australian Open": "2R"
+    }
+  }
+}

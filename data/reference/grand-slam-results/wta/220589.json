@@ -1,0 +1,33 @@
+{
+  "tour": "wta",
+  "player_id": 220589,
+  "full_name": "Elina Avanesyan",
+  "ioc": "ARM",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "US Open": "1R"
+    },
+    "2023": {
+      "US Open": "2R",
+      "Roland Garros": "4R"
+    },
+    "2024": {
+      "Roland Garros": "4R",
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

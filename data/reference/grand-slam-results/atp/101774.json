@@ -1,0 +1,92 @@
+{
+  "tour": "atp",
+  "player_id": 101774,
+  "full_name": "Todd Martin",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "US Open": "1R"
+    },
+    "1991": {
+      "Roland Garros": "4R",
+      "US Open": "3R"
+    },
+    "1992": {
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1993": {
+      "Wimbledon": "QF",
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "US Open": "SF",
+      "Australian Open": "F",
+      "Wimbledon": "SF",
+      "Roland Garros": "3R"
+    },
+    "1995": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "1996": {
+      "Wimbledon": "SF",
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "US Open": "3R"
+    },
+    "1997": {
+      "US Open": "2R"
+    },
+    "1998": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R"
+    },
+    "1999": {
+      "US Open": "F",
+      "Australian Open": "QF",
+      "Wimbledon": "QF"
+    },
+    "2000": {
+      "US Open": "SF",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "2001": {
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2002": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2003": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    }
+  }
+}

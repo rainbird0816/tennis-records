@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 200316,
+  "full_name": "Heidi Eisterlehner",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Australian Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1984": {
+      "Roland Garros": "1R"
+    }
+  }
+}

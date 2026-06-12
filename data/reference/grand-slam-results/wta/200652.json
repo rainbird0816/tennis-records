@@ -1,0 +1,82 @@
+{
+  "tour": "wta",
+  "player_id": 200652,
+  "full_name": "Monica Seles",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "US Open": "4R",
+      "Roland Garros": "SF",
+      "Wimbledon": "4R"
+    },
+    "1990": {
+      "Roland Garros": "W",
+      "Wimbledon": "QF",
+      "US Open": "3R"
+    },
+    "1991": {
+      "Roland Garros": "W",
+      "US Open": "W",
+      "Australian Open": "W"
+    },
+    "1992": {
+      "Australian Open": "W",
+      "US Open": "W",
+      "Wimbledon": "F",
+      "Roland Garros": "W"
+    },
+    "1993": {
+      "Australian Open": "W"
+    },
+    "1995": {
+      "US Open": "F"
+    },
+    "1996": {
+      "US Open": "F",
+      "Roland Garros": "QF",
+      "Australian Open": "W",
+      "Wimbledon": "2R"
+    },
+    "1997": {
+      "US Open": "QF",
+      "Wimbledon": "3R",
+      "Roland Garros": "SF"
+    },
+    "1998": {
+      "Roland Garros": "F",
+      "Wimbledon": "QF",
+      "US Open": "QF"
+    },
+    "1999": {
+      "Australian Open": "SF",
+      "Roland Garros": "SF",
+      "Wimbledon": "3R",
+      "US Open": "QF"
+    },
+    "2000": {
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "US Open": "QF"
+    },
+    "2001": {
+      "Australian Open": "QF",
+      "US Open": "4R"
+    },
+    "2002": {
+      "US Open": "QF",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "Australian Open": "SF"
+    },
+    "2003": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

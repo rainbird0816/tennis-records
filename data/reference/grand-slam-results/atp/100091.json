@@ -1,0 +1,72 @@
+{
+  "tour": "atp",
+  "player_id": 100091,
+  "full_name": "Colin Dibley",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1971": {
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "3R",
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "Wimbledon": "QF",
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1973": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "1R",
+      "Australian Open": "SF"
+    },
+    "1980": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R"
+    }
+  }
+}

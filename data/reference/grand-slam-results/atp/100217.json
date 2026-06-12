@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 100217,
+  "full_name": "Bob Mckinley",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "3R"
+    },
+    "1969": {
+      "US Open": "3R"
+    },
+    "1970": {
+      "US Open": "3R"
+    },
+    "1971": {
+      "US Open": "1R"
+    },
+    "1972": {
+      "US Open": "1R"
+    },
+    "1973": {
+      "US Open": "2R",
+      "Wimbledon": "4R"
+    }
+  }
+}

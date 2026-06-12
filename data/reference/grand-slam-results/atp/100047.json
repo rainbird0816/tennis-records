@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 100047,
+  "full_name": "Bob Carmichael",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1970": {
+      "Wimbledon": "QF",
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1971": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "US Open": "2R",
+      "Australian Open": "QF"
+    },
+    "1973": {
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "US Open": "2R",
+      "Australian Open": "4R"
+    },
+    "1975": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "1R",
+      "Australian Open": "4R"
+    },
+    "1979": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

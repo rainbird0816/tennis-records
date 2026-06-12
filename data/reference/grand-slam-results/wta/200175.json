@@ -1,0 +1,36 @@
+{
+  "tour": "wta",
+  "player_id": 200175,
+  "full_name": "Mary Ann Eisel",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    }
+  }
+}

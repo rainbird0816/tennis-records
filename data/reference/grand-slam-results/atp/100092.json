@@ -1,0 +1,56 @@
+{
+  "tour": "atp",
+  "player_id": 100092,
+  "full_name": "Alex Metreveli",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R"
+    },
+    "1969": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1970": {
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "Australian Open": "SF"
+    },
+    "1972": {
+      "Roland Garros": "SF",
+      "Wimbledon": "QF",
+      "Australian Open": "QF"
+    },
+    "1973": {
+      "Roland Garros": "2R",
+      "Wimbledon": "F"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "US Open": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "QF"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    }
+  }
+}

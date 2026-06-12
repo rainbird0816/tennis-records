@@ -1,0 +1,50 @@
+{
+  "tour": "wta",
+  "player_id": 200145,
+  "full_name": "Kerry Harris",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Australian Open": "SF",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1972": {
+      "Wimbledon": "4R",
+      "US Open": "1R",
+      "Roland Garros": "1R",
+      "Australian Open": "QF"
+    },
+    "1973": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    }
+  }
+}

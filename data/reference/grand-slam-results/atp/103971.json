@@ -1,0 +1,54 @@
+{
+  "tour": "atp",
+  "player_id": 103971,
+  "full_name": "Karol Beck",
+  "ioc": "SVK",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2002": {
+      "Wimbledon": "2R"
+    },
+    "2003": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "2R",
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "2005": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

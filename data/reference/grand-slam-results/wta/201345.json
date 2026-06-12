@@ -1,0 +1,108 @@
+{
+  "tour": "wta",
+  "player_id": 201345,
+  "full_name": "Maria Sharapova",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2003": {
+      "US Open": "2R",
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2004": {
+      "Roland Garros": "QF",
+      "Wimbledon": "W",
+      "Australian Open": "3R",
+      "US Open": "3R"
+    },
+    "2005": {
+      "Wimbledon": "SF",
+      "US Open": "SF",
+      "Australian Open": "SF",
+      "Roland Garros": "QF"
+    },
+    "2006": {
+      "US Open": "W",
+      "Roland Garros": "4R",
+      "Wimbledon": "SF",
+      "Australian Open": "SF"
+    },
+    "2007": {
+      "Australian Open": "F",
+      "Roland Garros": "SF",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "2008": {
+      "Australian Open": "W",
+      "Wimbledon": "2R",
+      "Roland Garros": "4R"
+    },
+    "2009": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2010": {
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "2011": {
+      "Roland Garros": "SF",
+      "Australian Open": "4R",
+      "Wimbledon": "F",
+      "US Open": "3R"
+    },
+    "2012": {
+      "US Open": "SF",
+      "Roland Garros": "W",
+      "Australian Open": "F",
+      "Wimbledon": "4R"
+    },
+    "2013": {
+      "Australian Open": "SF",
+      "Roland Garros": "F",
+      "Wimbledon": "2R"
+    },
+    "2014": {
+      "Australian Open": "4R",
+      "Roland Garros": "W",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "2015": {
+      "Roland Garros": "4R",
+      "Australian Open": "F",
+      "Wimbledon": "SF"
+    },
+    "2016": {
+      "Australian Open": "QF"
+    },
+    "2017": {
+      "US Open": "4R"
+    },
+    "2018": {
+      "Roland Garros": "QF",
+      "US Open": "4R",
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "2019": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "2020": {
+      "Australian Open": "1R"
+    }
+  }
+}

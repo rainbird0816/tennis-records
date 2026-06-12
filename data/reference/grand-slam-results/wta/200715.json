@@ -1,0 +1,54 @@
+{
+  "tour": "wta",
+  "player_id": 200715,
+  "full_name": "Mariaan De Swardt",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1992": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "US Open": "3R"
+    },
+    "1995": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "US Open": "2R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1999": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

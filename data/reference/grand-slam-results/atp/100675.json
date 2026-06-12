@@ -1,0 +1,22 @@
+{
+  "tour": "atp",
+  "player_id": 100675,
+  "full_name": "John Mccurdy",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Australian Open": "3R"
+    },
+    "1983": {
+      "Wimbledon": "4R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

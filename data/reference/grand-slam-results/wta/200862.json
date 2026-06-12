@@ -1,0 +1,61 @@
+{
+  "tour": "wta",
+  "player_id": 200862,
+  "full_name": "Valerie Ziegenfuss",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "US Open": "3R",
+      "Wimbledon": "1R",
+      "Roland Garros": "4R"
+    },
+    "1973": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1974": {
+      "Wimbledon": "2R"
+    },
+    "1975": {
+      "US Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tour": "wta",
+  "player_id": 200141,
+  "full_name": "Wendy Gilchrist",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "2R"
+    },
+    "1969": {
+      "Australian Open": "3R",
+      "Wimbledon": "3R"
+    },
+    "1970": {
+      "Australian Open": "4R"
+    },
+    "1971": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1973": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Australian Open": "3R"
+    }
+  }
+}

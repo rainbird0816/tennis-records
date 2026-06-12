@@ -55,9 +55,17 @@ export default function Category() {
 
   return (
     <div>
-      <div className="flex items-center justify-between mb-6">
+      <div className="flex items-center justify-between mb-6 gap-3 flex-wrap">
         <h1 className="text-2xl font-bold">{TITLES[tier] ?? tier}</h1>
-        <TourToggle value={tour} onChange={setTour} />
+        <div className="flex items-center gap-3">
+          <Link
+            to={`/overview/${tier}`}
+            className="text-sm rounded-lg border px-3 py-1.5 hover:bg-neutral-50 hover:border-court hover:text-court transition"
+          >
+            🗂️ 역대 우승자 한눈에
+          </Link>
+          <TourToggle value={tour} onChange={setTour} />
+        </div>
       </div>
 
       {isLoading && <p className="text-neutral-400">불러오는 중…</p>}

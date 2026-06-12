@@ -1,0 +1,63 @@
+{
+  "tour": "wta",
+  "player_id": 202427,
+  "full_name": "Johanna Konta",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2012": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2013": {
+      "Wimbledon": "1R"
+    },
+    "2014": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2016": {
+      "Australian Open": "SF",
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "2017": {
+      "Wimbledon": "SF",
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2018": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2019": {
+      "Wimbledon": "QF",
+      "US Open": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "SF"
+    },
+    "2020": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

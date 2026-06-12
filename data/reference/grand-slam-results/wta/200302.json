@@ -1,0 +1,34 @@
+{
+  "tour": "wta",
+  "player_id": 200302,
+  "full_name": "Linda Mottram",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "3R"
+    },
+    "1976": {
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Wimbledon": "1R"
+    }
+  }
+}

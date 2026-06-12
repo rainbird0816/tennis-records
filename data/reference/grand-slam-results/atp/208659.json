@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 208659,
+  "full_name": "Giovanni Mpetshi Perricard",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2023": {
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

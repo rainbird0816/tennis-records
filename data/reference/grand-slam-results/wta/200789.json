@@ -1,0 +1,37 @@
+{
+  "tour": "wta",
+  "player_id": 200789,
+  "full_name": "Lea Pericoli",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1970": {
+      "Wimbledon": "4R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1974": {
+      "Roland Garros": "2R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    }
+  }
+}

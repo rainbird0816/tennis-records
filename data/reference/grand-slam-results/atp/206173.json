@@ -1,0 +1,56 @@
+{
+  "tour": "atp",
+  "player_id": 206173,
+  "full_name": "Jannik Sinner",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2019": {
+      "US Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "QF",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2021": {
+      "US Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2022": {
+      "Wimbledon": "QF",
+      "Australian Open": "QF",
+      "Roland Garros": "4R",
+      "US Open": "QF"
+    },
+    "2023": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Wimbledon": "SF",
+      "Roland Garros": "2R"
+    },
+    "2024": {
+      "Roland Garros": "SF",
+      "Australian Open": "W",
+      "Wimbledon": "QF",
+      "US Open": "W"
+    },
+    "2025": {
+      "Australian Open": "W",
+      "Roland Garros": "F",
+      "Wimbledon": "W",
+      "US Open": "F"
+    },
+    "2026": {
+      "Australian Open": "SF",
+      "Roland Garros": "2R"
+    }
+  }
+}

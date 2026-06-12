@@ -1,0 +1,63 @@
+{
+  "tour": "wta",
+  "player_id": 201291,
+  "full_name": "Nuria Llagostera Vives",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2003": {
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "Roland Garros": "2R"
+    },
+    "2008": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    }
+  }
+}

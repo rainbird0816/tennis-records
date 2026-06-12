@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 101332,
+  "full_name": "Gilad Bloom",
+  "ioc": "ISR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1987": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1989": {
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "3R",
+      "US Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1991": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    }
+  }
+}

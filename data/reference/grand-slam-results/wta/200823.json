@@ -1,0 +1,29 @@
+{
+  "tour": "wta",
+  "player_id": 200823,
+  "full_name": "Eva Lundquist",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Roland Garros": "2R"
+    }
+  }
+}

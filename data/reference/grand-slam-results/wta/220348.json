@@ -1,0 +1,51 @@
+{
+  "tour": "wta",
+  "player_id": 220348,
+  "full_name": "Diane Parry",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2019": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Roland Garros": "1R"
+    },
+    "2022": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "US Open": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2026": {
+      "Roland Garros": "4R"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tour": "atp",
+  "player_id": 100905,
+  "full_name": "Sammy Giammalva Jr",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1981": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1982": {
+      "Australian Open": "QF"
+    },
+    "1983": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Wimbledon": "3R"
+    },
+    "1989": {
+      "Wimbledon": "1R"
+    }
+  }
+}

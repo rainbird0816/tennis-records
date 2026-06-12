@@ -1,0 +1,29 @@
+{
+  "tour": "wta",
+  "player_id": 211901,
+  "full_name": "Aliona Bolsova",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2019": {
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "2020": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2023": {
+      "Roland Garros": "2R"
+    }
+  }
+}

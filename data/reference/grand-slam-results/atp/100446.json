@@ -1,0 +1,62 @@
+{
+  "tour": "atp",
+  "player_id": 100446,
+  "full_name": "John Sadri",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "US Open": "3R",
+      "Australian Open": "4R"
+    },
+    "1979": {
+      "Australian Open": "F",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Australian Open": "QF",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1983": {
+      "US Open": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Australian Open": "4R",
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    }
+  }
+}

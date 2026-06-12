@@ -1,0 +1,33 @@
+{
+  "tour": "wta",
+  "player_id": 201600,
+  "full_name": "Jamie Hampton",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2010": {
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Roland Garros": "4R",
+      "Australian Open": "3R",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    }
+  }
+}

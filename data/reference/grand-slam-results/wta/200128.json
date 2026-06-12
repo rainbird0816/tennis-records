@@ -1,0 +1,103 @@
+{
+  "tour": "wta",
+  "player_id": 200128,
+  "full_name": "Lindsay Davenport",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "US Open": "1R"
+    },
+    "1992": {
+      "US Open": "2R"
+    },
+    "1993": {
+      "Australian Open": "3R",
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "Roland Garros": "3R",
+      "Wimbledon": "QF",
+      "Australian Open": "QF",
+      "US Open": "3R"
+    },
+    "1995": {
+      "Roland Garros": "4R",
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "QF",
+      "Wimbledon": "2R"
+    },
+    "1997": {
+      "Australian Open": "4R",
+      "US Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1998": {
+      "US Open": "W",
+      "Australian Open": "SF",
+      "Roland Garros": "SF",
+      "Wimbledon": "QF"
+    },
+    "1999": {
+      "Roland Garros": "QF",
+      "Australian Open": "SF",
+      "Wimbledon": "W",
+      "US Open": "SF"
+    },
+    "2000": {
+      "Australian Open": "W",
+      "US Open": "F",
+      "Wimbledon": "F",
+      "Roland Garros": "1R"
+    },
+    "2001": {
+      "Wimbledon": "SF",
+      "US Open": "QF",
+      "Australian Open": "SF"
+    },
+    "2002": {
+      "US Open": "SF"
+    },
+    "2003": {
+      "Wimbledon": "QF",
+      "US Open": "SF",
+      "Australian Open": "4R",
+      "Roland Garros": "4R"
+    },
+    "2004": {
+      "Roland Garros": "4R",
+      "Australian Open": "QF",
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "2005": {
+      "Australian Open": "F",
+      "Roland Garros": "QF",
+      "Wimbledon": "F",
+      "US Open": "QF"
+    },
+    "2006": {
+      "US Open": "QF",
+      "Australian Open": "QF"
+    },
+    "2008": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    }
+  }
+}

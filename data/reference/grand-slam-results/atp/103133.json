@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 103133,
+  "full_name": "Olivier Mutis",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1995": {
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Roland Garros": "1R"
+    },
+    "2003": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "4R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tour": "wta",
+  "player_id": 200599,
+  "full_name": "Carrie Cunningham",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "US Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "1991": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "US Open": "1R"
+    }
+  }
+}

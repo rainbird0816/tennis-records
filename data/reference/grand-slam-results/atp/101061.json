@@ -1,0 +1,68 @@
+{
+  "tour": "atp",
+  "player_id": 101061,
+  "full_name": "Jimmy Arias",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "US Open": "2R"
+    },
+    "1981": {
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1982": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1983": {
+      "US Open": "SF",
+      "Roland Garros": "4R"
+    },
+    "1984": {
+      "Roland Garros": "QF",
+      "US Open": "2R",
+      "Wimbledon": "4R"
+    },
+    "1985": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1991": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    }
+  }
+}

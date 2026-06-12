@@ -1,0 +1,44 @@
+{
+  "tour": "atp",
+  "player_id": 111794,
+  "full_name": "Kamil Majchrzak",
+  "ioc": "POL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2019": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2020": {
+      "US Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2022": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R"
+    },
+    "2026": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

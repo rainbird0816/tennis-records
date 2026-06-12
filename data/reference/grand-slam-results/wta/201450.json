@@ -1,0 +1,94 @@
+{
+  "tour": "wta",
+  "player_id": 201450,
+  "full_name": "Tsvetana Pironkova",
+  "ioc": "BUL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2006": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2007": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2008": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Wimbledon": "SF",
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2011": {
+      "US Open": "2R",
+      "Wimbledon": "QF",
+      "Roland Garros": "2R",
+      "Australian Open": "2R"
+    },
+    "2012": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "2013": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2015": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "US Open": "2R",
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "3R",
+      "US Open": "QF"
+    },
+    "2021": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

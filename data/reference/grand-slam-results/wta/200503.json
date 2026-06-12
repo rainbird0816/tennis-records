@@ -1,0 +1,61 @@
+{
+  "tour": "wta",
+  "player_id": 200503,
+  "full_name": "Gretchen Magers",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "US Open": "QF"
+    },
+    "1983": {
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "2R"
+    },
+    "1989": {
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    }
+  }
+}

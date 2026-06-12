@@ -1,0 +1,79 @@
+{
+  "tour": "atp",
+  "player_id": 100676,
+  "full_name": "Yannick Noah",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Roland Garros": "1R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1979": {
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "2R"
+    },
+    "1980": {
+      "US Open": "4R",
+      "Roland Garros": "4R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "US Open": "4R",
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1982": {
+      "US Open": "4R",
+      "Roland Garros": "QF"
+    },
+    "1983": {
+      "Roland Garros": "W",
+      "US Open": "QF"
+    },
+    "1984": {
+      "Roland Garros": "QF"
+    },
+    "1985": {
+      "US Open": "QF",
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "1986": {
+      "Roland Garros": "4R",
+      "US Open": "3R"
+    },
+    "1987": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "Australian Open": "QF"
+    },
+    "1988": {
+      "Australian Open": "4R",
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "US Open": "QF",
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "SF",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

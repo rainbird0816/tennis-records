@@ -1,0 +1,23 @@
+{
+  "tour": "atp",
+  "player_id": 100048,
+  "full_name": "Earl Butch Buchholz",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "QF"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Roland Garros": "2R",
+      "Australian Open": "QF"
+    }
+  }
+}

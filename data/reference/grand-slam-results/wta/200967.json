@@ -1,0 +1,30 @@
+{
+  "tour": "wta",
+  "player_id": 200967,
+  "full_name": "Zenda Liess",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "US Open": "QF"
+    },
+    "1977": {
+      "US Open": "3R"
+    },
+    "1978": {
+      "US Open": "3R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "US Open": "1R"
+    }
+  }
+}

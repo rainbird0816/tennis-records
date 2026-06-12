@@ -1,0 +1,47 @@
+{
+  "tour": "atp",
+  "player_id": 100259,
+  "full_name": "Peter Feigl",
+  "ioc": "AUT",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Australian Open": "2R"
+    },
+    "1977": {
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "1979": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1982": {
+      "Australian Open": "2R"
+    },
+    "1983": {
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "2R"
+    }
+  }
+}

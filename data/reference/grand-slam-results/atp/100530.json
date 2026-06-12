@@ -1,0 +1,53 @@
+{
+  "tour": "atp",
+  "player_id": 100530,
+  "full_name": "Andreas Maurer",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1980": {
+      "Roland Garros": "1R"
+    },
+    "1981": {
+      "Roland Garros": "1R"
+    },
+    "1982": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1985": {
+      "Wimbledon": "4R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

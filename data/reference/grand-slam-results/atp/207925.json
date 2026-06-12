@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 207925,
+  "full_name": "Flavio Cobolli",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2023": {
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "2025": {
+      "Roland Garros": "3R",
+      "Wimbledon": "QF",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "F",
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "tour": "atp",
+  "player_id": 102110,
+  "full_name": "Daniel Nestor",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "Australian Open": "1R"
+    },
+    "1993": {
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2001": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    }
+  }
+}

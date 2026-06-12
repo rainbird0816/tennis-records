@@ -1,0 +1,23 @@
+{
+  "tour": "wta",
+  "player_id": 200779,
+  "full_name": "Maryna Godwin",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    }
+  }
+}

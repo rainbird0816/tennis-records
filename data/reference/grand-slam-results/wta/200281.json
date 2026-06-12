@@ -1,0 +1,50 @@
+{
+  "tour": "wta",
+  "player_id": 200281,
+  "full_name": "Jackie Fayter",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tour": "atp",
+  "player_id": 100972,
+  "full_name": "Todd Witsken",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1988": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1991": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 100011,
+  "full_name": "Torben Ulrich",
+  "ioc": "DEN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1969": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "3R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "1R"
+    }
+  }
+}

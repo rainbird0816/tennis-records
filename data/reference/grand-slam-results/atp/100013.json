@@ -1,0 +1,35 @@
+{
+  "tour": "atp",
+  "player_id": 100013,
+  "full_name": "Neale Fraser",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "4R"
+    },
+    "1971": {
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1973": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1975": {
+      "Wimbledon": "1R"
+    }
+  }
+}

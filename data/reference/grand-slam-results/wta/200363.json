@@ -1,0 +1,42 @@
+{
+  "tour": "wta",
+  "player_id": 200363,
+  "full_name": "Hana Strachonova",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Roland Garros": "3R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "1980": {
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R"
+    }
+  }
+}

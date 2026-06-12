@@ -1,0 +1,91 @@
+{
+  "tour": "atp",
+  "player_id": 102845,
+  "full_name": "Carlos Moya",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Australian Open": "F",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "US Open": "SF",
+      "Australian Open": "2R",
+      "Roland Garros": "W",
+      "Wimbledon": "2R"
+    },
+    "1999": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "2R"
+    },
+    "2000": {
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2001": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "2002": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "2R"
+    },
+    "2003": {
+      "Australian Open": "2R",
+      "US Open": "4R",
+      "Roland Garros": "QF"
+    },
+    "2004": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "2005": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Roland Garros": "3R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "QF",
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "1R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R"
+    }
+  }
+}

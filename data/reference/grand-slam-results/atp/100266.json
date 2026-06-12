@@ -1,0 +1,70 @@
+{
+  "tour": "atp",
+  "player_id": 100266,
+  "full_name": "John Feaver",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1972": {
+      "Wimbledon": "2R"
+    },
+    "1973": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1979": {
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Wimbledon": "2R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "Wimbledon": "1R"
+    }
+  }
+}

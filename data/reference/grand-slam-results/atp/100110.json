@@ -1,0 +1,34 @@
+{
+  "tour": "atp",
+  "player_id": 100110,
+  "full_name": "Terry Addison",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "Australian Open": "4R"
+    },
+    "1969": {
+      "US Open": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

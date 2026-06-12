@@ -1,0 +1,65 @@
+{
+  "tour": "wta",
+  "player_id": 200027,
+  "full_name": "Magui Serna",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1997": {
+      "Wimbledon": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "US Open": "4R"
+    },
+    "1998": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2000": {
+      "US Open": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "QF"
+    },
+    "2001": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2004": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2005": {
+      "Australian Open": "1R"
+    }
+  }
+}

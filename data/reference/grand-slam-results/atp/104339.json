@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 104339,
+  "full_name": "Mario Ancic",
+  "ioc": "CRO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2002": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "Wimbledon": "SF",
+      "US Open": "1R"
+    },
+    "2005": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "Wimbledon": "4R"
+    },
+    "2006": {
+      "Wimbledon": "QF",
+      "Australian Open": "3R",
+      "Roland Garros": "QF"
+    },
+    "2007": {
+      "Australian Open": "4R"
+    },
+    "2008": {
+      "Roland Garros": "3R",
+      "Wimbledon": "QF"
+    },
+    "2009": {
+      "Australian Open": "3R"
+    }
+  }
+}

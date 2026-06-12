@@ -1,0 +1,24 @@
+{
+  "tour": "wta",
+  "player_id": 200889,
+  "full_name": "Miroslava Holubova",
+  "ioc": "TCH",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Roland Garros": "1R"
+    },
+    "1976": {
+      "Roland Garros": "QF"
+    }
+  }
+}

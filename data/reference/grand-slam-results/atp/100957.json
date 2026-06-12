@@ -1,0 +1,44 @@
+{
+  "tour": "atp",
+  "player_id": 100957,
+  "full_name": "Greg Holmes",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "US Open": "4R",
+      "Australian Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1985": {
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Wimbledon": "3R"
+    }
+  }
+}

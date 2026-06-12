@@ -1,0 +1,36 @@
+{
+  "tour": "atp",
+  "player_id": 100293,
+  "full_name": "John Marks",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Australian Open": "2R"
+    },
+    "1976": {
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Australian Open": "F",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

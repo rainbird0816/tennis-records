@@ -1,0 +1,97 @@
+{
+  "tour": "atp",
+  "player_id": 103908,
+  "full_name": "Paul Henri Mathieu",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "Roland Garros": "1R"
+    },
+    "2002": {
+      "Wimbledon": "2R",
+      "Roland Garros": "4R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "US Open": "3R"
+    },
+    "2005": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2007": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "4R",
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2009": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Wimbledon": "4R",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2012": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2013": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2015": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2017": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

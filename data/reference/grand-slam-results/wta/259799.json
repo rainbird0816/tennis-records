@@ -1,0 +1,35 @@
+{
+  "tour": "wta",
+  "player_id": 259799,
+  "full_name": "Mirra Andreeva",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2023": {
+      "Roland Garros": "3R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Roland Garros": "SF",
+      "Australian Open": "4R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "Roland Garros": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "4R",
+      "US Open": "3R"
+    },
+    "2026": {
+      "Roland Garros": "W",
+      "Australian Open": "4R"
+    }
+  }
+}

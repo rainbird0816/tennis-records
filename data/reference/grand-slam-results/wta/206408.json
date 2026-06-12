@@ -1,0 +1,44 @@
+{
+  "tour": "wta",
+  "player_id": 206408,
+  "full_name": "Nadia Podoroska",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2016": {
+      "US Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "SF"
+    },
+    "2021": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2022": {
+      "US Open": "1R"
+    },
+    "2023": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "1R"
+    }
+  }
+}

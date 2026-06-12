@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 101080,
+  "full_name": "Lawson Duncan",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R"
+    },
+    "1987": {
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "US Open": "2R",
+      "Roland Garros": "4R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

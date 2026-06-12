@@ -1,0 +1,101 @@
+{
+  "tour": "wta",
+  "player_id": 201496,
+  "full_name": "Caroline Wozniacki",
+  "ioc": "DEN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2007": {
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "2008": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "2009": {
+      "Australian Open": "3R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "US Open": "F"
+    },
+    "2010": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "SF",
+      "Australian Open": "4R"
+    },
+    "2011": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "Australian Open": "SF",
+      "US Open": "SF"
+    },
+    "2012": {
+      "Roland Garros": "3R",
+      "Australian Open": "QF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2014": {
+      "US Open": "F",
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2015": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "2016": {
+      "US Open": "SF",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "2018": {
+      "US Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "W"
+    },
+    "2019": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "3R"
+    },
+    "2020": {
+      "Australian Open": "3R"
+    },
+    "2023": {
+      "US Open": "4R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    }
+  }
+}

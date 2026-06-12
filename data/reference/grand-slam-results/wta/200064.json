@@ -1,0 +1,102 @@
+{
+  "tour": "wta",
+  "player_id": 200064,
+  "full_name": "Amanda Coetzer",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1993": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "1994": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "US Open": "QF"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Australian Open": "SF",
+      "US Open": "QF",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1997": {
+      "Roland Garros": "SF",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "SF"
+    },
+    "1998": {
+      "Wimbledon": "2R",
+      "US Open": "QF",
+      "Australian Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1999": {
+      "Wimbledon": "3R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2001": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "4R",
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "2003": {
+      "Australian Open": "4R",
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "2004": {
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tour": "atp",
+  "player_id": 210097,
+  "full_name": "Ben Shelton",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "US Open": "1R"
+    },
+    "2023": {
+      "Wimbledon": "2R",
+      "US Open": "SF",
+      "Australian Open": "QF",
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "Australian Open": "3R",
+      "US Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "2025": {
+      "Australian Open": "SF",
+      "US Open": "3R",
+      "Wimbledon": "QF",
+      "Roland Garros": "4R"
+    },
+    "2026": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R"
+    }
+  }
+}

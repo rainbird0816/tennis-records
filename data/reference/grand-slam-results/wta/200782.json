@@ -1,0 +1,35 @@
+{
+  "tour": "wta",
+  "player_id": 200782,
+  "full_name": "Esme Emmanuel",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    }
+  }
+}

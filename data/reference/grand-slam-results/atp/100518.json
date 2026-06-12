@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 100518,
+  "full_name": "Ricardo Acuna",
+  "ioc": "CHI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "US Open": "1R"
+    },
+    "1982": {
+      "US Open": "1R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1984": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "3R"
+    }
+  }
+}

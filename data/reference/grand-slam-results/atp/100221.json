@@ -1,0 +1,53 @@
+{
+  "tour": "atp",
+  "player_id": 100221,
+  "full_name": "Carlos Kirmayr",
+  "ioc": "BRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1977": {
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "1982": {
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

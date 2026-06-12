@@ -1,0 +1,49 @@
+{
+  "tour": "wta",
+  "player_id": 200559,
+  "full_name": "Kristine Kunce",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "Australian Open": "1R"
+    },
+    "1989": {
+      "Wimbledon": "2R"
+    },
+    "1990": {
+      "Australian Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "US Open": "2R"
+    },
+    "1994": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Australian Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R"
+    }
+  }
+}

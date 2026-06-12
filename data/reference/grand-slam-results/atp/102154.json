@@ -1,0 +1,62 @@
+{
+  "tour": "atp",
+  "player_id": 102154,
+  "full_name": "Marcos Ondruska",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R"
+    }
+  }
+}

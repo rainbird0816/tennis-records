@@ -1,0 +1,62 @@
+{
+  "tour": "atp",
+  "player_id": 100315,
+  "full_name": "Hank Pfister",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Australian Open": "SF",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Australian Open": "SF",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "SF"
+    },
+    "1983": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1985": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1988": {
+      "Australian Open": "1R"
+    }
+  }
+}

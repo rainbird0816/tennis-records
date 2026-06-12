@@ -1,0 +1,25 @@
+{
+  "tour": "atp",
+  "player_id": 100924,
+  "full_name": "Jorge Lozano",
+  "ioc": "MEX",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1987": {
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "US Open": "4R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

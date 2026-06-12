@@ -1,0 +1,26 @@
+{
+  "tour": "wta",
+  "player_id": 200336,
+  "full_name": "Keryn Pratt",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Australian Open": "3R"
+    },
+    "1979": {
+      "Australian Open": "4R"
+    },
+    "1980": {
+      "Australian Open": "3R"
+    }
+  }
+}

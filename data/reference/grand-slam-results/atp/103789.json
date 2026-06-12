@@ -1,0 +1,37 @@
+{
+  "tour": "atp",
+  "player_id": 103789,
+  "full_name": "Irakli Labadze",
+  "ioc": "GEO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2002": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Wimbledon": "4R"
+    }
+  }
+}

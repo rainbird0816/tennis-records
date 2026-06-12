@@ -1,0 +1,68 @@
+{
+  "tour": "wta",
+  "player_id": 202460,
+  "full_name": "Ons Jabeur",
+  "ioc": "TUN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2014": {
+      "US Open": "1R"
+    },
+    "2015": {
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2018": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "US Open": "3R",
+      "Australian Open": "QF",
+      "Roland Garros": "4R"
+    },
+    "2021": {
+      "Wimbledon": "QF",
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "4R"
+    },
+    "2022": {
+      "US Open": "F",
+      "Roland Garros": "1R",
+      "Wimbledon": "F"
+    },
+    "2023": {
+      "Wimbledon": "F",
+      "Australian Open": "2R",
+      "Roland Garros": "QF",
+      "US Open": "4R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "QF",
+      "Wimbledon": "3R"
+    },
+    "2025": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

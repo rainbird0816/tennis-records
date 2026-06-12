@@ -1,0 +1,54 @@
+{
+  "tour": "wta",
+  "player_id": 206219,
+  "full_name": "Oceane Dodin",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2015": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2016": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2018": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "US Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Roland Garros": "1R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Roland Garros": "2R"
+    },
+    "2024": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

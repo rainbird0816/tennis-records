@@ -1,0 +1,20 @@
+{
+  "tour": "wta",
+  "player_id": 200247,
+  "full_name": "Dorte Ekner",
+  "ioc": "DEN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Australian Open": "QF"
+    }
+  }
+}

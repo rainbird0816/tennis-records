@@ -1,0 +1,56 @@
+{
+  "tour": "atp",
+  "player_id": 101382,
+  "full_name": "Marcelo Filippini",
+  "ioc": "URU",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "Roland Garros": "2R"
+    },
+    "1989": {
+      "Roland Garros": "1R"
+    },
+    "1990": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Roland Garros": "2R"
+    },
+    "1992": {
+      "Roland Garros": "4R"
+    },
+    "1993": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Roland Garros": "1R"
+    },
+    "1996": {
+      "US Open": "1R"
+    },
+    "1997": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1999": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tour": "wta",
+  "player_id": 202434,
+  "full_name": "Aleksandra Krunic",
+  "ioc": "SRB",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2013": {
+      "US Open": "1R"
+    },
+    "2014": {
+      "US Open": "4R"
+    },
+    "2015": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "US Open": "3R"
+    },
+    "2018": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2021": {
+      "Roland Garros": "1R"
+    },
+    "2022": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2024": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

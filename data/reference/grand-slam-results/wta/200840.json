@@ -1,0 +1,29 @@
+{
+  "tour": "wta",
+  "player_id": 200840,
+  "full_name": "Eva Szabo",
+  "ioc": "HUN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R"
+    },
+    "1970": {
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R"
+    },
+    "1975": {
+      "Roland Garros": "QF"
+    },
+    "1976": {
+      "Roland Garros": "3R"
+    }
+  }
+}

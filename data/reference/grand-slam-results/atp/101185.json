@@ -1,0 +1,101 @@
+{
+  "tour": "atp",
+  "player_id": 101185,
+  "full_name": "Mark Woodforde",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "Australian Open": "3R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1988": {
+      "Wimbledon": "4R",
+      "US Open": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R"
+    },
+    "1989": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R"
+    },
+    "1991": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1993": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Australian Open": "SF",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2000": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tour": "wta",
+  "player_id": 200263,
+  "full_name": "Janet Newberry",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "2R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1973": {
+      "Australian Open": "QF",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "2R"
+    },
+    "1975": {
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "SF"
+    },
+    "1976": {
+      "US Open": "4R"
+    },
+    "1977": {
+      "Roland Garros": "SF",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "QF"
+    },
+    "1980": {
+      "US Open": "2R"
+    }
+  }
+}

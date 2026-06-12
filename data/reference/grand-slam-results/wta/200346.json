@@ -1,0 +1,86 @@
+{
+  "tour": "wta",
+  "player_id": 200346,
+  "full_name": "Anne Minter",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "Australian Open": "4R"
+    },
+    "1980": {
+      "Australian Open": "4R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "US Open": "3R",
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R"
+    },
+    "1989": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "tour": "atp",
+  "player_id": 111456,
+  "full_name": "Mackenzie Mcdonald",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2016": {
+      "US Open": "1R"
+    },
+    "2018": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2019": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2020": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2021": {
+      "US Open": "2R",
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2022": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R"
+    }
+  }
+}

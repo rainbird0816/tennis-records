@@ -1,0 +1,47 @@
+{
+  "tour": "atp",
+  "player_id": 100597,
+  "full_name": "Jay Lapidus",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "1R"
+    },
+    "1980": {
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "US Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "1984": {
+      "US Open": "3R"
+    },
+    "1985": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "3R"
+    },
+    "1987": {
+      "Australian Open": "1R"
+    }
+  }
+}

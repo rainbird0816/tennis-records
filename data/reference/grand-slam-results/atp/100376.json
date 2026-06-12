@@ -1,0 +1,59 @@
+{
+  "tour": "atp",
+  "player_id": 100376,
+  "full_name": "Buster C Mottram",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Wimbledon": "2R"
+    },
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "Wimbledon": "3R"
+    },
+    "1975": {
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "US Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "US Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Wimbledon": "2R"
+    },
+    "1982": {
+      "Wimbledon": "4R"
+    },
+    "1983": {
+      "Wimbledon": "1R"
+    }
+  }
+}

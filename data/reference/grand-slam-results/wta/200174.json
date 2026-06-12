@@ -1,0 +1,29 @@
+{
+  "tour": "wta",
+  "player_id": 200174,
+  "full_name": "Kerry Wilkinson",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "2R"
+    },
+    "1969": {
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Australian Open": "4R"
+    },
+    "1971": {
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Australian Open": "2R"
+    }
+  }
+}

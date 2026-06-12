@@ -1,0 +1,30 @@
+{
+  "tour": "wta",
+  "player_id": 200300,
+  "full_name": "Sally Greer",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "US Open": "3R"
+    },
+    "1974": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    }
+  }
+}

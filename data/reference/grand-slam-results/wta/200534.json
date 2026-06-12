@@ -1,0 +1,26 @@
+{
+  "tour": "wta",
+  "player_id": 200534,
+  "full_name": "Melissa Brown",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1988": {
+      "Australian Open": "3R"
+    }
+  }
+}

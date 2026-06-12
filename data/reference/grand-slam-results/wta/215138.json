@@ -1,0 +1,28 @@
+{
+  "tour": "wta",
+  "player_id": 215138,
+  "full_name": "Lulu Sun",
+  "ioc": "NZL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2024": {
+      "Wimbledon": "QF",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2026": {
+      "Australian Open": "1R"
+    }
+  }
+}

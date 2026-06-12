@@ -1,0 +1,38 @@
+{
+  "tour": "atp",
+  "player_id": 101232,
+  "full_name": "Nicklas Kroon",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "3R"
+    },
+    "1990": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "Australian Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

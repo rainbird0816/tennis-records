@@ -1,0 +1,81 @@
+{
+  "tour": "wta",
+  "player_id": 200401,
+  "full_name": "Manuela Maleeva Fragniere",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Australian Open": "3R",
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1983": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1984": {
+      "Roland Garros": "4R",
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "QF",
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1986": {
+      "US Open": "QF",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "1987": {
+      "US Open": "4R",
+      "Roland Garros": "QF",
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1988": {
+      "US Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1989": {
+      "US Open": "QF",
+      "Roland Garros": "QF"
+    },
+    "1990": {
+      "US Open": "QF",
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "US Open": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1992": {
+      "Australian Open": "QF",
+      "US Open": "SF",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "1993": {
+      "Australian Open": "4R",
+      "US Open": "SF",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1994": {
+      "Australian Open": "QF"
+    }
+  }
+}

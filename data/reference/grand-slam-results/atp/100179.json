@@ -1,0 +1,58 @@
+{
+  "tour": "atp",
+  "player_id": 100179,
+  "full_name": "Karl Meiler",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Roland Garros": "1R"
+    },
+    "1971": {
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Australian Open": "SF",
+      "Wimbledon": "2R"
+    },
+    "1973": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "US Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1977": {
+      "Wimbledon": "3R",
+      "Australian Open": "4R",
+      "Roland Garros": "3R"
+    },
+    "1978": {
+      "Roland Garros": "1R"
+    },
+    "1979": {
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "tour": "wta",
+  "player_id": 201355,
+  "full_name": "Flavia Pennetta",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2003": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "2007": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2008": {
+      "US Open": "QF",
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "2009": {
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2010": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "US Open": "3R"
+    },
+    "2011": {
+      "US Open": "QF",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "2012": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "2013": {
+      "Wimbledon": "4R",
+      "US Open": "SF",
+      "Roland Garros": "1R"
+    },
+    "2014": {
+      "US Open": "QF",
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "2015": {
+      "US Open": "W",
+      "Australian Open": "1R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    }
+  }
+}

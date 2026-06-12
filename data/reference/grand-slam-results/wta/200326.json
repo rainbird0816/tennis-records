@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 200326,
+  "full_name": "Naoko Sato",
+  "ioc": "JPN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Australian Open": "3R"
+    },
+    "1979": {
+      "Australian Open": "4R"
+    },
+    "1980": {
+      "Australian Open": "3R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    }
+  }
+}

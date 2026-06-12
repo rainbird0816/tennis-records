@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 100926,
+  "full_name": "Ken Flach",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "Australian Open": "3R"
+    },
+    "1984": {
+      "US Open": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "3R",
+      "US Open": "4R",
+      "Australian Open": "3R"
+    },
+    "1988": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "US Open": "3R",
+      "Wimbledon": "3R"
+    },
+    "1990": {
+      "Wimbledon": "2R"
+    },
+    "1995": {
+      "Wimbledon": "1R"
+    }
+  }
+}

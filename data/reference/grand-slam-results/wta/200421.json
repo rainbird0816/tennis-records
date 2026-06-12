@@ -1,0 +1,71 @@
+{
+  "tour": "wta",
+  "player_id": 200421,
+  "full_name": "Pascale Paradis Mangon",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "US Open": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1985": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "QF",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    }
+  }
+}

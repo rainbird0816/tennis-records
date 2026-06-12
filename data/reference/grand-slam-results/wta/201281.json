@@ -1,0 +1,62 @@
+{
+  "tour": "wta",
+  "player_id": 201281,
+  "full_name": "Laura Granville",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "US Open": "2R"
+    },
+    "1999": {
+      "US Open": "1R"
+    },
+    "2001": {
+      "US Open": "1R"
+    },
+    "2002": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2007": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2008": {
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "US Open": "1R"
+    }
+  }
+}

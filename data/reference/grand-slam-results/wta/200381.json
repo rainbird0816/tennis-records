@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 200381,
+  "full_name": "Andrea Jaeger",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "2R"
+    },
+    "1980": {
+      "Wimbledon": "QF",
+      "US Open": "SF",
+      "Roland Garros": "2R"
+    },
+    "1981": {
+      "Roland Garros": "SF",
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Wimbledon": "4R",
+      "Roland Garros": "F",
+      "Australian Open": "SF",
+      "US Open": "SF"
+    },
+    "1983": {
+      "Wimbledon": "F",
+      "US Open": "QF",
+      "Roland Garros": "SF"
+    },
+    "1984": {
+      "Roland Garros": "1R"
+    },
+    "1985": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    }
+  }
+}

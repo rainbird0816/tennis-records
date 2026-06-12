@@ -1,0 +1,41 @@
+{
+  "tour": "atp",
+  "player_id": 123755,
+  "full_name": "Daniel Elahi Galan",
+  "ioc": "COL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2020": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2021": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "2022": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "2023": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    }
+  }
+}

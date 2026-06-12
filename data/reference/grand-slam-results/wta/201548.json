@@ -1,0 +1,85 @@
+{
+  "tour": "wta",
+  "player_id": 201548,
+  "full_name": "Ajla Tomljanovic",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2013": {
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2014": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2018": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "Australian Open": "2R",
+      "US Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2021": {
+      "Wimbledon": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "2022": {
+      "US Open": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "2023": {
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2025": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

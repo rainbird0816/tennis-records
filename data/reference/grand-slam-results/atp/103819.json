@@ -1,0 +1,141 @@
+{
+  "tour": "atp",
+  "player_id": 103819,
+  "full_name": "Roger Federer",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2000": {
+      "Roland Garros": "4R",
+      "Australian Open": "3R",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "2001": {
+      "Roland Garros": "QF",
+      "Wimbledon": "QF",
+      "US Open": "4R",
+      "Australian Open": "3R"
+    },
+    "2002": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2003": {
+      "Australian Open": "4R",
+      "Wimbledon": "W",
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "2004": {
+      "US Open": "W",
+      "Wimbledon": "W",
+      "Roland Garros": "3R",
+      "Australian Open": "W"
+    },
+    "2005": {
+      "US Open": "W",
+      "Australian Open": "SF",
+      "Roland Garros": "SF",
+      "Wimbledon": "W"
+    },
+    "2006": {
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Australian Open": "W",
+      "Roland Garros": "F"
+    },
+    "2007": {
+      "Australian Open": "W",
+      "Wimbledon": "W",
+      "Roland Garros": "F",
+      "US Open": "W"
+    },
+    "2008": {
+      "Australian Open": "SF",
+      "Wimbledon": "F",
+      "US Open": "W",
+      "Roland Garros": "F"
+    },
+    "2009": {
+      "Roland Garros": "W",
+      "Wimbledon": "W",
+      "Australian Open": "F",
+      "US Open": "F"
+    },
+    "2010": {
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "Australian Open": "W",
+      "US Open": "SF"
+    },
+    "2011": {
+      "Australian Open": "SF",
+      "Roland Garros": "F",
+      "Wimbledon": "QF",
+      "US Open": "SF"
+    },
+    "2012": {
+      "Australian Open": "SF",
+      "US Open": "QF",
+      "Wimbledon": "W",
+      "Roland Garros": "SF"
+    },
+    "2013": {
+      "Australian Open": "SF",
+      "Wimbledon": "2R",
+      "Roland Garros": "QF",
+      "US Open": "4R"
+    },
+    "2014": {
+      "Australian Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "F",
+      "US Open": "SF"
+    },
+    "2015": {
+      "Australian Open": "3R",
+      "Roland Garros": "QF",
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "2016": {
+      "Australian Open": "SF",
+      "Wimbledon": "SF"
+    },
+    "2017": {
+      "Australian Open": "W",
+      "US Open": "QF",
+      "Wimbledon": "W"
+    },
+    "2018": {
+      "Wimbledon": "QF",
+      "US Open": "4R",
+      "Australian Open": "W"
+    },
+    "2019": {
+      "Australian Open": "4R",
+      "Roland Garros": "SF",
+      "Wimbledon": "F",
+      "US Open": "QF"
+    },
+    "2020": {
+      "Australian Open": "SF"
+    },
+    "2021": {
+      "Roland Garros": "4R",
+      "Wimbledon": "QF"
+    }
+  }
+}

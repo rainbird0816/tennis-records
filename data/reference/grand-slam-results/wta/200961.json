@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 200961,
+  "full_name": "Ivanna Madruga",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1979": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "QF",
+      "US Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1982": {
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "US Open": "QF",
+      "Roland Garros": "4R"
+    },
+    "1984": {
+      "Roland Garros": "1R"
+    },
+    "1986": {
+      "Roland Garros": "3R"
+    }
+  }
+}

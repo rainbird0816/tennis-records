@@ -1,0 +1,27 @@
+{
+  "tour": "wta",
+  "player_id": 260300,
+  "full_name": "Iva Jovic",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2024": {
+      "US Open": "2R"
+    },
+    "2025": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R"
+    }
+  }
+}

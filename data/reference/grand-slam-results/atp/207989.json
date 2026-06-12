@@ -1,0 +1,46 @@
+{
+  "tour": "atp",
+  "player_id": 207989,
+  "full_name": "Carlos Alcaraz",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2021": {
+      "US Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "2022": {
+      "Roland Garros": "QF",
+      "US Open": "W",
+      "Wimbledon": "4R",
+      "Australian Open": "3R"
+    },
+    "2023": {
+      "US Open": "SF",
+      "Wimbledon": "W",
+      "Roland Garros": "SF"
+    },
+    "2024": {
+      "Roland Garros": "W",
+      "Australian Open": "QF",
+      "Wimbledon": "W",
+      "US Open": "2R"
+    },
+    "2025": {
+      "US Open": "W",
+      "Wimbledon": "F",
+      "Roland Garros": "W",
+      "Australian Open": "QF"
+    },
+    "2026": {
+      "Australian Open": "W"
+    }
+  }
+}

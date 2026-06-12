@@ -1,0 +1,68 @@
+{
+  "tour": "atp",
+  "player_id": 102456,
+  "full_name": "Felix Mantilla",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "US Open": "4R",
+      "Australian Open": "QF",
+      "Roland Garros": "2R"
+    },
+    "1998": {
+      "Roland Garros": "SF",
+      "US Open": "2R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R"
+    },
+    "1999": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2002": {
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "2004": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

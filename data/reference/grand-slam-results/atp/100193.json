@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 100193,
+  "full_name": "Wanaro N'Godrella",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Roland Garros": "1R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1973": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Roland Garros": "2R"
+    },
+    "1976": {
+      "Roland Garros": "1R"
+    }
+  }
+}

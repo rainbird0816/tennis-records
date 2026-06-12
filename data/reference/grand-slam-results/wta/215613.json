@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 215613,
+  "full_name": "Emma Navarro",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2021": {
+      "US Open": "1R"
+    },
+    "2023": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Roland Garros": "4R",
+      "US Open": "SF",
+      "Wimbledon": "QF",
+      "Australian Open": "3R"
+    },
+    "2025": {
+      "Wimbledon": "4R",
+      "Australian Open": "QF",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tour": "wta",
+  "player_id": 200864,
+  "full_name": "Tiiu Kivi",
+  "ioc": "EST",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Roland Garros": "4R"
+    },
+    "1970": {
+      "Roland Garros": "3R"
+    }
+  }
+}

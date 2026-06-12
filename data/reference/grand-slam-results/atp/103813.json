@@ -1,0 +1,94 @@
+{
+  "tour": "atp",
+  "player_id": 103813,
+  "full_name": "Jarkko Nieminen",
+  "ioc": "FIN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2002": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2004": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R",
+      "US Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "2006": {
+      "Wimbledon": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2007": {
+      "Australian Open": "2R",
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "QF"
+    },
+    "2009": {
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2010": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2013": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2014": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    }
+  }
+}

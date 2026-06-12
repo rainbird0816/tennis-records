@@ -1,0 +1,69 @@
+{
+  "tour": "atp",
+  "player_id": 102856,
+  "full_name": "Gustavo Kuerten",
+  "ioc": "BRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "Roland Garros": "1R"
+    },
+    "1997": {
+      "Roland Garros": "W",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "US Open": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "QF"
+    },
+    "2000": {
+      "Roland Garros": "W",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "US Open": "QF",
+      "Roland Garros": "W",
+      "Australian Open": "2R"
+    },
+    "2002": {
+      "Roland Garros": "4R",
+      "US Open": "4R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "3R",
+      "Roland Garros": "QF",
+      "US Open": "1R"
+    },
+    "2005": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2008": {
+      "Roland Garros": "1R"
+    }
+  }
+}

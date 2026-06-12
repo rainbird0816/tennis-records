@@ -1,0 +1,38 @@
+{
+  "tour": "atp",
+  "player_id": 101030,
+  "full_name": "Goran Prpic",
+  "ioc": "CRO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Roland Garros": "2R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "QF",
+      "Wimbledon": "2R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1993": {
+      "Roland Garros": "QF",
+      "US Open": "1R"
+    }
+  }
+}

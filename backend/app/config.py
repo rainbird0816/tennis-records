@@ -10,6 +10,7 @@ BACKEND_DIR = ROOT_DIR / "backend"
 DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
 SEED_DIR = DATA_DIR / "seed"
+REFERENCE_DIR = DATA_DIR / "reference"
 
 # 빌드 산출물 — 단일 읽기 전용 SQLite (§4)
 DB_PATH = Path(os.environ.get("TENNIS_DB", DATA_DIR / "tennis.db"))

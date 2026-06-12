@@ -1,0 +1,40 @@
+{
+  "tour": "wta",
+  "player_id": 221012,
+  "full_name": "Qinwen Zheng",
+  "ioc": "CHN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "US Open": "3R"
+    },
+    "2023": {
+      "US Open": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Roland Garros": "3R",
+      "US Open": "QF",
+      "Australian Open": "F",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "Roland Garros": "QF",
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Roland Garros": "1R"
+    }
+  }
+}

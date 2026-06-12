@@ -1,0 +1,53 @@
+{
+  "tour": "wta",
+  "player_id": 200344,
+  "full_name": "Barbara Jordan",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "US Open": "3R"
+    },
+    "1978": {
+      "US Open": "1R"
+    },
+    "1979": {
+      "Australian Open": "W",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R"
+    },
+    "1985": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tour": "atp",
+  "player_id": 100553,
+  "full_name": "Nduka Odizor",
+  "ioc": "NGR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1983": {
+      "Wimbledon": "4R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Wimbledon": "2R"
+    },
+    "1985": {
+      "US Open": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1986": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Wimbledon": "1R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    }
+  }
+}

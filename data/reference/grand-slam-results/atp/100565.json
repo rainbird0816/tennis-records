@@ -1,0 +1,43 @@
+{
+  "tour": "atp",
+  "player_id": 100565,
+  "full_name": "Lloyd Bourne",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "1983": {
+      "US Open": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "US Open": "2R"
+    }
+  }
+}

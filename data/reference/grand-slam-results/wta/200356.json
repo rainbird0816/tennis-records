@@ -1,0 +1,78 @@
+{
+  "tour": "wta",
+  "player_id": 200356,
+  "full_name": "Betty Stove",
+  "ioc": "NED",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Wimbledon": "2R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Wimbledon": "4R",
+      "US Open": "4R",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "QF",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Wimbledon": "F",
+      "US Open": "SF"
+    },
+    "1978": {
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    }
+  }
+}

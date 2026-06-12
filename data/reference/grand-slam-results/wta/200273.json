@@ -1,0 +1,50 @@
+{
+  "tour": "wta",
+  "player_id": 200273,
+  "full_name": "Nerida Gregory",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1975": {
+      "Australian Open": "3R"
+    },
+    "1976": {
+      "Roland Garros": "2R"
+    },
+    "1977": {
+      "Australian Open": "4R"
+    },
+    "1978": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1979": {
+      "Australian Open": "3R"
+    },
+    "1980": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Wimbledon": "1R"
+    }
+  }
+}

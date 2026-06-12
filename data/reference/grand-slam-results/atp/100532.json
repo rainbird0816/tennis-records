@@ -1,0 +1,76 @@
+{
+  "tour": "atp",
+  "player_id": 100532,
+  "full_name": "Johan Kriek",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "US Open": "QF",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "US Open": "QF",
+      "Wimbledon": "3R",
+      "Roland Garros": "1R"
+    },
+    "1980": {
+      "US Open": "SF",
+      "Wimbledon": "3R"
+    },
+    "1981": {
+      "Wimbledon": "QF",
+      "Australian Open": "W",
+      "US Open": "3R"
+    },
+    "1982": {
+      "US Open": "3R",
+      "Australian Open": "W",
+      "Wimbledon": "QF"
+    },
+    "1983": {
+      "US Open": "4R",
+      "Australian Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1984": {
+      "US Open": "3R",
+      "Wimbledon": "4R",
+      "Australian Open": "SF"
+    },
+    "1985": {
+      "US Open": "2R",
+      "Wimbledon": "3R",
+      "Australian Open": "QF"
+    },
+    "1986": {
+      "Roland Garros": "SF",
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1987": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "1988": {
+      "Wimbledon": "1R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "1989": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1991": {
+      "Wimbledon": "1R"
+    }
+  }
+}

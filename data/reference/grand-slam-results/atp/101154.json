@@ -1,0 +1,72 @@
+{
+  "tour": "atp",
+  "player_id": 101154,
+  "full_name": "Simon Youl",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Australian Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "Wimbledon": "1R"
+    }
+  }
+}

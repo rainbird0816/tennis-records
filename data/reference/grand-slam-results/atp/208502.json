@@ -1,0 +1,26 @@
+{
+  "tour": "atp",
+  "player_id": 208502,
+  "full_name": "Dominic Stricker",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2023": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "1R"
+    }
+  }
+}

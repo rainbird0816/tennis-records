@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 200352,
+  "full_name": "Greer Stevens",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Wimbledon": "3R"
+    },
+    "1975": {
+      "US Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1976": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1980": {
+      "Wimbledon": "QF",
+      "Australian Open": "QF",
+      "US Open": "1R"
+    }
+  }
+}

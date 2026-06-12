@@ -1,0 +1,41 @@
+{
+  "tour": "atp",
+  "player_id": 100289,
+  "full_name": "Byron Bertram",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Wimbledon": "3R"
+    },
+    "1971": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1975": {
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Wimbledon": "QF",
+      "Roland Garros": "2R"
+    },
+    "1978": {
+      "Roland Garros": "1R"
+    },
+    "1980": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

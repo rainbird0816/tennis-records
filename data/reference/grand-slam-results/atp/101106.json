@@ -1,0 +1,53 @@
+{
+  "tour": "atp",
+  "player_id": 101106,
+  "full_name": "Peter Lundgren",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "US Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1988": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1991": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    }
+  }
+}

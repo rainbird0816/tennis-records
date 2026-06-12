@@ -1,0 +1,41 @@
+{
+  "tour": "atp",
+  "player_id": 208029,
+  "full_name": "Holger Rune",
+  "ioc": "DEN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2021": {
+      "US Open": "1R"
+    },
+    "2022": {
+      "US Open": "3R",
+      "Roland Garros": "QF",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2023": {
+      "Roland Garros": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "4R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Roland Garros": "4R",
+      "Australian Open": "4R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

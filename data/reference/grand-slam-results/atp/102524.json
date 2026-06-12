@@ -1,0 +1,38 @@
+{
+  "tour": "atp",
+  "player_id": 102524,
+  "full_name": "Neville Godwin",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1995": {
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1997": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Wimbledon": "1R"
+    },
+    "2000": {
+      "Wimbledon": "3R"
+    },
+    "2001": {
+      "Wimbledon": "1R"
+    },
+    "2002": {
+      "Wimbledon": "1R"
+    }
+  }
+}

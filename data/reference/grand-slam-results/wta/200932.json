@@ -1,0 +1,39 @@
+{
+  "tour": "wta",
+  "player_id": 200932,
+  "full_name": "Jeanne Evert",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "US Open": "2R"
+    },
+    "1973": {
+      "US Open": "4R"
+    },
+    "1974": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1976": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "US Open": "2R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    }
+  }
+}

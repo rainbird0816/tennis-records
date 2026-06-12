@@ -1,0 +1,59 @@
+{
+  "tour": "wta",
+  "player_id": 200655,
+  "full_name": "Nicole Arendt",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "US Open": "3R"
+    },
+    "1987": {
+      "US Open": "1R"
+    },
+    "1991": {
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1995": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Wimbledon": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1997": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    }
+  }
+}

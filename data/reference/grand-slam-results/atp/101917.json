@@ -1,0 +1,56 @@
+{
+  "tour": "atp",
+  "player_id": 101917,
+  "full_name": "Grant Stafford",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "US Open": "2R"
+    },
+    "1992": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "Wimbledon": "1R"
+    },
+    "2000": {
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "tour": "atp",
+  "player_id": 102030,
+  "full_name": "Andrew Foster",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Wimbledon": "4R"
+    },
+    "1994": {
+      "Wimbledon": "2R"
+    },
+    "1996": {
+      "Wimbledon": "1R"
+    }
+  }
+}

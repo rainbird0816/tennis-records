@@ -1,0 +1,52 @@
+{
+  "tour": "atp",
+  "player_id": 100403,
+  "full_name": "Rolf Gehring",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "1R"
+    },
+    "1977": {
+      "Roland Garros": "4R"
+    },
+    "1978": {
+      "Roland Garros": "4R"
+    },
+    "1979": {
+      "Roland Garros": "3R"
+    },
+    "1980": {
+      "Roland Garros": "3R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "1R"
+    },
+    "1984": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R"
+    }
+  }
+}

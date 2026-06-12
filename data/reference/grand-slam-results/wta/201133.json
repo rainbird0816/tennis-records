@@ -1,0 +1,24 @@
+{
+  "tour": "wta",
+  "player_id": 201133,
+  "full_name": "Eliza Pande",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "3R"
+    },
+    "1971": {
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1972": {
+      "US Open": "1R"
+    }
+  }
+}

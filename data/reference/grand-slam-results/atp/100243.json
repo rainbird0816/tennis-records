@@ -1,0 +1,66 @@
+{
+  "tour": "atp",
+  "player_id": 100243,
+  "full_name": "Steve Krulevitz",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "1R"
+    },
+    "1971": {
+      "US Open": "2R"
+    },
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "US Open": "2R",
+      "Australian Open": "4R"
+    },
+    "1980": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

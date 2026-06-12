@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 200078,
+  "full_name": "Barbara Schwartz",
+  "ioc": "AUT",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "2R",
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2001": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "2002": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2003": {
+      "Australian Open": "3R"
+    },
+    "2004": {
+      "Roland Garros": "1R"
+    }
+  }
+}

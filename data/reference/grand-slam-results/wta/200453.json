@@ -1,0 +1,72 @@
+{
+  "tour": "wta",
+  "player_id": 200453,
+  "full_name": "Catarina Lindqvist Ryan",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1986": {
+      "Wimbledon": "QF",
+      "US Open": "4R",
+      "Roland Garros": "4R"
+    },
+    "1987": {
+      "US Open": "4R",
+      "Australian Open": "SF",
+      "Wimbledon": "4R",
+      "Roland Garros": "2R"
+    },
+    "1988": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Wimbledon": "SF",
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "tour": "atp",
+  "player_id": 100141,
+  "full_name": "Zeljko Franulovic",
+  "ioc": "CRO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1969": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1970": {
+      "Roland Garros": "F",
+      "Wimbledon": "3R"
+    },
+    "1971": {
+      "Roland Garros": "SF",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Roland Garros": "2R"
+    },
+    "1973": {
+      "Roland Garros": "2R"
+    },
+    "1974": {
+      "Roland Garros": "3R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "2R"
+    },
+    "1979": {
+      "Roland Garros": "1R"
+    },
+    "1980": {
+      "Roland Garros": "1R"
+    },
+    "1981": {
+      "Roland Garros": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R"
+    }
+  }
+}

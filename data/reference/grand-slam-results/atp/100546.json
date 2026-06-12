@@ -1,0 +1,34 @@
+{
+  "tour": "atp",
+  "player_id": 100546,
+  "full_name": "Eric Fromm",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "1R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Roland Garros": "1R"
+    }
+  }
+}

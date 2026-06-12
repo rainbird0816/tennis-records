@@ -1,0 +1,61 @@
+{
+  "tour": "atp",
+  "player_id": 101746,
+  "full_name": "Renzo Furlan",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "US Open": "3R",
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Roland Garros": "3R",
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "2R"
+    }
+  }
+}

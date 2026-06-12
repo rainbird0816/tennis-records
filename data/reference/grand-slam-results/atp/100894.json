@@ -1,0 +1,34 @@
+{
+  "tour": "atp",
+  "player_id": 100894,
+  "full_name": "Francesco Cancellotti",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "4R"
+    },
+    "1985": {
+      "Roland Garros": "4R"
+    },
+    "1986": {
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1989": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "Roland Garros": "2R"
+    }
+  }
+}

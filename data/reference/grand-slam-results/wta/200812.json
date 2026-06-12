@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200812,
+  "full_name": "Odile De Roubin",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R"
+    },
+    "1969": {
+      "Roland Garros": "2R"
+    },
+    "1970": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "Roland Garros": "1R"
+    },
+    "1973": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Roland Garros": "2R"
+    }
+  }
+}

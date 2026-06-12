@@ -1,0 +1,24 @@
+{
+  "tour": "atp",
+  "player_id": 211663,
+  "full_name": "Joao Fonseca",
+  "ioc": "BRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2025": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Wimbledon": "3R"
+    },
+    "2026": {
+      "Roland Garros": "QF",
+      "Australian Open": "1R"
+    }
+  }
+}

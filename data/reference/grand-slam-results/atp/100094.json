@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 100094,
+  "full_name": "Jim Osborne",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "US Open": "3R"
+    },
+    "1970": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "US Open": "QF"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

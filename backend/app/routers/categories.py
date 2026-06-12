@@ -108,3 +108,59 @@ def category_detail(
         s["latest_champion"] = latest.get(s["name"])
 
     return {"tier": tier, "tour": tour, "series": series}
+
+
+@router.get("/overview/{tier}")
+def series_overview(
+    tier: str,
+    tour: str = Query(..., pattern="^(atp|wta)$"),
+) -> dict:
+    """시리즈 통합 우승자 매트릭스 (가로=대회, 세로=연도). OLYMPICS 는 champions 뷰 밖이라 제외."""
+    if tier not in TIERS:
+        raise HTTPException(404, f"unknown tier: {tier}")
+    if tier == "OLYMPICS":
+        raise HTTPException(400, "OLYMPICS 는 통합 매트릭스를 지원하지 않습니다.")
+
+    rows = query(
+        """
+        SELECT c.season, c.name, c.tourney_id, c.champion_id,
+               t.start_date,
+               p.full_name AS champion_name, p.ioc AS champion_ioc
+        FROM champions c
+        JOIN tournaments t ON t.tour = c.tour AND t.tourney_id = c.tourney_id
+        LEFT JOIN players p ON p.tour = c.tour AND p.player_id = c.champion_id
+        WHERE c.tier = :tier AND c.tour = :tour
+        """,
+        {"tier": tier, "tour": tour},
+    )
+
+    # 대회 칼럼 순서 = 대표(최신) 개최일 MMDD 기준 (Category 정렬과 동일 취지).
+    col_mmdd: dict[str, str] = {}
+    col_last: dict[str, int] = {}
+    for r in rows:
+        sd = r["start_date"] or ""
+        mmdd = sd[4:8] if len(sd) >= 8 else "9999"
+        if r["season"] >= col_last.get(r["name"], 0):
+            col_last[r["name"]] = r["season"]
+            col_mmdd[r["name"]] = mmdd
+    columns = sorted(col_mmdd, key=lambda n: (col_mmdd[n], n))
+
+    # grid["season|name"] = 우승자 셀
+    grid: dict[str, dict] = {}
+    seasons: set[int] = set()
+    for r in rows:
+        seasons.add(r["season"])
+        grid[f"{r['season']}|{r['name']}"] = {
+            "champion_id": r["champion_id"],
+            "champion_name": r["champion_name"],
+            "ioc": r["champion_ioc"],
+            "tourney_id": r["tourney_id"],
+        }
+
+    return {
+        "tier": tier,
+        "tour": tour,
+        "columns": columns,
+        "seasons": sorted(seasons, reverse=True),
+        "grid": grid,
+    }

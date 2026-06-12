@@ -1,0 +1,55 @@
+{
+  "tour": "wta",
+  "player_id": 200254,
+  "full_name": "Michele Gurdal",
+  "ioc": "BEL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Wimbledon": "1R",
+      "Roland Garros": "1R",
+      "Australian Open": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "4R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Australian Open": "4R",
+      "US Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Australian Open": "QF"
+    },
+    "1981": {
+      "Roland Garros": "1R"
+    }
+  }
+}

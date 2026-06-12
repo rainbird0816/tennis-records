@@ -1,0 +1,27 @@
+{
+  "tour": "wta",
+  "player_id": 200449,
+  "full_name": "Petra Keppeler",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1986": {
+      "Roland Garros": "1R"
+    }
+  }
+}

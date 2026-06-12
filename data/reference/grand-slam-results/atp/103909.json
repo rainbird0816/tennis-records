@@ -1,0 +1,50 @@
+{
+  "tour": "atp",
+  "player_id": 103909,
+  "full_name": "Guillermo Coria",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2000": {
+      "Roland Garros": "2R"
+    },
+    "2001": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2002": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "2003": {
+      "Australian Open": "4R",
+      "Roland Garros": "SF",
+      "US Open": "QF",
+      "Wimbledon": "1R"
+    },
+    "2004": {
+      "Roland Garros": "F",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "4R",
+      "US Open": "QF",
+      "Wimbledon": "4R",
+      "Australian Open": "4R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "1R"
+    }
+  }
+}

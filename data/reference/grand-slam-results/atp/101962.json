@@ -1,0 +1,66 @@
+{
+  "tour": "atp",
+  "player_id": 101962,
+  "full_name": "Younes El Aynaoui",
+  "ioc": "MAR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1994": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "2000": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "QF"
+    },
+    "2001": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2002": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "QF",
+      "Australian Open": "3R"
+    },
+    "2003": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Australian Open": "QF"
+    },
+    "2004": {
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "US Open": "1R"
+    }
+  }
+}

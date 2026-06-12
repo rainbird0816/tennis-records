@@ -1,0 +1,35 @@
+{
+  "tour": "wta",
+  "player_id": 200931,
+  "full_name": "Marina Kroschina",
+  "ioc": "URS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "2R"
+    },
+    "1971": {
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1973": {
+      "US Open": "2R",
+      "Wimbledon": "3R"
+    },
+    "1974": {
+      "Wimbledon": "2R"
+    },
+    "1975": {
+      "US Open": "3R",
+      "Roland Garros": "4R"
+    }
+  }
+}

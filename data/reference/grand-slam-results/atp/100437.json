@@ -1,0 +1,59 @@
+{
+  "tour": "atp",
+  "player_id": 100437,
+  "full_name": "Bjorn Borg",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Wimbledon": "QF",
+      "Roland Garros": "4R",
+      "US Open": "4R",
+      "Australian Open": "4R"
+    },
+    "1974": {
+      "Wimbledon": "3R",
+      "Roland Garros": "W",
+      "US Open": "2R"
+    },
+    "1975": {
+      "US Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "W"
+    },
+    "1976": {
+      "Wimbledon": "W",
+      "Roland Garros": "QF",
+      "US Open": "F"
+    },
+    "1977": {
+      "Wimbledon": "W",
+      "US Open": "4R"
+    },
+    "1978": {
+      "US Open": "F",
+      "Wimbledon": "W",
+      "Roland Garros": "W"
+    },
+    "1979": {
+      "Wimbledon": "W",
+      "US Open": "QF",
+      "Roland Garros": "W"
+    },
+    "1980": {
+      "Wimbledon": "W",
+      "US Open": "F",
+      "Roland Garros": "W"
+    },
+    "1981": {
+      "US Open": "F",
+      "Roland Garros": "W",
+      "Wimbledon": "F"
+    }
+  }
+}

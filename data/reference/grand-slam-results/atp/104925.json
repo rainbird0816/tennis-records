@@ -1,0 +1,140 @@
+{
+  "tour": "atp",
+  "player_id": 104925,
+  "full_name": "Novak Djokovic",
+  "ioc": "SRB",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2005": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Wimbledon": "4R",
+      "Roland Garros": "QF",
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "US Open": "F",
+      "Wimbledon": "SF",
+      "Australian Open": "4R",
+      "Roland Garros": "SF"
+    },
+    "2008": {
+      "US Open": "SF",
+      "Wimbledon": "2R",
+      "Australian Open": "W",
+      "Roland Garros": "SF"
+    },
+    "2009": {
+      "Roland Garros": "3R",
+      "US Open": "SF",
+      "Australian Open": "QF",
+      "Wimbledon": "QF"
+    },
+    "2010": {
+      "US Open": "F",
+      "Wimbledon": "SF",
+      "Roland Garros": "QF",
+      "Australian Open": "QF"
+    },
+    "2011": {
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Roland Garros": "SF",
+      "Australian Open": "W"
+    },
+    "2012": {
+      "Wimbledon": "SF",
+      "Roland Garros": "F",
+      "Australian Open": "W",
+      "US Open": "F"
+    },
+    "2013": {
+      "Roland Garros": "SF",
+      "Wimbledon": "F",
+      "Australian Open": "W",
+      "US Open": "F"
+    },
+    "2014": {
+      "Wimbledon": "W",
+      "US Open": "SF",
+      "Roland Garros": "F",
+      "Australian Open": "QF"
+    },
+    "2015": {
+      "Roland Garros": "F",
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Australian Open": "W"
+    },
+    "2016": {
+      "Australian Open": "W",
+      "US Open": "F",
+      "Roland Garros": "W",
+      "Wimbledon": "3R"
+    },
+    "2017": {
+      "Australian Open": "2R",
+      "Roland Garros": "QF",
+      "Wimbledon": "QF"
+    },
+    "2018": {
+      "Roland Garros": "QF",
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Australian Open": "4R"
+    },
+    "2019": {
+      "Roland Garros": "SF",
+      "Wimbledon": "W",
+      "Australian Open": "W",
+      "US Open": "4R"
+    },
+    "2020": {
+      "Australian Open": "W",
+      "US Open": "4R",
+      "Roland Garros": "F"
+    },
+    "2021": {
+      "US Open": "F",
+      "Australian Open": "W",
+      "Roland Garros": "W",
+      "Wimbledon": "W"
+    },
+    "2022": {
+      "Roland Garros": "QF",
+      "Wimbledon": "W"
+    },
+    "2023": {
+      "Wimbledon": "F",
+      "Australian Open": "W",
+      "Roland Garros": "W",
+      "US Open": "W"
+    },
+    "2024": {
+      "Australian Open": "SF",
+      "Roland Garros": "QF",
+      "Wimbledon": "F",
+      "US Open": "3R"
+    },
+    "2025": {
+      "Roland Garros": "SF",
+      "Australian Open": "SF",
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "2026": {
+      "Australian Open": "F",
+      "Roland Garros": "3R"
+    }
+  }
+}

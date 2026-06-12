@@ -1,0 +1,44 @@
+{
+  "tour": "atp",
+  "player_id": 100445,
+  "full_name": "Steve Denton",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Australian Open": "F",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Australian Open": "F",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1983": {
+      "Australian Open": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1987": {
+      "Australian Open": "1R"
+    }
+  }
+}

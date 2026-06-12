@@ -1,0 +1,44 @@
+{
+  "tour": "wta",
+  "player_id": 200884,
+  "full_name": "Marijke Jansen",
+  "ioc": "NED",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "3R"
+    },
+    "1969": {
+      "Wimbledon": "2R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "SF",
+      "Wimbledon": "4R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

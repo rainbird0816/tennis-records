@@ -1,0 +1,85 @@
+{
+  "tour": "wta",
+  "player_id": 200362,
+  "full_name": "Liz Smylie",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1988": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1989": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

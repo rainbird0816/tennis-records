@@ -1,0 +1,31 @@
+{
+  "tour": "atp",
+  "player_id": 100540,
+  "full_name": "Drew Gitlin",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1983": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Australian Open": "2R"
+    }
+  }
+}

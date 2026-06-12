@@ -1,0 +1,43 @@
+{
+  "tour": "wta",
+  "player_id": 201497,
+  "full_name": "Agnes Szavay",
+  "ioc": "HUN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2007": {
+      "US Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "2008": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "2009": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2011": {
+      "Roland Garros": "1R"
+    },
+    "2012": {
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "tour": "wta",
+  "player_id": 200394,
+  "full_name": "Marjorie Blackwood",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Wimbledon": "2R"
+    },
+    "1980": {
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Wimbledon": "3R"
+    }
+  }
+}

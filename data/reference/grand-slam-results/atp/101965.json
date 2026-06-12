@@ -1,0 +1,101 @@
+{
+  "tour": "atp",
+  "player_id": 101965,
+  "full_name": "Wayne Ferreira",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "Wimbledon": "2R"
+    },
+    "1991": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "Australian Open": "SF",
+      "Wimbledon": "4R",
+      "US Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "1993": {
+      "Wimbledon": "4R",
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1994": {
+      "US Open": "3R",
+      "Wimbledon": "QF",
+      "Australian Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Roland Garros": "3R",
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "US Open": "4R"
+    },
+    "1998": {
+      "Roland Garros": "3R",
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "2002": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "4R",
+      "Australian Open": "QF"
+    },
+    "2003": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "SF"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    }
+  }
+}

@@ -5,7 +5,7 @@
   "outputDirectory": "frontend/dist",
   "functions": {
     "api/index.py": {
-      "includeFiles": "data/tennis.db",
+      "includeFiles": "data/**",
       "maxDuration": 30
     }
   },

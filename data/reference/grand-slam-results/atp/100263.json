@@ -1,0 +1,30 @@
+{
+  "tour": "atp",
+  "player_id": 100263,
+  "full_name": "John Andrews",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "Australian Open": "4R",
+      "US Open": "1R"
+    },
+    "1975": {
+      "US Open": "3R",
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    }
+  }
+}

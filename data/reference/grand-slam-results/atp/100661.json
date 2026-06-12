@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 100661,
+  "full_name": "Damir Keretic",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Roland Garros": "3R",
+      "Australian Open": "4R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Australian Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "3R"
+    }
+  }
+}

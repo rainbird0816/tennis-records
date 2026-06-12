@@ -1,0 +1,56 @@
+{
+  "tour": "wta",
+  "player_id": 200228,
+  "full_name": "Olga Morozova",
+  "ioc": "URS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "4R",
+      "Wimbledon": "4R"
+    },
+    "1970": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "1972": {
+      "US Open": "QF",
+      "Roland Garros": "QF",
+      "Wimbledon": "4R"
+    },
+    "1973": {
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "4R"
+    },
+    "1974": {
+      "Roland Garros": "F",
+      "Wimbledon": "F",
+      "Australian Open": "QF"
+    },
+    "1975": {
+      "Wimbledon": "QF",
+      "Roland Garros": "SF",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Wimbledon": "QF",
+      "US Open": "3R"
+    }
+  }
+}

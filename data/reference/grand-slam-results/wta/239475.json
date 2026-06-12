@@ -1,0 +1,23 @@
+{
+  "tour": "wta",
+  "player_id": 239475,
+  "full_name": "Victoria Mboko",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2025": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "3R",
+      "Australian Open": "4R"
+    }
+  }
+}

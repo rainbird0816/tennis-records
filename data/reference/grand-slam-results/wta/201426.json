@@ -1,0 +1,95 @@
+{
+  "tour": "wta",
+  "player_id": 201426,
+  "full_name": "Pauline Parmentier",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2005": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2006": {
+      "Roland Garros": "1R"
+    },
+    "2007": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "2008": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2009": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "2010": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2011": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "2012": {
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2013": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2014": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2016": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2018": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

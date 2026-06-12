@@ -1,0 +1,68 @@
+{
+  "tour": "atp",
+  "player_id": 100073,
+  "full_name": "Mark Cox",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "Australian Open": "QF",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "US Open": "3R"
+    },
+    "1973": {
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "1974": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Wimbledon": "1R"
+    }
+  }
+}

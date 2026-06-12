@@ -1,0 +1,53 @@
+{
+  "tour": "atp",
+  "player_id": 101256,
+  "full_name": "Mark Kratzmann",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Australian Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Australian Open": "3R"
+    },
+    "1989": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

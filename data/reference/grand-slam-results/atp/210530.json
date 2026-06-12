@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 210530,
+  "full_name": "Learner Tien",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "US Open": "1R"
+    },
+    "2023": {
+      "US Open": "1R"
+    },
+    "2024": {
+      "US Open": "1R"
+    },
+    "2025": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R"
+    }
+  }
+}

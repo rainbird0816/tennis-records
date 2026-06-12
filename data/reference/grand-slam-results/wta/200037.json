@@ -1,0 +1,84 @@
+{
+  "tour": "wta",
+  "player_id": 200037,
+  "full_name": "Sabine Appelmans",
+  "ioc": "BEL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "Roland Garros": "2R"
+    },
+    "1990": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1991": {
+      "Australian Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1996": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "1999": {
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2000": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Australian Open": "2R"
+    }
+  }
+}

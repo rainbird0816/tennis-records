@@ -1,0 +1,91 @@
+{
+  "tour": "wta",
+  "player_id": 200159,
+  "full_name": "Rosie Casals",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "QF",
+      "Roland Garros": "4R",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1969": {
+      "Wimbledon": "SF",
+      "US Open": "SF",
+      "Australian Open": "QF",
+      "Roland Garros": "QF"
+    },
+    "1970": {
+      "Wimbledon": "SF",
+      "US Open": "F",
+      "Roland Garros": "QF"
+    },
+    "1971": {
+      "US Open": "F",
+      "Wimbledon": "2R"
+    },
+    "1972": {
+      "Wimbledon": "SF",
+      "US Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Wimbledon": "QF",
+      "US Open": "QF"
+    },
+    "1974": {
+      "Wimbledon": "4R",
+      "US Open": "QF"
+    },
+    "1975": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Wimbledon": "QF",
+      "US Open": "QF"
+    },
+    "1977": {
+      "Wimbledon": "QF",
+      "US Open": "4R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1984": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1985": {
+      "US Open": "2R"
+    }
+  }
+}

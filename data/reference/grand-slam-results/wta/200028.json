@@ -1,0 +1,50 @@
+{
+  "tour": "wta",
+  "player_id": 200028,
+  "full_name": "Maureen Drake",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "1R"
+    },
+    "1999": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2001": {
+      "Wimbledon": "2R"
+    },
+    "2002": {
+      "Wimbledon": "3R"
+    },
+    "2003": {
+      "Australian Open": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    }
+  }
+}

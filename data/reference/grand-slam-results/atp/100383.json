@@ -1,0 +1,60 @@
+{
+  "tour": "atp",
+  "player_id": 100383,
+  "full_name": "Peter Mcnamara",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Australian Open": "4R"
+    },
+    "1975": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1977": {
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "Australian Open": "4R"
+    },
+    "1980": {
+      "Australian Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1981": {
+      "Wimbledon": "QF",
+      "Roland Garros": "4R",
+      "Australian Open": "QF",
+      "US Open": "3R"
+    },
+    "1982": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Australian Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "1987": {
+      "Australian Open": "1R"
+    }
+  }
+}

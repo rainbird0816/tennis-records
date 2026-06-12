@@ -1,0 +1,34 @@
+{
+  "tour": "atp",
+  "player_id": 102169,
+  "full_name": "Michael Joyce",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "US Open": "2R"
+    },
+    "1993": {
+      "US Open": "2R"
+    },
+    "1995": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    }
+  }
+}

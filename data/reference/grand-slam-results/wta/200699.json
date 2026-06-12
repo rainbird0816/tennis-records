@@ -1,0 +1,50 @@
+{
+  "tour": "wta",
+  "player_id": 200699,
+  "full_name": "Meredith Mcgrath",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Roland Garros": "1R"
+    },
+    "1993": {
+      "US Open": "2R",
+      "Wimbledon": "4R"
+    },
+    "1994": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "SF",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R"
+    }
+  }
+}

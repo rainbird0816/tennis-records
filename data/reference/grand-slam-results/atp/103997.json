@@ -1,0 +1,48 @@
+{
+  "tour": "atp",
+  "player_id": 103997,
+  "full_name": "Lukasz Kubot",
+  "ioc": "POL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2006": {
+      "US Open": "3R"
+    },
+    "2009": {
+      "Roland Garros": "1R"
+    },
+    "2010": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "2012": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    }
+  }
+}

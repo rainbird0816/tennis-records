@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 100574,
+  "full_name": "Peter Rennert",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Australian Open": "QF",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1982": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    }
+  }
+}

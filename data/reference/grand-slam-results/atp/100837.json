@@ -1,0 +1,80 @@
+{
+  "tour": "atp",
+  "player_id": 100837,
+  "full_name": "Jeremy Bates",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1982": {
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1987": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    },
+    "1988": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Wimbledon": "4R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "1R"
+    }
+  }
+}

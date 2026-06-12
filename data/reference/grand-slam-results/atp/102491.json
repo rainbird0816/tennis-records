@@ -1,0 +1,29 @@
+{
+  "tour": "atp",
+  "player_id": 102491,
+  "full_name": "Alex Radulescu",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1997": {
+      "US Open": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

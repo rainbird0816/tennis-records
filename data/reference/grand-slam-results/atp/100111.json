@@ -1,0 +1,46 @@
+{
+  "tour": "atp",
+  "player_id": 100111,
+  "full_name": "Ray Keldie",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "4R"
+    },
+    "1969": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

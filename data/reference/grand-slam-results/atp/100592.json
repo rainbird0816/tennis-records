@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 100592,
+  "full_name": "Robert Vant Hof",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "1R"
+    },
+    "1980": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "3R"
+    },
+    "1982": {
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tour": "atp",
+  "player_id": 102869,
+  "full_name": "Galo Blanco",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Roland Garros": "QF",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2000": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2002": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "Roland Garros": "3R"
+    },
+    "2004": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    }
+  }
+}

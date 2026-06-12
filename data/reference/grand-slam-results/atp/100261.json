@@ -1,0 +1,85 @@
+{
+  "tour": "atp",
+  "player_id": 100261,
+  "full_name": "Brian Gottfried",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "US Open": "1R"
+    },
+    "1971": {
+      "US Open": "1R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1975": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Wimbledon": "3R"
+    },
+    "1976": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "4R"
+    },
+    "1977": {
+      "US Open": "QF",
+      "Roland Garros": "F",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Wimbledon": "QF",
+      "US Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "1979": {
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "3R"
+    },
+    "1980": {
+      "Wimbledon": "SF",
+      "Australian Open": "4R",
+      "US Open": "4R",
+      "Roland Garros": "4R"
+    },
+    "1981": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "4R",
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

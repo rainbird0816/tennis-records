@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 200866,
+  "full_name": "Linda Tuero",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "4R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1970": {
+      "US Open": "2R"
+    },
+    "1971": {
+      "Roland Garros": "QF",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    }
+  }
+}

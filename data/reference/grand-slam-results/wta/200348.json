@@ -1,0 +1,84 @@
+{
+  "tour": "wta",
+  "player_id": 200348,
+  "full_name": "Hana Mandlikova",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1978": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1979": {
+      "US Open": "2R",
+      "Australian Open": "QF",
+      "Roland Garros": "QF",
+      "Wimbledon": "4R"
+    },
+    "1980": {
+      "Australian Open": "W",
+      "US Open": "F",
+      "Roland Garros": "SF",
+      "Wimbledon": "4R"
+    },
+    "1981": {
+      "Roland Garros": "W",
+      "Wimbledon": "F",
+      "US Open": "QF",
+      "Australian Open": "QF"
+    },
+    "1982": {
+      "Roland Garros": "SF",
+      "US Open": "F",
+      "Australian Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1983": {
+      "Australian Open": "3R",
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "QF"
+    },
+    "1984": {
+      "Roland Garros": "SF",
+      "Wimbledon": "SF",
+      "US Open": "QF"
+    },
+    "1985": {
+      "Australian Open": "SF",
+      "Wimbledon": "3R",
+      "US Open": "W",
+      "Roland Garros": "QF"
+    },
+    "1986": {
+      "Wimbledon": "F",
+      "Roland Garros": "SF",
+      "US Open": "4R"
+    },
+    "1987": {
+      "Australian Open": "W",
+      "Roland Garros": "2R",
+      "US Open": "4R"
+    },
+    "1988": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1989": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1990": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R"
+    }
+  }
+}

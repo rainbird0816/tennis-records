@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 200265,
+  "full_name": "Lindsey Beaven",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Wimbledon": "4R"
+    },
+    "1972": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1973": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

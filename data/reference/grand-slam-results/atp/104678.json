@@ -1,0 +1,77 @@
+{
+  "tour": "atp",
+  "player_id": 104678,
+  "full_name": "Viktor Troicki",
+  "ioc": "SRB",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2008": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "2010": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Australian Open": "2R",
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R"
+    },
+    "2015": {
+      "US Open": "3R",
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "2016": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2017": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "2018": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2019": {
+      "Australian Open": "2R"
+    },
+    "2021": {
+      "Australian Open": "1R"
+    }
+  }
+}

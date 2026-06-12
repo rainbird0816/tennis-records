@@ -1,0 +1,17 @@
+{
+  "tour": "atp",
+  "player_id": 202879,
+  "full_name": "Max Cocks",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Australian Open": "4R"
+    }
+  }
+}

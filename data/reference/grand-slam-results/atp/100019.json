@@ -1,0 +1,31 @@
+{
+  "tour": "atp",
+  "player_id": 100019,
+  "full_name": "Wieslaw Gasiorek",
+  "ioc": "POL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "1R"
+    },
+    "1972": {
+      "Roland Garros": "3R"
+    }
+  }
+}

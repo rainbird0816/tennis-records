@@ -1,0 +1,55 @@
+{
+  "tour": "wta",
+  "player_id": 200425,
+  "full_name": "Sophie Amiach",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Roland Garros": "1R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Roland Garros": "1R"
+    },
+    "1993": {
+      "Roland Garros": "1R"
+    }
+  }
+}

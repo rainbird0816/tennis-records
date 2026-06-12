@@ -1,0 +1,36 @@
+{
+  "tour": "atp",
+  "player_id": 100809,
+  "full_name": "Juan Aguilera",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "Roland Garros": "4R",
+      "US Open": "2R"
+    },
+    "1985": {
+      "Roland Garros": "3R"
+    },
+    "1986": {
+      "Roland Garros": "2R"
+    },
+    "1990": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

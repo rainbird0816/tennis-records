@@ -1,0 +1,48 @@
+{
+  "tour": "wta",
+  "player_id": 200452,
+  "full_name": "Tine Scheuer Larsen",
+  "ioc": "DEN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "3R"
+    },
+    "1987": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "Australian Open": "1R"
+    }
+  }
+}

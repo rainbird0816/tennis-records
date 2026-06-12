@@ -1,0 +1,37 @@
+{
+  "tour": "atp",
+  "player_id": 100017,
+  "full_name": "Mal Anderson",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "3R"
+    },
+    "1969": {
+      "Wimbledon": "3R",
+      "Australian Open": "4R"
+    },
+    "1970": {
+      "Australian Open": "2R"
+    },
+    "1971": {
+      "Australian Open": "F"
+    },
+    "1972": {
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Australian Open": "4R"
+    },
+    "1977": {
+      "Australian Open": "2R"
+    }
+  }
+}

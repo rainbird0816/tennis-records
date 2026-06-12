@@ -1,0 +1,69 @@
+{
+  "tour": "wta",
+  "player_id": 200120,
+  "full_name": "Jelena Dokic",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Wimbledon": "QF",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Wimbledon": "SF",
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "2001": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2002": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "2003": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2011": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2012": {
+      "Australian Open": "2R"
+    }
+  }
+}

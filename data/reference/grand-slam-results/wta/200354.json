@@ -1,0 +1,86 @@
+{
+  "tour": "wta",
+  "player_id": 200354,
+  "full_name": "Claudia Kohde Kilsch",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "US Open": "3R",
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R"
+    },
+    "1983": {
+      "Wimbledon": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Wimbledon": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "4R",
+      "US Open": "4R"
+    },
+    "1985": {
+      "US Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "SF",
+      "Australian Open": "SF"
+    },
+    "1986": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "1987": {
+      "Roland Garros": "QF",
+      "US Open": "QF",
+      "Australian Open": "SF",
+      "Wimbledon": "QF"
+    },
+    "1988": {
+      "Australian Open": "SF",
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1989": {
+      "Wimbledon": "3R",
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

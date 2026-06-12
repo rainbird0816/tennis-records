@@ -1,0 +1,39 @@
+{
+  "tour": "wta",
+  "player_id": 200321,
+  "full_name": "Elisabeth Ekblom",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1975": {
+      "Australian Open": "SF"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "Australian Open": "3R",
+      "US Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Wimbledon": "1R"
+    }
+  }
+}

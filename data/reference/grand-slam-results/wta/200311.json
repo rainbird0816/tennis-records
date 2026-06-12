@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200311,
+  "full_name": "Cecilia Martinez",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1969": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "QF",
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1973": {
+      "US Open": "3R"
+    },
+    "1974": {
+      "Australian Open": "4R",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    }
+  }
+}

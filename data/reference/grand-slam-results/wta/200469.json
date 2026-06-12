@@ -1,0 +1,79 @@
+{
+  "tour": "wta",
+  "player_id": 200469,
+  "full_name": "Nicole Bradtke",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "Australian Open": "3R"
+    },
+    "1987": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1988": {
+      "Roland Garros": "SF",
+      "Australian Open": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1993": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "2R"
+    }
+  }
+}

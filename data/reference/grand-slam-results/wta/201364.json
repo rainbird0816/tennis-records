@@ -1,0 +1,43 @@
+{
+  "tour": "wta",
+  "player_id": 201364,
+  "full_name": "Tatiana Golovin",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2003": {
+      "Roland Garros": "1R"
+    },
+    "2004": {
+      "Wimbledon": "4R",
+      "Australian Open": "4R",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2005": {
+      "Australian Open": "2R",
+      "US Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "2006": {
+      "Wimbledon": "2R",
+      "US Open": "QF",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2007": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tour": "wta",
+  "player_id": 200848,
+  "full_name": "Maria Bueno",
+  "ioc": "BRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "QF"
+    },
+    "1976": {
+      "Wimbledon": "4R",
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1977": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 208103,
+  "full_name": "Jiri Lehecka",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "Roland Garros": "2R",
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "2025": {
+      "US Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "4R"
+    },
+    "2026": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "tour": "wta",
+  "player_id": 200902,
+  "full_name": "Corinne Molesworth",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Wimbledon": "3R"
+    },
+    "1977": {
+      "Wimbledon": "2R"
+    }
+  }
+}

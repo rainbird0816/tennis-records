@@ -1,0 +1,71 @@
+{
+  "tour": "atp",
+  "player_id": 101843,
+  "full_name": "Sergi Bruguera",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "2R",
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1991": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1992": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1993": {
+      "Roland Garros": "W",
+      "Australian Open": "4R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Roland Garros": "W",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1995": {
+      "Roland Garros": "SF",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "1997": {
+      "Australian Open": "3R",
+      "US Open": "4R",
+      "Roland Garros": "F"
+    },
+    "1998": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2000": {
+      "Roland Garros": "1R"
+    },
+    "2001": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

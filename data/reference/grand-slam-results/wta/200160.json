@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200160,
+  "full_name": "Judy Tegart",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "F",
+      "Australian Open": "SF",
+      "US Open": "QF"
+    },
+    "1969": {
+      "Australian Open": "3R",
+      "Wimbledon": "QF"
+    },
+    "1970": {
+      "Wimbledon": "4R",
+      "Australian Open": "QF",
+      "US Open": "4R",
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "US Open": "QF",
+      "Wimbledon": "SF"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    },
+    "1973": {
+      "Australian Open": "QF"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R"
+    },
+    "1977": {
+      "Australian Open": "QF"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tour": "wta",
+  "player_id": 203354,
+  "full_name": "Martina Trevisan",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2020": {
+      "Roland Garros": "QF",
+      "Australian Open": "1R"
+    },
+    "2021": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2022": {
+      "Roland Garros": "SF",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2023": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

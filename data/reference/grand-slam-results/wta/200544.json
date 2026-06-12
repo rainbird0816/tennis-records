@@ -1,0 +1,25 @@
+{
+  "tour": "wta",
+  "player_id": 200544,
+  "full_name": "Celine Cohen",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    }
+  }
+}

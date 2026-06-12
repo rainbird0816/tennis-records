@@ -1,0 +1,44 @@
+{
+  "tour": "atp",
+  "player_id": 103324,
+  "full_name": "Arnaud Di Pasquale",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1999": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2002": {
+      "Roland Garros": "4R"
+    },
+    "2003": {
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    }
+  }
+}

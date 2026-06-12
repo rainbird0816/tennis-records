@@ -1,0 +1,74 @@
+{
+  "tour": "wta",
+  "player_id": 200035,
+  "full_name": "Maria Sanchez Lorenzo",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1996": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2000": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2001": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2002": {
+      "Wimbledon": "1R"
+    },
+    "2003": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "2004": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

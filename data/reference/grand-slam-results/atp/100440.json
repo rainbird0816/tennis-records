@@ -1,0 +1,56 @@
+{
+  "tour": "atp",
+  "player_id": 100440,
+  "full_name": "Eddie Edwards",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1983": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "3R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1985": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1987": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1988": {
+      "Australian Open": "3R"
+    }
+  }
+}

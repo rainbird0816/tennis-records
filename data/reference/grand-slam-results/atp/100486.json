@@ -1,0 +1,52 @@
+{
+  "tour": "atp",
+  "player_id": 100486,
+  "full_name": "Christophe Roger-Vasselin",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "Roland Garros": "1R"
+    },
+    "1977": {
+      "Roland Garros": "2R"
+    },
+    "1978": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Roland Garros": "2R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Roland Garros": "SF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Roland Garros": "1R"
+    }
+  }
+}

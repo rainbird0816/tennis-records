@@ -1,0 +1,77 @@
+{
+  "tour": "wta",
+  "player_id": 200621,
+  "full_name": "Isabelle Demongeot",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "2R"
+    },
+    "1985": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "US Open": "3R",
+      "Wimbledon": "3R",
+      "Roland Garros": "2R"
+    },
+    "1988": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

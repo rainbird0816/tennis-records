@@ -1,0 +1,33 @@
+{
+  "tour": "atp",
+  "player_id": 102788,
+  "full_name": "Jan Vacek",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

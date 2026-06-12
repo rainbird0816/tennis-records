@@ -1,0 +1,20 @@
+{
+  "tour": "wta",
+  "player_id": 200231,
+  "full_name": "Brenda Dart",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Australian Open": "4R"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tour": "atp",
+  "player_id": 101120,
+  "full_name": "Karel Novacek",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Roland Garros": "3R"
+    },
+    "1985": {
+      "Roland Garros": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1989": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1990": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "Australian Open": "3R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1994": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "SF"
+    },
+    "1995": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

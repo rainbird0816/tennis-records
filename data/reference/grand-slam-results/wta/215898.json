@@ -1,0 +1,32 @@
+{
+  "tour": "wta",
+  "player_id": 215898,
+  "full_name": "Jule Niemeier",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Wimbledon": "QF",
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "2023": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2024": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "2025": {
+      "Australian Open": "2R"
+    }
+  }
+}

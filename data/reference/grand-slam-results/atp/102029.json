@@ -1,0 +1,39 @@
+{
+  "tour": "atp",
+  "player_id": 102029,
+  "full_name": "Filip Dewulf",
+  "ioc": "BEL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1994": {
+      "Australian Open": "2R"
+    },
+    "1995": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Roland Garros": "SF",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    }
+  }
+}

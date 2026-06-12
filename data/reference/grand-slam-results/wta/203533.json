@@ -1,0 +1,75 @@
+{
+  "tour": "wta",
+  "player_id": 203533,
+  "full_name": "Anna Karolina Schmiedlova",
+  "ioc": "SVK",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2013": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2014": {
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2015": {
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2016": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2018": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2019": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2020": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    },
+    "2021": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2022": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "2R"
+    },
+    "2023": {
+      "Australian Open": "2R",
+      "US Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

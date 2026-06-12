@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 102238,
+  "full_name": "Alberto Berasategui",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "Roland Garros": "1R"
+    },
+    "1993": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Roland Garros": "F",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Roland Garros": "3R"
+    },
+    "1996": {
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1997": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "QF",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Roland Garros": "4R",
+      "Australian Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

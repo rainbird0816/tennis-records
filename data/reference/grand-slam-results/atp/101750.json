@@ -1,0 +1,58 @@
+{
+  "tour": "atp",
+  "player_id": 101750,
+  "full_name": "Cristiano Caratti",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "US Open": "3R"
+    },
+    "1991": {
+      "Australian Open": "QF",
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2001": {
+      "US Open": "1R"
+    },
+    "2002": {
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "tour": "atp",
+  "player_id": 100078,
+  "full_name": "Clark Graebner",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "SF",
+      "Wimbledon": "SF"
+    },
+    "1969": {
+      "Wimbledon": "QF",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "QF",
+      "US Open": "4R"
+    },
+    "1971": {
+      "US Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1972": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tour": "wta",
+  "player_id": 200915,
+  "full_name": "Antonella Rosa",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Roland Garros": "2R"
+    },
+    "1975": {
+      "Roland Garros": "2R"
+    },
+    "1976": {
+      "Roland Garros": "4R"
+    }
+  }
+}

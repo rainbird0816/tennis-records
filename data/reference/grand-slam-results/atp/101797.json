@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 101797,
+  "full_name": "Jacco Eltingh",
+  "ioc": "NED",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1991": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1994": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "QF",
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 103294,
+  "full_name": "Christophe Rochus",
+  "ioc": "BEL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Roland Garros": "1R"
+    },
+    "2000": {
+      "Wimbledon": "2R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2002": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2003": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2004": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2006": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Wimbledon": "1R"
+    },
+    "2009": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R"
+    }
+  }
+}

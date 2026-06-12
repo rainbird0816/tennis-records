@@ -1,0 +1,55 @@
+{
+  "tour": "atp",
+  "player_id": 100016,
+  "full_name": "Ken Rosewall",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "4R",
+      "US Open": "SF",
+      "Roland Garros": "W"
+    },
+    "1969": {
+      "Roland Garros": "F",
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Australian Open": "4R"
+    },
+    "1970": {
+      "Wimbledon": "F",
+      "US Open": "W"
+    },
+    "1971": {
+      "Wimbledon": "SF",
+      "Australian Open": "W"
+    },
+    "1972": {
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1973": {
+      "US Open": "SF"
+    },
+    "1974": {
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "1975": {
+      "Wimbledon": "4R",
+      "Australian Open": "SF"
+    },
+    "1977": {
+      "US Open": "3R",
+      "Australian Open": "SF"
+    },
+    "1978": {
+      "Australian Open": "4R"
+    }
+  }
+}

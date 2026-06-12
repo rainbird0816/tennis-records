@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 100134,
+  "full_name": "Roy Barth",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1972": {
+      "US Open": "1R"
+    },
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "2R"
+    }
+  }
+}

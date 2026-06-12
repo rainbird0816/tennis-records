@@ -1,0 +1,18 @@
+{
+  "tour": "atp",
+  "player_id": 126646,
+  "full_name": "Tim Van Rijthoven",
+  "ioc": "NED",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    }
+  }
+}

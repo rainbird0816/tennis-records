@@ -1,0 +1,32 @@
+{
+  "tour": "wta",
+  "player_id": 200871,
+  "full_name": "Tory Ann Fretz",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1973": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Wimbledon": "4R"
+    },
+    "1976": {
+      "Wimbledon": "2R"
+    }
+  }
+}

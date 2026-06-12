@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 100436,
+  "full_name": "Nick Saviano",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1976": {
+      "US Open": "2R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1978": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "US Open": "3R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1980": {
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

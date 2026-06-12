@@ -1,0 +1,29 @@
+{
+  "tour": "atp",
+  "player_id": 209260,
+  "full_name": "Luciano Darderi",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2024": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2026": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R"
+    }
+  }
+}

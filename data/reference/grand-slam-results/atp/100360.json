@@ -1,0 +1,75 @@
+{
+  "tour": "atp",
+  "player_id": 100360,
+  "full_name": "Brian Teacher",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "US Open": "2R"
+    },
+    "1974": {
+      "US Open": "3R"
+    },
+    "1975": {
+      "US Open": "1R"
+    },
+    "1976": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "1979": {
+      "Wimbledon": "4R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Wimbledon": "3R",
+      "Australian Open": "W",
+      "US Open": "4R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "QF",
+      "Wimbledon": "QF",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "3R"
+    },
+    "1984": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Wimbledon": "1R",
+      "US Open": "3R",
+      "Australian Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

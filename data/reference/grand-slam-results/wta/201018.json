@@ -1,0 +1,27 @@
+{
+  "tour": "wta",
+  "player_id": 201018,
+  "full_name": "Rene Uys",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "US Open": "1R"
+    },
+    "1984": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1985": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    }
+  }
+}

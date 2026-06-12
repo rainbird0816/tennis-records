@@ -1,0 +1,26 @@
+{
+  "tour": "wta",
+  "player_id": 200213,
+  "full_name": "Jan Lehane",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Australian Open": "4R"
+    },
+    "1971": {
+      "Australian Open": "QF"
+    },
+    "1973": {
+      "Australian Open": "3R"
+    },
+    "1977": {
+      "Australian Open": "4R"
+    }
+  }
+}

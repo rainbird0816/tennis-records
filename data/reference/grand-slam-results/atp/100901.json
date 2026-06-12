@@ -1,0 +1,50 @@
+{
+  "tour": "atp",
+  "player_id": 100901,
+  "full_name": "Paul Annacone",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1984": {
+      "Wimbledon": "QF",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "US Open": "3R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1986": {
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1987": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "3R",
+      "Wimbledon": "4R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1989": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "US Open": "3R"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tour": "wta",
+  "player_id": 201035,
+  "full_name": "Kate Gompert",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "US Open": "1R"
+    },
+    "1981": {
+      "US Open": "2R"
+    },
+    "1982": {
+      "US Open": "1R"
+    },
+    "1983": {
+      "US Open": "3R"
+    },
+    "1984": {
+      "US Open": "2R"
+    },
+    "1985": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

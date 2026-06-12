@@ -1,0 +1,68 @@
+{
+  "tour": "atp",
+  "player_id": 100058,
+  "full_name": "Roger Taylor",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1969": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "SF",
+      "US Open": "3R",
+      "Australian Open": "SF"
+    },
+    "1971": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "US Open": "2R"
+    },
+    "1973": {
+      "Wimbledon": "SF",
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Wimbledon": "1R"
+    }
+  }
+}

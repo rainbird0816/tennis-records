@@ -1,0 +1,63 @@
+{
+  "tour": "wta",
+  "player_id": 200787,
+  "full_name": "Fiorella Bonicelli",
+  "ioc": "URU",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "2R"
+    },
+    "1969": {
+      "US Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "Wimbledon": "3R"
+    },
+    "1975": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "3R",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Roland Garros": "QF",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Roland Garros": "2R"
+    }
+  }
+}

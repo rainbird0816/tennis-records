@@ -1,0 +1,74 @@
+{
+  "tour": "atp",
+  "player_id": 102539,
+  "full_name": "Bohdan Ulihrach",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1995": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1998": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1999": {
+      "Australian Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "2002": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2003": {
+      "US Open": "2R"
+    },
+    "2004": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "2005": {
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "2007": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

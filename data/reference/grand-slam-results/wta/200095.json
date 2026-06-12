@@ -1,0 +1,69 @@
+{
+  "tour": "wta",
+  "player_id": 200095,
+  "full_name": "Linda Wild",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1995": {
+      "Roland Garros": "2R",
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Australian Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Wimbledon": "1R"
+    },
+    "2000": {
+      "Australian Open": "1R"
+    }
+  }
+}

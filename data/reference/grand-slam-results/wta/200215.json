@@ -1,0 +1,21 @@
+{
+  "tour": "wta",
+  "player_id": 200215,
+  "full_name": "Susan Alexander",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Wimbledon": "2R"
+    }
+  }
+}

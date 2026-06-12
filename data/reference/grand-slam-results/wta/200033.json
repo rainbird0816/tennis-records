@@ -1,0 +1,145 @@
+{
+  "tour": "wta",
+  "player_id": 200033,
+  "full_name": "Serena Williams",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1998": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "US Open": "3R"
+    },
+    "1999": {
+      "US Open": "W",
+      "Australian Open": "3R",
+      "Roland Garros": "3R"
+    },
+    "2000": {
+      "Wimbledon": "SF",
+      "Australian Open": "4R",
+      "US Open": "QF"
+    },
+    "2001": {
+      "US Open": "F",
+      "Australian Open": "QF",
+      "Roland Garros": "QF",
+      "Wimbledon": "QF"
+    },
+    "2002": {
+      "Wimbledon": "W",
+      "Roland Garros": "W",
+      "US Open": "W"
+    },
+    "2003": {
+      "Wimbledon": "W",
+      "Australian Open": "W",
+      "Roland Garros": "SF"
+    },
+    "2004": {
+      "Roland Garros": "QF",
+      "Wimbledon": "F",
+      "US Open": "QF"
+    },
+    "2005": {
+      "Wimbledon": "3R",
+      "US Open": "4R",
+      "Australian Open": "W"
+    },
+    "2006": {
+      "Australian Open": "3R",
+      "US Open": "4R"
+    },
+    "2007": {
+      "Wimbledon": "QF",
+      "Roland Garros": "QF",
+      "US Open": "QF",
+      "Australian Open": "W"
+    },
+    "2008": {
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "Wimbledon": "F",
+      "US Open": "W"
+    },
+    "2009": {
+      "Roland Garros": "QF",
+      "US Open": "SF",
+      "Australian Open": "W",
+      "Wimbledon": "W"
+    },
+    "2010": {
+      "Australian Open": "W",
+      "Roland Garros": "QF",
+      "Wimbledon": "W"
+    },
+    "2011": {
+      "Wimbledon": "4R",
+      "US Open": "F"
+    },
+    "2012": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "US Open": "W",
+      "Wimbledon": "W"
+    },
+    "2013": {
+      "Australian Open": "QF",
+      "Wimbledon": "4R",
+      "US Open": "W",
+      "Roland Garros": "W"
+    },
+    "2014": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "W"
+    },
+    "2015": {
+      "US Open": "SF",
+      "Wimbledon": "W",
+      "Australian Open": "W",
+      "Roland Garros": "W"
+    },
+    "2016": {
+      "Roland Garros": "F",
+      "US Open": "SF",
+      "Australian Open": "F",
+      "Wimbledon": "W"
+    },
+    "2017": {
+      "Australian Open": "W"
+    },
+    "2018": {
+      "Roland Garros": "4R",
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "2019": {
+      "Roland Garros": "3R",
+      "Wimbledon": "F",
+      "US Open": "F",
+      "Australian Open": "QF"
+    },
+    "2020": {
+      "Australian Open": "3R",
+      "US Open": "SF",
+      "Roland Garros": "2R"
+    },
+    "2021": {
+      "Australian Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "2022": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tour": "atp",
+  "player_id": 101309,
+  "full_name": "Jay Berger",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "US Open": "4R"
+    },
+    "1986": {
+      "US Open": "2R"
+    },
+    "1987": {
+      "US Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1988": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1989": {
+      "Roland Garros": "QF",
+      "US Open": "QF"
+    },
+    "1990": {
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Australian Open": "3R"
+    }
+  }
+}

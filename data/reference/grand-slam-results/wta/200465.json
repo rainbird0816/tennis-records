@@ -1,0 +1,56 @@
+{
+  "tour": "wta",
+  "player_id": 200465,
+  "full_name": "Lisa Bonder Kreiss",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "US Open": "1R"
+    },
+    "1982": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "US Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "1984": {
+      "Roland Garros": "QF",
+      "US Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1985": {
+      "Roland Garros": "2R",
+      "Australian Open": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1986": {
+      "Wimbledon": "2R",
+      "US Open": "3R",
+      "Roland Garros": "3R"
+    },
+    "1987": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

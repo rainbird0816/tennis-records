@@ -1,0 +1,81 @@
+{
+  "tour": "atp",
+  "player_id": 100337,
+  "full_name": "Mark Edmondson",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1974": {
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Australian Open": "W",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "US Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Australian Open": "SF",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1982": {
+      "Wimbledon": "SF",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "1983": {
+      "Wimbledon": "3R",
+      "Australian Open": "3R"
+    },
+    "1984": {
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1987": {
+      "Australian Open": "3R"
+    }
+  }
+}

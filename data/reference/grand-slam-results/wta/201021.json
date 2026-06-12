@@ -1,0 +1,56 @@
+{
+  "tour": "wta",
+  "player_id": 201021,
+  "full_name": "Laura Garrone",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1985": {
+      "US Open": "2R",
+      "Roland Garros": "3R"
+    },
+    "1986": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1989": {
+      "US Open": "1R"
+    },
+    "1990": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1991": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1992": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1993": {
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "Roland Garros": "1R"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "tour": "wta",
+  "player_id": 200392,
+  "full_name": "Jo Durie",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Wimbledon": "2R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "US Open": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R"
+    },
+    "1982": {
+      "Roland Garros": "2R",
+      "US Open": "3R",
+      "Australian Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "US Open": "SF",
+      "Roland Garros": "SF",
+      "Australian Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1984": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1987": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Australian Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1988": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1991": {
+      "US Open": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1993": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "Wimbledon": "2R"
+    }
+  }
+}

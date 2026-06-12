@@ -1,0 +1,23 @@
+{
+  "tour": "wta",
+  "player_id": 200329,
+  "full_name": "Mary Sawyer",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1977": {
+      "Australian Open": "QF"
+    },
+    "1978": {
+      "Australian Open": "QF"
+    },
+    "1979": {
+      "Australian Open": "SF"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "tour": "wta",
+  "player_id": 200008,
+  "full_name": "Alicia Molik",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2001": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2002": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2003": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "2004": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2005": {
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2007": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Australian Open": "2R"
+    },
+    "2010": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "tour": "wta",
+  "player_id": 200328,
+  "full_name": "Patricia Bostrom",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1974": {
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Australian Open": "4R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1978": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    }
+  }
+}

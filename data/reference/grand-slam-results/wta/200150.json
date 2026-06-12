@@ -1,0 +1,79 @@
+{
+  "tour": "wta",
+  "player_id": 200150,
+  "full_name": "Evonne Goolagong",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "4R"
+    },
+    "1969": {
+      "Australian Open": "4R"
+    },
+    "1970": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R"
+    },
+    "1971": {
+      "Roland Garros": "W",
+      "Wimbledon": "W",
+      "Australian Open": "F"
+    },
+    "1972": {
+      "Australian Open": "F",
+      "Wimbledon": "F",
+      "US Open": "4R",
+      "Roland Garros": "F"
+    },
+    "1973": {
+      "Roland Garros": "SF",
+      "Wimbledon": "SF",
+      "US Open": "F",
+      "Australian Open": "W"
+    },
+    "1974": {
+      "Wimbledon": "QF",
+      "US Open": "F",
+      "Australian Open": "W"
+    },
+    "1975": {
+      "Australian Open": "W",
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "1976": {
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "1977": {
+      "Australian Open": "W"
+    },
+    "1978": {
+      "Wimbledon": "SF"
+    },
+    "1979": {
+      "Wimbledon": "SF",
+      "US Open": "QF"
+    },
+    "1980": {
+      "Australian Open": "3R",
+      "Wimbledon": "W"
+    },
+    "1981": {
+      "Australian Open": "QF"
+    },
+    "1982": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R"
+    },
+    "1983": {
+      "Roland Garros": "3R"
+    }
+  }
+}

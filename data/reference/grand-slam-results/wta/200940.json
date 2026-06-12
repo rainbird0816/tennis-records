@@ -1,0 +1,49 @@
+{
+  "tour": "wta",
+  "player_id": 200940,
+  "full_name": "Ilana Kloss",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "US Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1979": {
+      "US Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

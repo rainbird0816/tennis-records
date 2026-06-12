@@ -1,0 +1,76 @@
+{
+  "tour": "atp",
+  "player_id": 102882,
+  "full_name": "Mark Philippoussis",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1994": {
+      "Australian Open": "1R"
+    },
+    "1995": {
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "4R"
+    },
+    "1997": {
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1998": {
+      "Wimbledon": "QF",
+      "US Open": "F",
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1999": {
+      "Wimbledon": "QF",
+      "Australian Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "2000": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Wimbledon": "QF",
+      "Australian Open": "4R"
+    },
+    "2002": {
+      "Wimbledon": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Wimbledon": "F",
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Australian Open": "3R"
+    },
+    "2004": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2005": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2006": {
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    }
+  }
+}

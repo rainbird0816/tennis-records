@@ -1,0 +1,101 @@
+{
+  "tour": "atp",
+  "player_id": 100244,
+  "full_name": "John Alexander",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1969": {
+      "Wimbledon": "4R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1971": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1973": {
+      "US Open": "4R",
+      "Australian Open": "SF",
+      "Roland Garros": "1R"
+    },
+    "1974": {
+      "US Open": "3R",
+      "Australian Open": "QF",
+      "Wimbledon": "2R"
+    },
+    "1975": {
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Roland Garros": "4R"
+    },
+    "1976": {
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1977": {
+      "Australian Open": "SF",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Wimbledon": "4R",
+      "Australian Open": "QF",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "Wimbledon": "3R",
+      "US Open": "2R",
+      "Australian Open": "2R"
+    },
+    "1980": {
+      "Australian Open": "2R"
+    },
+    "1981": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1982": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1983": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1984": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1985": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "tour": "wta",
+  "player_id": 200077,
+  "full_name": "Jennifer Capriati",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "Roland Garros": "SF",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1991": {
+      "Roland Garros": "4R",
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "1992": {
+      "Roland Garros": "QF",
+      "US Open": "3R",
+      "Wimbledon": "QF",
+      "Australian Open": "QF"
+    },
+    "1993": {
+      "Roland Garros": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "1996": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1999": {
+      "Roland Garros": "4R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R",
+      "US Open": "4R"
+    },
+    "2000": {
+      "US Open": "4R",
+      "Wimbledon": "4R",
+      "Australian Open": "SF",
+      "Roland Garros": "1R"
+    },
+    "2001": {
+      "Australian Open": "W",
+      "Roland Garros": "W",
+      "Wimbledon": "SF",
+      "US Open": "SF"
+    },
+    "2002": {
+      "Australian Open": "W",
+      "Roland Garros": "SF",
+      "US Open": "QF",
+      "Wimbledon": "QF"
+    },
+    "2003": {
+      "US Open": "SF",
+      "Australian Open": "1R",
+      "Roland Garros": "4R",
+      "Wimbledon": "QF"
+    },
+    "2004": {
+      "US Open": "SF",
+      "Roland Garros": "SF",
+      "Wimbledon": "QF"
+    }
+  }
+}

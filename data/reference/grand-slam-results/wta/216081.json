@@ -1,0 +1,23 @@
+{
+  "tour": "wta",
+  "player_id": 216081,
+  "full_name": "Maja Chwalinska",
+  "ioc": "POL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "Wimbledon": "2R"
+    },
+    "2025": {
+      "Australian Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "F"
+    }
+  }
+}

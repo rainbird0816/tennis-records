@@ -1,0 +1,59 @@
+{
+  "tour": "wta",
+  "player_id": 200585,
+  "full_name": "Kathy Horvath",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "2R"
+    },
+    "1980": {
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1981": {
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "1982": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Roland Garros": "QF",
+      "US Open": "2R"
+    },
+    "1984": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1989": {
+      "Australian Open": "1R"
+    }
+  }
+}

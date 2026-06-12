@@ -1,0 +1,70 @@
+{
+  "tour": "wta",
+  "player_id": 200185,
+  "full_name": "Lesley Hunt",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "4R",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R"
+    },
+    "1969": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1970": {
+      "Australian Open": "QF",
+      "Wimbledon": "2R",
+      "US Open": "QF",
+      "Roland Garros": "4R"
+    },
+    "1971": {
+      "US Open": "QF",
+      "Wimbledon": "4R",
+      "Australian Open": "SF",
+      "Roland Garros": "3R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Wimbledon": "4R",
+      "Australian Open": "QF",
+      "US Open": "3R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "US Open": "QF"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1977": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Roland Garros": "4R",
+      "US Open": "QF",
+      "Wimbledon": "2R"
+    }
+  }
+}

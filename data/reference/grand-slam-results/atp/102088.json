@@ -1,0 +1,32 @@
+{
+  "tour": "atp",
+  "player_id": 102088,
+  "full_name": "Joern Renzenbrink",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1994": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Wimbledon": "1R"
+    }
+  }
+}

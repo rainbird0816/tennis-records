@@ -1,0 +1,28 @@
+{
+  "tour": "atp",
+  "player_id": 101324,
+  "full_name": "Ulf Stenlund",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "Wimbledon": "2R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

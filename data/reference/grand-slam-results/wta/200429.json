@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200429,
+  "full_name": "Elizabeth Minter",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Australian Open": "4R"
+    },
+    "1985": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1987": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Australian Open": "1R"
+    }
+  }
+}

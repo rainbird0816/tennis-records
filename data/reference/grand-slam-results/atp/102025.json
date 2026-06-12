@@ -1,0 +1,49 @@
+{
+  "tour": "atp",
+  "player_id": 102025,
+  "full_name": "Mikael Tillstrom",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1994": {
+      "Roland Garros": "4R"
+    },
+    "1995": {
+      "Roland Garros": "2R"
+    },
+    "1996": {
+      "Wimbledon": "3R",
+      "Australian Open": "QF",
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Roland Garros": "2R",
+      "US Open": "3R",
+      "Australian Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1999": {
+      "Australian Open": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "tour": "atp",
+  "player_id": 106298,
+  "full_name": "Lucas Pouille",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2013": {
+      "Roland Garros": "2R"
+    },
+    "2014": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2015": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "US Open": "QF",
+      "Roland Garros": "2R",
+      "Wimbledon": "QF",
+      "Australian Open": "1R"
+    },
+    "2017": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "4R",
+      "Australian Open": "1R"
+    },
+    "2018": {
+      "US Open": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "3R"
+    },
+    "2019": {
+      "US Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "Australian Open": "SF"
+    },
+    "2021": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2023": {
+      "Roland Garros": "2R"
+    },
+    "2024": {
+      "Wimbledon": "3R"
+    },
+    "2025": {
+      "Australian Open": "1R"
+    }
+  }
+}

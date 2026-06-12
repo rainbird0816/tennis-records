@@ -1,0 +1,42 @@
+{
+  "tour": "wta",
+  "player_id": 201402,
+  "full_name": "Sesil Karatantcheva",
+  "ioc": "KAZ",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2004": {
+      "US Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "QF",
+      "US Open": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R"
+    },
+    "2012": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2013": {
+      "Australian Open": "1R"
+    },
+    "2015": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

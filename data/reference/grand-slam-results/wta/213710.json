@@ -1,0 +1,44 @@
+{
+  "tour": "wta",
+  "player_id": 213710,
+  "full_name": "Cristina Bucsa",
+  "ioc": "ESP",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2021": {
+      "US Open": "1R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "2023": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2024": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "US Open": "4R",
+      "Roland Garros": "1R"
+    },
+    "2026": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

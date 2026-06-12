@@ -1,0 +1,53 @@
+{
+  "tour": "atp",
+  "player_id": 144750,
+  "full_name": "Lloyd Harris",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2018": {
+      "US Open": "1R"
+    },
+    "2019": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2020": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "2021": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "US Open": "QF",
+      "Roland Garros": "2R"
+    },
+    "2022": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2023": {
+      "US Open": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2024": {
+      "Australian Open": "1R",
+      "Wimbledon": "2R"
+    },
+    "2025": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    }
+  }
+}

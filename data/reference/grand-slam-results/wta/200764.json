@@ -1,0 +1,47 @@
+{
+  "tour": "wta",
+  "player_id": 200764,
+  "full_name": "Elena Bovina",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2000": {
+      "Roland Garros": "1R"
+    },
+    "2001": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "US Open": "QF",
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2003": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2005": {
+      "Roland Garros": "4R"
+    },
+    "2007": {
+      "Australian Open": "1R"
+    }
+  }
+}

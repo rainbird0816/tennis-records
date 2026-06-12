@@ -1,0 +1,18 @@
+{
+  "tour": "wta",
+  "player_id": 200824,
+  "full_name": "Galina Baksheeva",
+  "ioc": "URS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "tour": "atp",
+  "player_id": 100339,
+  "full_name": "Victor Amaya",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "US Open": "1R"
+    },
+    "1974": {
+      "US Open": "1R"
+    },
+    "1975": {
+      "US Open": "1R"
+    },
+    "1976": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1979": {
+      "Australian Open": "SF",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1980": {
+      "Australian Open": "4R",
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

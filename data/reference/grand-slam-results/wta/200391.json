@@ -1,0 +1,41 @@
+{
+  "tour": "wta",
+  "player_id": 200391,
+  "full_name": "Sherry Acker",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "US Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R"
+    },
+    "1980": {
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "US Open": "3R",
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Wimbledon": "1R"
+    }
+  }
+}

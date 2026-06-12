@@ -1,0 +1,73 @@
+{
+  "tour": "wta",
+  "player_id": 200003,
+  "full_name": "Justine Henin",
+  "ioc": "BEL",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "2001": {
+      "Australian Open": "4R",
+      "Roland Garros": "SF",
+      "Wimbledon": "F",
+      "US Open": "4R"
+    },
+    "2002": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "SF",
+      "US Open": "4R"
+    },
+    "2003": {
+      "Australian Open": "SF",
+      "Wimbledon": "SF",
+      "US Open": "W",
+      "Roland Garros": "W"
+    },
+    "2004": {
+      "Roland Garros": "2R",
+      "US Open": "4R",
+      "Australian Open": "W"
+    },
+    "2005": {
+      "Wimbledon": "1R",
+      "US Open": "4R",
+      "Roland Garros": "W"
+    },
+    "2006": {
+      "Australian Open": "F",
+      "Wimbledon": "F",
+      "US Open": "F",
+      "Roland Garros": "W"
+    },
+    "2007": {
+      "Wimbledon": "SF",
+      "Roland Garros": "W",
+      "US Open": "W"
+    },
+    "2008": {
+      "Australian Open": "QF"
+    },
+    "2010": {
+      "Australian Open": "F",
+      "Roland Garros": "4R",
+      "Wimbledon": "4R"
+    },
+    "2011": {
+      "Australian Open": "3R"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "tour": "wta",
+  "player_id": 201128,
+  "full_name": "Jane Ohara",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "2R"
+    },
+    "1970": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    }
+  }
+}

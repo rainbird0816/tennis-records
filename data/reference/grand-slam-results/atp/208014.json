@@ -1,0 +1,37 @@
+{
+  "tour": "atp",
+  "player_id": 208014,
+  "full_name": "Rinky Hijikata",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2022": {
+      "US Open": "1R"
+    },
+    "2023": {
+      "Australian Open": "2R",
+      "US Open": "4R"
+    },
+    "2024": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2025": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    }
+  }
+}

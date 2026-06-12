@@ -1,0 +1,64 @@
+{
+  "tour": "atp",
+  "player_id": 101529,
+  "full_name": "Michael Stich",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1991": {
+      "Wimbledon": "W",
+      "Australian Open": "3R",
+      "US Open": "QF",
+      "Roland Garros": "SF"
+    },
+    "1992": {
+      "Roland Garros": "3R",
+      "Australian Open": "QF",
+      "Wimbledon": "QF",
+      "US Open": "2R"
+    },
+    "1993": {
+      "Wimbledon": "QF",
+      "Australian Open": "SF",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1994": {
+      "US Open": "F",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "Roland Garros": "4R",
+      "US Open": "4R",
+      "Australian Open": "3R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "Roland Garros": "F",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1997": {
+      "Wimbledon": "SF",
+      "Australian Open": "2R"
+    }
+  }
+}

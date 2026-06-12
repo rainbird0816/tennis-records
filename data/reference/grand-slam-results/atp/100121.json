@@ -1,0 +1,84 @@
+{
+  "tour": "atp",
+  "player_id": 100121,
+  "full_name": "Raymond Moore",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "QF",
+      "US Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1969": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1970": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1973": {
+      "Roland Garros": "1R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R",
+      "Australian Open": "4R"
+    },
+    "1976": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "QF"
+    },
+    "1978": {
+      "Wimbledon": "1R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1979": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "3R",
+      "Australian Open": "3R"
+    },
+    "1980": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    }
+  }
+}

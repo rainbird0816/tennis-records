@@ -1,0 +1,23 @@
+{
+  "tour": "wta",
+  "player_id": 200351,
+  "full_name": "Lindsay Morse",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1980": {
+      "Australian Open": "4R",
+      "US Open": "3R",
+      "Wimbledon": "3R"
+    },
+    "1981": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    }
+  }
+}

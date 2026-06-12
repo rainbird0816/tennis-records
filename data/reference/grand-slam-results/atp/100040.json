@@ -1,0 +1,58 @@
+{
+  "tour": "atp",
+  "player_id": 100040,
+  "full_name": "Bob Hewitt",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1970": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1971": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1972": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "1974": {
+      "Wimbledon": "2R"
+    },
+    "1975": {
+      "US Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1976": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1978": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tour": "wta",
+  "player_id": 200210,
+  "full_name": "Norma Eastburn",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Australian Open": "2R"
+    },
+    "1971": {
+      "Australian Open": "4R"
+    }
+  }
+}

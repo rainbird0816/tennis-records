@@ -1,0 +1,35 @@
+{
+  "tour": "atp",
+  "player_id": 103356,
+  "full_name": "Michel Kratochvil",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2000": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "4R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

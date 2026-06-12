@@ -6,8 +6,11 @@ GET /players/{tour}/{player_id}/titles   우승 목록 (tier 필터 선택)
 """
 from __future__ import annotations
 
+import json
+
 from fastapi import APIRouter, HTTPException, Query
 
+from ..config import REFERENCE_DIR
 from ..db import query, query_one
 
 router = APIRouter()
@@ -148,6 +151,22 @@ def player_rankings(tour: str, player_id: int) -> dict:
         (tour, player_id),
     )
     return {"tour": tour, "player_id": player_id, "rankings": rows}
+
+
+@router.get("/players/{tour}/{player_id}/grand-slams")
+def player_grand_slams(tour: str, player_id: int) -> dict:
+    """연도별 그랜드슬램 성적표 (레퍼런스 JSON). GS 16강 이상 진출자만 파일 존재.
+
+    data/reference/grand-slam-results/{tour}/{player_id}.json 를 그대로 서빙.
+    파일이 없으면(=미자격) available=False 로 응답해 프론트에서 표를 숨긴다.
+    """
+    if tour not in ("atp", "wta"):
+        raise HTTPException(404, "unknown tour")
+    path = REFERENCE_DIR / "grand-slam-results" / tour / f"{player_id}.json"
+    if not path.exists():
+        return {"available": False}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {"available": True, **data}
 
 
 @router.get("/players/{tour}/{player_id}/titles")

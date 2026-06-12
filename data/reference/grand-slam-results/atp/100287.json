@@ -1,0 +1,44 @@
+{
+  "tour": "atp",
+  "player_id": 100287,
+  "full_name": "Robin Drysdale",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R"
+    },
+    "1976": {
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Australian Open": "QF",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1978": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    },
+    "1979": {
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Wimbledon": "1R"
+    },
+    "1981": {
+      "Wimbledon": "1R"
+    }
+  }
+}

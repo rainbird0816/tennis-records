@@ -1,0 +1,90 @@
+{
+  "tour": "wta",
+  "player_id": 200065,
+  "full_name": "Amelie Mauresmo",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1995": {
+      "Roland Garros": "1R"
+    },
+    "1996": {
+      "Roland Garros": "2R"
+    },
+    "1997": {
+      "Roland Garros": "2R"
+    },
+    "1998": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1999": {
+      "US Open": "4R",
+      "Australian Open": "F",
+      "Roland Garros": "2R"
+    },
+    "2000": {
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "2001": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "US Open": "QF",
+      "Roland Garros": "1R"
+    },
+    "2002": {
+      "Australian Open": "QF",
+      "Wimbledon": "SF",
+      "Roland Garros": "4R",
+      "US Open": "SF"
+    },
+    "2003": {
+      "US Open": "QF",
+      "Roland Garros": "QF"
+    },
+    "2004": {
+      "Australian Open": "QF",
+      "US Open": "QF",
+      "Roland Garros": "QF",
+      "Wimbledon": "SF"
+    },
+    "2005": {
+      "Wimbledon": "SF",
+      "US Open": "QF",
+      "Australian Open": "QF",
+      "Roland Garros": "3R"
+    },
+    "2006": {
+      "Australian Open": "W",
+      "Wimbledon": "W",
+      "US Open": "SF",
+      "Roland Garros": "4R"
+    },
+    "2007": {
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "Wimbledon": "4R"
+    },
+    "2008": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "4R"
+    },
+    "2009": {
+      "Australian Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    }
+  }
+}

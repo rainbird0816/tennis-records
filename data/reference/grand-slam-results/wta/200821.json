@@ -1,0 +1,25 @@
+{
+  "tour": "wta",
+  "player_id": 200821,
+  "full_name": "Monica Giorgi",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1969": {
+      "Roland Garros": "4R"
+    },
+    "1970": {
+      "Wimbledon": "1R",
+      "Roland Garros": "2R"
+    }
+  }
+}

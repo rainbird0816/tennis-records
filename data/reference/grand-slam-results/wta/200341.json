@@ -1,0 +1,17 @@
+{
+  "tour": "wta",
+  "player_id": 200341,
+  "full_name": "Jutta Diesslin",
+  "ioc": "FRG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1979": {
+      "Australian Open": "4R"
+    }
+  }
+}

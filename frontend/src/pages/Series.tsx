@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import { api } from "../api/client";
 import type { Champion, Tour } from "../api/types";
 import { fmtDate } from "../lib/format";
+import SeriesRecords from "../components/SeriesRecords";
 
 /** /series/:slug — 시리즈 역대 우승자 (§9.2). */
 export default function Series() {
@@ -24,6 +25,10 @@ export default function Series() {
         <h1 className="text-2xl font-bold">{slug}</h1>
         <span className="text-xs rounded bg-court text-white px-2 py-0.5">{tour.toUpperCase()}</span>
       </div>
+
+      <SeriesRecords slug={slug} tour={tour} />
+
+      <h2 className="text-sm font-semibold text-neutral-500 mb-3">🏆 역대 우승자</h2>
 
       {isLoading && <p className="text-neutral-400">불러오는 중…</p>}
       {error && <p className="text-amber-700 text-sm">데이터를 불러올 수 없습니다.</p>}

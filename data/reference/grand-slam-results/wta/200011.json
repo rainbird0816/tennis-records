@@ -1,0 +1,77 @@
+{
+  "tour": "wta",
+  "player_id": 200011,
+  "full_name": "Katarina Srebotnik",
+  "ioc": "SLO",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1999": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2000": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "2002": {
+      "Australian Open": "2R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2003": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2004": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "2005": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "2006": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "US Open": "3R"
+    },
+    "2007": {
+      "US Open": "2R",
+      "Australian Open": "3R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R"
+    },
+    "2008": {
+      "Australian Open": "3R",
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "4R"
+    },
+    "2009": {
+      "US Open": "1R"
+    },
+    "2010": {
+      "Roland Garros": "1R"
+    }
+  }
+}

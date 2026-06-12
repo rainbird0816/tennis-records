@@ -1,0 +1,52 @@
+{
+  "tour": "wta",
+  "player_id": 200255,
+  "full_name": "Lesley Charles",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1972": {
+      "Wimbledon": "2R",
+      "Australian Open": "4R"
+    },
+    "1973": {
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1974": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1976": {
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Wimbledon": "1R"
+    }
+  }
+}

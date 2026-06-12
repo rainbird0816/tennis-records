@@ -1,0 +1,59 @@
+{
+  "tour": "wta",
+  "player_id": 201486,
+  "full_name": "Aleksandra Wozniak",
+  "ioc": "CAN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2007": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "2009": {
+      "US Open": "3R",
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2010": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2012": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R",
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "2013": {
+      "US Open": "2R"
+    },
+    "2014": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2016": {
+      "Roland Garros": "1R"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "tour": "atp",
+  "player_id": 100080,
+  "full_name": "Szabolcz Baranyi",
+  "ioc": "HUN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1970": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1972": {
+      "Roland Garros": "3R",
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1973": {
+      "Roland Garros": "2R",
+      "Wimbledon": "4R"
+    },
+    "1974": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R"
+    },
+    "1975": {
+      "Roland Garros": "2R"
+    }
+  }
+}

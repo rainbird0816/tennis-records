@@ -1,0 +1,65 @@
+{
+  "tour": "atp",
+  "player_id": 104076,
+  "full_name": "Jose Acasuso",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Wimbledon": "1R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2006": {
+      "Roland Garros": "2R",
+      "US Open": "1R",
+      "Australian Open": "1R"
+    },
+    "2007": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Australian Open": "1R"
+    },
+    "2009": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2010": {
+      "Australian Open": "1R"
+    }
+  }
+}

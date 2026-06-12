@@ -1,0 +1,46 @@
+{
+  "tour": "wta",
+  "player_id": 201302,
+  "full_name": "Clarisa Fernandez",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2001": {
+      "Wimbledon": "1R"
+    },
+    "2002": {
+      "Wimbledon": "2R",
+      "Roland Garros": "SF",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2004": {
+      "Australian Open": "1R"
+    },
+    "2005": {
+      "Roland Garros": "2R"
+    },
+    "2006": {
+      "Wimbledon": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2007": {
+      "Australian Open": "1R"
+    },
+    "2008": {
+      "Australian Open": "1R"
+    }
+  }
+}

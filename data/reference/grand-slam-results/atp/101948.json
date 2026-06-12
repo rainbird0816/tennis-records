@@ -1,0 +1,96 @@
+{
+  "tour": "atp",
+  "player_id": 101948,
+  "full_name": "Pete Sampras",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1988": {
+      "US Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "US Open": "4R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "1990": {
+      "US Open": "W",
+      "Australian Open": "4R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "US Open": "QF",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R"
+    },
+    "1992": {
+      "Wimbledon": "SF",
+      "US Open": "F",
+      "Roland Garros": "QF"
+    },
+    "1993": {
+      "Australian Open": "SF",
+      "Roland Garros": "QF",
+      "US Open": "W",
+      "Wimbledon": "W"
+    },
+    "1994": {
+      "Australian Open": "W",
+      "US Open": "4R",
+      "Wimbledon": "W",
+      "Roland Garros": "QF"
+    },
+    "1995": {
+      "Australian Open": "F",
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Roland Garros": "1R"
+    },
+    "1996": {
+      "Wimbledon": "QF",
+      "Roland Garros": "SF",
+      "US Open": "W",
+      "Australian Open": "3R"
+    },
+    "1997": {
+      "US Open": "4R",
+      "Australian Open": "W",
+      "Wimbledon": "W",
+      "Roland Garros": "3R"
+    },
+    "1998": {
+      "Australian Open": "QF",
+      "Roland Garros": "2R",
+      "US Open": "SF",
+      "Wimbledon": "W"
+    },
+    "1999": {
+      "Wimbledon": "W",
+      "Roland Garros": "2R"
+    },
+    "2000": {
+      "Australian Open": "SF",
+      "Roland Garros": "1R",
+      "US Open": "F",
+      "Wimbledon": "W"
+    },
+    "2001": {
+      "Wimbledon": "4R",
+      "US Open": "F",
+      "Roland Garros": "2R",
+      "Australian Open": "4R"
+    },
+    "2002": {
+      "US Open": "W",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "Australian Open": "4R"
+    }
+  }
+}

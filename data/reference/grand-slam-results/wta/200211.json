@@ -1,0 +1,53 @@
+{
+  "tour": "wta",
+  "player_id": 200211,
+  "full_name": "Winnie Shaw",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "3R"
+    },
+    "1969": {
+      "US Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1970": {
+      "Australian Open": "SF",
+      "Wimbledon": "QF"
+    },
+    "1971": {
+      "Australian Open": "SF",
+      "Wimbledon": "QF",
+      "Roland Garros": "4R",
+      "US Open": "3R"
+    },
+    "1972": {
+      "Wimbledon": "4R",
+      "Roland Garros": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Wimbledon": "3R"
+    },
+    "1975": {
+      "Wimbledon": "4R"
+    },
+    "1976": {
+      "Wimbledon": "2R"
+    },
+    "1977": {
+      "Wimbledon": "2R"
+    },
+    "1978": {
+      "Wimbledon": "1R"
+    }
+  }
+}

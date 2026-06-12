@@ -1,0 +1,28 @@
+{
+  "tour": "wta",
+  "player_id": 201038,
+  "full_name": "Karen Schimper",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1987": {
+      "Roland Garros": "4R",
+      "US Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1988": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1989": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

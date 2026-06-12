@@ -1,0 +1,39 @@
+{
+  "tour": "atp",
+  "player_id": 124116,
+  "full_name": "Sebastian Ofner",
+  "ioc": "AUT",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2017": {
+      "Wimbledon": "3R"
+    },
+    "2022": {
+      "Roland Garros": "1R"
+    },
+    "2023": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "2024": {
+      "Australian Open": "1R",
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2025": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "1R"
+    }
+  }
+}

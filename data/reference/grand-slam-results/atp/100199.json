@@ -1,0 +1,61 @@
+{
+  "tour": "atp",
+  "player_id": 100199,
+  "full_name": "Patrice Dominguez",
+  "ioc": "FRA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Roland Garros": "4R",
+      "Australian Open": "4R"
+    },
+    "1972": {
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R",
+      "Australian Open": "4R"
+    },
+    "1973": {
+      "Roland Garros": "3R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1976": {
+      "Roland Garros": "1R"
+    },
+    "1977": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1978": {
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1981": {
+      "Roland Garros": "1R"
+    }
+  }
+}

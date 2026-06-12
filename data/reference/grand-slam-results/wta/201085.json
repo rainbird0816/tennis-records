@@ -1,0 +1,53 @@
+{
+  "tour": "wta",
+  "player_id": 201085,
+  "full_name": "Shinobu Asagoe",
+  "ioc": "JPN",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2000": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "2001": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "2002": {
+      "Roland Garros": "2R",
+      "Australian Open": "1R",
+      "US Open": "1R"
+    },
+    "2003": {
+      "US Open": "3R",
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2004": {
+      "US Open": "QF",
+      "Roland Garros": "4R",
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "2005": {
+      "Australian Open": "2R",
+      "US Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "2006": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

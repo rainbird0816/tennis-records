@@ -1,0 +1,50 @@
+{
+  "tour": "atp",
+  "player_id": 104978,
+  "full_name": "Daniel Brands",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2008": {
+      "Roland Garros": "1R"
+    },
+    "2009": {
+      "Roland Garros": "1R"
+    },
+    "2010": {
+      "Wimbledon": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2011": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2012": {
+      "US Open": "2R"
+    },
+    "2013": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2014": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2016": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    },
+    "2017": {
+      "Wimbledon": "1R"
+    }
+  }
+}

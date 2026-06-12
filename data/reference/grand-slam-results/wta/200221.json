@@ -1,0 +1,101 @@
+{
+  "tour": "wta",
+  "player_id": 200221,
+  "full_name": "Dianne Fromholtz",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Australian Open": "QF"
+    },
+    "1973": {
+      "Wimbledon": "1R",
+      "Australian Open": "3R"
+    },
+    "1974": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "4R",
+      "Australian Open": "4R"
+    },
+    "1975": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Wimbledon": "4R",
+      "US Open": "SF"
+    },
+    "1977": {
+      "Australian Open": "F",
+      "US Open": "4R"
+    },
+    "1978": {
+      "US Open": "3R",
+      "Wimbledon": "4R"
+    },
+    "1979": {
+      "Roland Garros": "SF",
+      "Wimbledon": "QF",
+      "US Open": "4R"
+    },
+    "1980": {
+      "Roland Garros": "SF",
+      "Wimbledon": "4R",
+      "US Open": "4R"
+    },
+    "1981": {
+      "Australian Open": "2R",
+      "Roland Garros": "3R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1982": {
+      "Australian Open": "3R",
+      "US Open": "2R"
+    },
+    "1983": {
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1984": {
+      "Australian Open": "3R"
+    },
+    "1985": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    },
+    "1986": {
+      "Wimbledon": "4R"
+    },
+    "1987": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Australian Open": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1989": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1990": {
+      "Australian Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tour": "wta",
+  "player_id": 200146,
+  "full_name": "Cynthia Doerner",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Australian Open": "3R"
+    },
+    "1970": {
+      "Australian Open": "3R"
+    },
+    "1971": {
+      "Australian Open": "3R"
+    },
+    "1972": {
+      "Wimbledon": "2R",
+      "US Open": "2R",
+      "Australian Open": "3R"
+    },
+    "1973": {
+      "Wimbledon": "1R"
+    },
+    "1974": {
+      "Australian Open": "3R"
+    },
+    "1975": {
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1976": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "1R"
+    },
+    "1977": {
+      "Wimbledon": "3R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1978": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "US Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "1R",
+      "Australian Open": "QF"
+    }
+  }
+}

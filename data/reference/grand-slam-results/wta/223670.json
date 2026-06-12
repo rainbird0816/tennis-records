@@ -1,0 +1,34 @@
+{
+  "tour": "wta",
+  "player_id": 223670,
+  "full_name": "Diana Shnaider",
+  "ioc": "RUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2023": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "2024": {
+      "US Open": "4R",
+      "Wimbledon": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "2025": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "SF",
+      "Australian Open": "3R"
+    }
+  }
+}

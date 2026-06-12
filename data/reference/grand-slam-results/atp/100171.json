@@ -1,0 +1,51 @@
+{
+  "tour": "atp",
+  "player_id": 100171,
+  "full_name": "John Yuill",
+  "ioc": "RSA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Wimbledon": "3R"
+    },
+    "1974": {
+      "US Open": "3R",
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1975": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1976": {
+      "US Open": "3R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1977": {
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1978": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    },
+    "1979": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1980": {
+      "Roland Garros": "2R",
+      "Wimbledon": "1R",
+      "US Open": "1R"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "tour": "wta",
+  "player_id": 200266,
+  "full_name": "Sue Barker",
+  "ioc": "GBR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1973": {
+      "Wimbledon": "2R",
+      "Australian Open": "4R"
+    },
+    "1974": {
+      "Australian Open": "SF",
+      "Wimbledon": "1R"
+    },
+    "1975": {
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "US Open": "3R",
+      "Australian Open": "4R"
+    },
+    "1976": {
+      "US Open": "4R",
+      "Wimbledon": "QF",
+      "Roland Garros": "W"
+    },
+    "1977": {
+      "Wimbledon": "SF",
+      "Australian Open": "SF",
+      "US Open": "3R"
+    },
+    "1978": {
+      "Australian Open": "QF",
+      "Wimbledon": "4R"
+    },
+    "1979": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1980": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1981": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "2R",
+      "Wimbledon": "1R"
+    },
+    "1983": {
+      "Wimbledon": "1R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

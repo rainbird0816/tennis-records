@@ -1,0 +1,26 @@
+{
+  "tour": "wta",
+  "player_id": 221333,
+  "full_name": "Solana Sierra",
+  "ioc": "ARG",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2024": {
+      "US Open": "1R"
+    },
+    "2025": {
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "2026": {
+      "Roland Garros": "3R",
+      "Australian Open": "1R"
+    }
+  }
+}

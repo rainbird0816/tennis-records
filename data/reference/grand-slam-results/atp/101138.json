@@ -1,0 +1,78 @@
+{
+  "tour": "atp",
+  "player_id": 101138,
+  "full_name": "Pat Cash",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Australian Open": "QF",
+      "US Open": "1R"
+    },
+    "1983": {
+      "Australian Open": "4R",
+      "Wimbledon": "4R",
+      "US Open": "3R",
+      "Roland Garros": "1R"
+    },
+    "1984": {
+      "US Open": "SF",
+      "Australian Open": "QF",
+      "Wimbledon": "SF",
+      "Roland Garros": "1R"
+    },
+    "1985": {
+      "Wimbledon": "2R"
+    },
+    "1986": {
+      "Wimbledon": "QF",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Wimbledon": "W",
+      "Australian Open": "F",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1988": {
+      "Australian Open": "F",
+      "Wimbledon": "QF",
+      "Roland Garros": "4R"
+    },
+    "1989": {
+      "Australian Open": "4R"
+    },
+    "1990": {
+      "Wimbledon": "4R",
+      "US Open": "3R"
+    },
+    "1991": {
+      "Australian Open": "3R",
+      "Roland Garros": "2R",
+      "Wimbledon": "2R"
+    },
+    "1992": {
+      "Australian Open": "2R",
+      "Wimbledon": "2R"
+    },
+    "1995": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    },
+    "1996": {
+      "US Open": "1R"
+    },
+    "1997": {
+      "Australian Open": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "tour": "atp",
+  "player_id": 102446,
+  "full_name": "Andrei Medvedev",
+  "ioc": "UKR",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1992": {
+      "Roland Garros": "4R"
+    },
+    "1993": {
+      "Wimbledon": "2R",
+      "Australian Open": "3R",
+      "US Open": "QF",
+      "Roland Garros": "SF"
+    },
+    "1994": {
+      "Roland Garros": "QF",
+      "Wimbledon": "4R",
+      "US Open": "2R"
+    },
+    "1995": {
+      "Australian Open": "QF",
+      "Roland Garros": "4R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "US Open": "4R",
+      "Australian Open": "2R",
+      "Roland Garros": "2R",
+      "Wimbledon": "1R"
+    },
+    "1997": {
+      "Australian Open": "4R",
+      "Wimbledon": "3R",
+      "Roland Garros": "4R",
+      "US Open": "1R"
+    },
+    "1998": {
+      "Australian Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1999": {
+      "Wimbledon": "2R",
+      "Roland Garros": "F",
+      "US Open": "4R",
+      "Australian Open": "2R"
+    },
+    "2000": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R",
+      "Australian Open": "1R"
+    },
+    "2001": {
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "Australian Open": "2R"
+    }
+  }
+}

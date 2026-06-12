@@ -1,0 +1,88 @@
+{
+  "tour": "atp",
+  "player_id": 101062,
+  "full_name": "Mats Wilander",
+  "ioc": "SWE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Wimbledon": "3R",
+      "Australian Open": "2R"
+    },
+    "1982": {
+      "Roland Garros": "W",
+      "US Open": "4R",
+      "Wimbledon": "4R"
+    },
+    "1983": {
+      "Australian Open": "W",
+      "US Open": "QF",
+      "Roland Garros": "F",
+      "Wimbledon": "3R"
+    },
+    "1984": {
+      "Wimbledon": "2R",
+      "Roland Garros": "SF",
+      "US Open": "QF",
+      "Australian Open": "W"
+    },
+    "1985": {
+      "US Open": "SF",
+      "Roland Garros": "W",
+      "Australian Open": "F",
+      "Wimbledon": "1R"
+    },
+    "1986": {
+      "Roland Garros": "3R",
+      "US Open": "4R",
+      "Wimbledon": "4R"
+    },
+    "1987": {
+      "Roland Garros": "F",
+      "Wimbledon": "QF",
+      "US Open": "F"
+    },
+    "1988": {
+      "US Open": "W",
+      "Australian Open": "W",
+      "Wimbledon": "QF",
+      "Roland Garros": "W"
+    },
+    "1989": {
+      "Roland Garros": "QF",
+      "Wimbledon": "QF",
+      "Australian Open": "2R",
+      "US Open": "2R"
+    },
+    "1990": {
+      "Australian Open": "SF",
+      "US Open": "1R"
+    },
+    "1991": {
+      "Australian Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1993": {
+      "US Open": "3R"
+    },
+    "1994": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "Wimbledon": "3R",
+      "US Open": "2R"
+    },
+    "1996": {
+      "Roland Garros": "2R"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "tour": "atp",
+  "player_id": 100800,
+  "full_name": "Diego Perez",
+  "ioc": "URU",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1981": {
+      "Roland Garros": "3R"
+    },
+    "1982": {
+      "Roland Garros": "2R"
+    },
+    "1983": {
+      "Roland Garros": "2R"
+    },
+    "1984": {
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "US Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "1986": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1987": {
+      "Roland Garros": "1R",
+      "US Open": "3R"
+    },
+    "1989": {
+      "Roland Garros": "2R",
+      "US Open": "1R"
+    },
+    "1990": {
+      "Roland Garros": "3R",
+      "Wimbledon": "1R"
+    },
+    "1991": {
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "1992": {
+      "Roland Garros": "4R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    }
+  }
+}

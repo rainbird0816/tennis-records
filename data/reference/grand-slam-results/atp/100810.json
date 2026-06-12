@@ -1,0 +1,30 @@
+{
+  "tour": "atp",
+  "player_id": 100810,
+  "full_name": "Paul Chamberlin",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1986": {
+      "Wimbledon": "1R"
+    },
+    "1988": {
+      "Australian Open": "3R"
+    },
+    "1989": {
+      "Wimbledon": "QF",
+      "US Open": "1R",
+      "Australian Open": "2R"
+    },
+    "1990": {
+      "Australian Open": "3R",
+      "Wimbledon": "2R",
+      "US Open": "1R"
+    }
+  }
+}

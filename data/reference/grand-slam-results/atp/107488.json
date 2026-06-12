@@ -1,0 +1,27 @@
+{
+  "tour": "atp",
+  "player_id": 107488,
+  "full_name": "Keith Hancock",
+  "ioc": "AUS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1971": {
+      "Australian Open": "2R"
+    },
+    "1973": {
+      "Australian Open": "4R",
+      "Wimbledon": "2R"
+    },
+    "1974": {
+      "Roland Garros": "1R"
+    },
+    "1975": {
+      "Australian Open": "2R"
+    }
+  }
+}

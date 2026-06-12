@@ -1,0 +1,52 @@
+{
+  "tour": "wta",
+  "player_id": 200879,
+  "full_name": "Wendy Overton",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "US Open": "4R"
+    },
+    "1969": {
+      "US Open": "3R"
+    },
+    "1970": {
+      "Wimbledon": "2R",
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "US Open": "3R"
+    },
+    "1972": {
+      "Roland Garros": "4R",
+      "Wimbledon": "3R",
+      "US Open": "3R"
+    },
+    "1973": {
+      "Wimbledon": "2R",
+      "US Open": "2R"
+    },
+    "1974": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1975": {
+      "US Open": "4R"
+    },
+    "1976": {
+      "US Open": "4R"
+    },
+    "1977": {
+      "US Open": "2R"
+    },
+    "1978": {
+      "US Open": "2R"
+    }
+  }
+}

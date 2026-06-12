@@ -1,0 +1,38 @@
+{
+  "tour": "wta",
+  "player_id": 201599,
+  "full_name": "Andrea Hlavackova",
+  "ioc": "CZE",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2010": {
+      "Wimbledon": "2R"
+    },
+    "2011": {
+      "Wimbledon": "2R",
+      "Australian Open": "2R",
+      "Roland Garros": "1R"
+    },
+    "2012": {
+      "US Open": "4R",
+      "Wimbledon": "2R",
+      "Australian Open": "1R"
+    },
+    "2013": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2014": {
+      "Wimbledon": "1R"
+    },
+    "2015": {
+      "Roland Garros": "1R"
+    }
+  }
+}

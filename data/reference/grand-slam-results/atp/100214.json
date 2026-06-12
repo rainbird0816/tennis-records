@@ -1,0 +1,73 @@
+{
+  "tour": "atp",
+  "player_id": 100214,
+  "full_name": "Adriano Panatta",
+  "ioc": "ITA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Roland Garros": "1R",
+      "Australian Open": "2R"
+    },
+    "1970": {
+      "Roland Garros": "4R",
+      "Wimbledon": "1R"
+    },
+    "1971": {
+      "Wimbledon": "3R",
+      "Roland Garros": "3R"
+    },
+    "1972": {
+      "Wimbledon": "3R",
+      "Roland Garros": "QF",
+      "US Open": "1R"
+    },
+    "1973": {
+      "Roland Garros": "SF",
+      "US Open": "3R"
+    },
+    "1974": {
+      "Roland Garros": "2R",
+      "Wimbledon": "3R"
+    },
+    "1975": {
+      "Roland Garros": "SF",
+      "Wimbledon": "3R"
+    },
+    "1976": {
+      "US Open": "2R",
+      "Roland Garros": "W",
+      "Wimbledon": "3R"
+    },
+    "1977": {
+      "Roland Garros": "QF",
+      "Wimbledon": "2R",
+      "US Open": "3R"
+    },
+    "1978": {
+      "US Open": "4R",
+      "Roland Garros": "2R"
+    },
+    "1979": {
+      "Wimbledon": "QF",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1980": {
+      "Roland Garros": "1R",
+      "Wimbledon": "3R"
+    },
+    "1981": {
+      "Roland Garros": "2R",
+      "US Open": "3R"
+    },
+    "1982": {
+      "Roland Garros": "2R"
+    }
+  }
+}

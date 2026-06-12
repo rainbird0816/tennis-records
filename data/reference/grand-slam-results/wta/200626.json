@@ -1,0 +1,45 @@
+{
+  "tour": "wta",
+  "player_id": 200626,
+  "full_name": "Emanuela Zardo",
+  "ioc": "SUI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1990": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    },
+    "1991": {
+      "Wimbledon": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R",
+      "US Open": "2R"
+    },
+    "1992": {
+      "US Open": "2R",
+      "Australian Open": "1R",
+      "Roland Garros": "2R"
+    },
+    "1993": {
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1994": {
+      "Australian Open": "4R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R",
+      "US Open": "2R"
+    },
+    "1995": {
+      "Australian Open": "1R"
+    }
+  }
+}

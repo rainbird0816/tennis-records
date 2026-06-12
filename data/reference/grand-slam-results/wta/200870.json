@@ -1,0 +1,31 @@
+{
+  "tour": "wta",
+  "player_id": 200870,
+  "full_name": "Peaches Bartkowicz",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1968": {
+      "Wimbledon": "2R",
+      "US Open": "QF"
+    },
+    "1969": {
+      "Roland Garros": "3R",
+      "US Open": "QF",
+      "Wimbledon": "3R"
+    },
+    "1970": {
+      "Wimbledon": "3R",
+      "US Open": "3R",
+      "Roland Garros": "2R"
+    },
+    "1971": {
+      "Wimbledon": "1R"
+    }
+  }
+}

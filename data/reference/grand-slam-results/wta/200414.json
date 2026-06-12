@@ -1,0 +1,102 @@
+{
+  "tour": "wta",
+  "player_id": 200414,
+  "full_name": "Steffi Graf",
+  "ioc": "GER",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1983": {
+      "Australian Open": "2R",
+      "Roland Garros": "2R"
+    },
+    "1984": {
+      "Wimbledon": "4R",
+      "Australian Open": "4R",
+      "Roland Garros": "3R",
+      "US Open": "1R"
+    },
+    "1985": {
+      "US Open": "SF",
+      "Roland Garros": "4R",
+      "Wimbledon": "4R"
+    },
+    "1986": {
+      "Roland Garros": "QF",
+      "US Open": "SF"
+    },
+    "1987": {
+      "Roland Garros": "W",
+      "Wimbledon": "F",
+      "US Open": "F"
+    },
+    "1988": {
+      "Roland Garros": "W",
+      "Australian Open": "W",
+      "US Open": "W",
+      "Wimbledon": "W"
+    },
+    "1989": {
+      "Australian Open": "W",
+      "Wimbledon": "W",
+      "Roland Garros": "F",
+      "US Open": "W"
+    },
+    "1990": {
+      "US Open": "F",
+      "Roland Garros": "F",
+      "Australian Open": "W",
+      "Wimbledon": "SF"
+    },
+    "1991": {
+      "Australian Open": "QF",
+      "Roland Garros": "SF",
+      "Wimbledon": "W",
+      "US Open": "SF"
+    },
+    "1992": {
+      "Roland Garros": "F",
+      "US Open": "QF",
+      "Wimbledon": "W"
+    },
+    "1993": {
+      "Australian Open": "F",
+      "Wimbledon": "W",
+      "Roland Garros": "W",
+      "US Open": "W"
+    },
+    "1994": {
+      "Australian Open": "W",
+      "Roland Garros": "SF",
+      "US Open": "F",
+      "Wimbledon": "1R"
+    },
+    "1995": {
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Roland Garros": "W"
+    },
+    "1996": {
+      "Wimbledon": "W",
+      "US Open": "W",
+      "Roland Garros": "W"
+    },
+    "1997": {
+      "Roland Garros": "QF",
+      "Australian Open": "4R"
+    },
+    "1998": {
+      "US Open": "4R",
+      "Wimbledon": "3R"
+    },
+    "1999": {
+      "Roland Garros": "W",
+      "Wimbledon": "F",
+      "Australian Open": "QF"
+    }
+  }
+}

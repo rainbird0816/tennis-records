@@ -1,0 +1,42 @@
+{
+  "tour": "atp",
+  "player_id": 101901,
+  "full_name": "Chuck Adams",
+  "ioc": "USA",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1989": {
+      "US Open": "1R"
+    },
+    "1991": {
+      "US Open": "1R"
+    },
+    "1992": {
+      "US Open": "3R",
+      "Australian Open": "1R"
+    },
+    "1993": {
+      "US Open": "4R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "1994": {
+      "Wimbledon": "3R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
+    },
+    "1995": {
+      "Australian Open": "1R"
+    },
+    "1996": {
+      "Australian Open": "2R",
+      "US Open": "1R"
+    }
+  }
+}

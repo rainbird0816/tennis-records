@@ -1,0 +1,20 @@
+{
+  "tour": "wta",
+  "player_id": 200863,
+  "full_name": "Zaiga Yansone",
+  "ioc": "URS",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "1969": {
+      "Roland Garros": "3R"
+    },
+    "1971": {
+      "Wimbledon": "4R"
+    }
+  }
+}

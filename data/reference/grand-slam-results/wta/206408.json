@@ -39,6 +39,10 @@
     },
     "2025": {
       "Australian Open": "1R"
+    },
+    "2026": {
+      "Wimbledon": "1R",
+      "US Open": "2R"
     }
   }
 }

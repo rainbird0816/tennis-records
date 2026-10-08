@@ -1,0 +1,385 @@
+tour,td_name,name,tourney_suffix,level_raw,draw_size,date_offset,learned_from
+atp,ABN AMRO World Tennis Tournament,Rotterdam,0407,A,32,0,2026
+atp,AEGON Championships,Queen's Club,0311,A,32,0,2018
+atp,AEGON International,Eastbourne,M016,A,32,0,2017
+atp,AEGON Open,Nottingham,0741,A,64,1,2016
+atp,ASB Classic,Auckland,0301,A,28,1,2026
+atp,ATP Vegeta Croatia Open,Umag,439,A,28,0,2014
+atp,Abierto Mexicano,Acapulco,0807,A,32,-1,2026
+atp,Abierto Mexicano Mifel,Los Cabos,7480,A,32,-1,2019
+atp,Adelaide International,Adelaide,8998,A,28,0,2026
+atp,Adelaide International 1,Adelaide 1,2843,A,32,1,2023
+atp,Adelaide International 2,Adelaide 2,8998,A,32,0,2023
+atp,Allianz Suisse Open,Gstaad,314,A,28,0,2011
+atp,Almaty Open,Almaty,9410,A,28,0,2025
+atp,Antalya Open,Antalya,9426,A,32,-2,2021
+atp,Apia International,Sydney,M001,A,32,1,2017
+atp,Argentina Open,Buenos Aires,0506,A,28,0,2026
+atp,Astana Open,Astana,9410,A,32,-2,2023
+atp,Atlanta Open,Atlanta,6116,A,32,0,2024
+atp,Atlanta Tennis Championships,Atlanta,6116,A,28,0,2011
+atp,Australian Open,Australian Open,580,G,128,1,2026
+atp,Austrian Open,Kitzbuhel,306,A,32,0,2009
+atp,BA-CA Tennis Trophy,Vienna,337,A,28,0,2010
+atp,BB&T Atlanta Open,Atlanta,6116,A,32,0,2021
+atp,BMW Open,Munich,0308,A,32,0,2026
+atp,BNP Paribas Masters,Paris Masters,0352,M,56,0,2025
+atp,BNP Paribas Open,Indian Wells Masters,0404,M,96,0,2026
+atp,BRD Nastase Tiriac Trophy,Bucharest,0773,A,32,0,2016
+atp,Barcelona Open,Barcelona,0425,A,32,0,2026
+atp,Belgrade Open,Belgrade,4787,A,28,1,2024
+atp,Bet-At-Home Cup,Kitzbuhel,319,A,28,-1,2014
+atp,Brasil Open,Sao Paulo,0533,A,32,0,2019
+atp,Brisbane International,Brisbane,0339,A,32,0,2026
+atp,Canadian Open,Canada Masters,0421,M,96,0,2025
+atp,Catella Swedish Open,Bastad,316,A,28,0,2009
+atp,Chengdu Open,Chengdu,7581,A,28,0,2025
+atp,Chennai Open,Chennai,0891,A,32,0,2017
+atp,Chile Open,Santiago,8996,A,28,0,2026
+atp,China Open,Beijing,0747,A,32,0,2025
+atp,Citi Open,Washington,0418,A,48,0,2025
+atp,Copa Claro,Buenos Aires,506,A,32,0,2014
+atp,Copa Telmex,Buenos Aires,506,A,32,0,2010
+atp,Cordoba Open,Cordoba,9158,A,32,0,2024
+atp,Croatia Open,Umag,0439,A,28,0,2025
+atp,Crédit Agricole Suisse Open Gstaad,Gstaad,314,A,28,0,2014
+atp,Dallas Open,Dallas,0424,A,32,0,2026
+atp,Davidoff Swiss Indoors,Basel,328,A,32,0,2009
+atp,Delray Beach Open,Delray Beach,0499,A,28,0,2026
+atp,Dubai Tennis Championships,Dubai,0495,A,32,0,2026
+atp,Dusseldorf Open,Dusseldorf,6710,A,28,0,2014
+atp,Eastbourne International,Eastbourne,0741,A,28,0,2025
+atp,Ecuador Open,Quito,7161,A,32,0,2018
+atp,Emilia-Romagna Open,Parma,9510,A,32,1,2021
+atp,Erste Bank Open,Vienna,0337,A,32,0,2020
+atp,Estoril Open,Estoril,7290,A,32,0,2024
+atp,European Open,Brussels,7485,A,28,0,2025
+atp,Farmers Classic,Los Angeles,423,A,28,0,2012
+atp,Firenze Open,Florence,2805,A,32,0,2022
+atp,Forte Village Sardegna Open,Sardinia,9408,A,32,0,2020
+atp,French Open,Roland Garros,520,G,128,1,2026
+atp,Garanti Koza Sofia Open,Sofia,7434,A,32,0,2018
+atp,Gazprom Hungarian Open,Budapest,7648,A,32,0,2018
+atp,Generali Open,Kitzbuhel,0319,A,28,0,2025
+atp,Geneva Open,Geneva,0322,A,28,0,2026
+atp,German Open Tennis Championships,Hamburg,414,A,48,0,2013
+atp,German Tennis Championships,Hamburg,0414,A,32,0,2020
+atp,Gerry Weber Open,Halle,0500,A,32,0,2018
+atp,Gijon Open,Gijon,2807,A,32,0,2022
+atp,Grand Prix Hassan II,Marrakech,0360,A,28,0,2026
+atp,Grand Prix de Lyon,Lyon,375,A,32,0,2009
+atp,Great Ocean Road Open,Great Ocean Road Open,8998,A,64,1,2021
+atp,Hall of Fame Championships,Newport,0315,A,32,0,2024
+atp,Halle Open,Halle,0500,A,32,0,2025
+atp,Hamburg Open,Hamburg,0414,A,32,0,2026
+atp,Hangzhou Open,Hangzhou,4713,A,28,0,2025
+atp,Heineken Open,Auckland,301,A,28,0,2015
+atp,Hellenic Championship,Athens,5100,A,28,0,2025
+atp,Hong Kong Tennis Open,Hong Kong,0336,A,28,0,2026
+atp,Hungarian Open,Budapest,7648,A,32,0,2019
+atp,Indianapolis Tennis Championships,Indianapolis,419,A,32,0,2009
+atp,International Championships,Delray Beach,499,A,32,0,2013
+atp,International German Open,Hamburg,414,A,48,-1,2009
+atp,Internazionali BNL d'Italia,Rome Masters,0416,M,96,0,2026
+atp,Istanbul Open,Istanbul,7163,A,32,0,2018
+atp,Japan Open Tennis Championships,Tokyo,0329,A,32,0,2025
+atp,Konzum Croatia Open,Umag,0439,A,32,0,2016
+atp,Korea Open,Seoul,4140,A,32,0,2022
+atp,Kremlin Cup,Moscow,0438,A,32,0,2021
+atp,LA Tennis Open,Los Angeles,423,A,28,0,2009
+atp,Legg Mason Classic,Washington,418,A,48,0,2011
+atp,Los Cabos Open,Los Cabos,7480,A,28,-1,2025
+atp,Lyon Open,Lyon,7694,A,32,1,2024
+atp,Maharashtra Open,Pune,0891,A,32,0,2023
+atp,Malaysian Open,Kuala Lumpur,6003,A,28,0,2015
+atp,Mallorca Championships,Mallorca,8994,A,28,0,2025
+atp,Masters Cup,Tour Finals,0605,F,8,0,2025
+atp,Medibank International,Sydney,338,A,28,0,2011
+atp,Melbourne Summer Set,Melbourne,9665,A,32,-1,2022
+atp,Memphis Open,Memphis,0402,A,32,0,2017
+atp,Mercedes Cup,Stuttgart,0321,A,32,0,2022
+atp,Miami Open,Miami Masters,0403,M,96,-1,2026
+atp,Mifel Open,Los Cabos,7480,A,32,-1,2021
+atp,Millenium Estoril Open,Estoril,7290,A,32,0,2017
+atp,Millennium Estoril Open,Estoril,7290,A,32,0,2022
+atp,Monte Carlo Masters,Monte Carlo Masters,0410,M,56,0,2026
+atp,Movistar Open,Santiago,505,A,32,0,2011
+atp,Murray River Open,Murray River Open,9428,A,64,0,2021
+atp,Mutua Madrid Open,Madrid Masters,1536,M,96,0,2026
+atp,Mutua Madrileña Madrid Open,Madrid Masters,1536,M,56,0,2011
+atp,Napoli Cup,Naples,2809,A,32,-1,2022
+atp,New York Open,New York,0424,A,32,0,2020
+atp,Nordea Open,Bastad,0316,A,28,0,2025
+atp,Nordic Open,Stockholm,0429,A,28,0,2025
+atp,Open 13,Marseille,0496,A,28,0,2025
+atp,Open Banco Sabadell,Barcelona,0425,A,64,0,2016
+atp,Open Banco Sabadell ,Barcelona,0425,A,64,0,2019
+atp,Open Romania,Bucharest,773,A,28,0,2011
+atp,Open Sud de France,Montpellier,0375,A,28,0,2026
+atp,Open de Moselle,Metz,0341,A,28,0,2025
+atp,Open de Nice Côte d’Azur,Nice,6120,A,32,1,2016
+atp,Ordina Open,s Hertogenbosch,440,A,32,0,2009
+atp,PBZ Zagreb Indoors,Zagreb,2276,A,28,0,2015
+atp,Pilot Pen Tennis,New Haven,3348,A,48,-1,2010
+atp,Portugal Open,Estoril,468,A,28,0,2014
+atp,Power Horse Cup,Dusseldorf,6710,A,28,0,2013
+atp,Proton Malaysian Open,Kuala Lumpur,6003,A,28,0,2010
+atp,Qatar Exxon Mobil Open,Doha,0451,A,32,0,2026
+atp,Queen's Club Championships,Queen's Club,0311,A,32,0,2025
+atp,Rakuten Japan Open Tennis Championships,Tokyo,0329,A,32,0,2022
+atp,Regions Morgan Keegan Championships,Memphis,402,A,32,0,2012
+atp,Ricoh Open,s Hertogenbosch,M010,A,32,0,2018
+atp,Rio Open,Rio de Janeiro,6932,A,32,0,2026
+atp,Rogers Masters,Canada Masters,0421,M,64,0,2019
+atp,Rosmalen Grass Court Championships,s Hertogenbosch,0440,A,28,0,2025
+atp,Royal Guard Open Chile,Vina del Mar,505,A,28,0,2014
+atp,SA Tennis Open,Johannesburg,5012,A,32,0,2011
+atp,SAP Open,San Jose,424,A,28,-1,2013
+atp,San Diego Open,San Diego,9569,A,32,0,2022
+atp,Serbia Open,Belgrade ,5053,A,32,0,2022
+atp,Shanghai Masters,Shanghai Masters,5014,M,96,0,2025
+atp,Shenzhen Open,Shenzhen,6967,A,32,0,2018
+atp,Singapore Open,Singapore,9460,A,32,0,2021
+atp,SkiStar Swedish Open,Bastad,0316,A,32,0,2019
+atp,Sofia Open,Sofia,7434,A,32,-1,2023
+atp,Sony Ericsson Open,Miami Masters,M007,M,128,-2,2019
+atp,Srpska Open,Banja Luka,2841,A,32,0,2023
+atp,St. Petersburg Open,St. Petersburg,0568,A,32,0,2021
+atp,Stockholm Open,Stockholm,0429,A,32,0,2022
+atp,Studena Croatia Open,Umag,439,A,28,0,2011
+atp,Stuttgart Open,Stuttgart,0321,A,28,0,2025
+atp,Suisse Open Gstaad,Gstaad,0314,A,28,0,2025
+atp,Swiss Indoors,Basel,0328,A,32,0,2025
+atp,Sydney International,Sydney,M001,A,32,1,2019
+atp,Sydney Tennis Classic,Sydney,9663,A,32,0,2022
+atp,Tata Open,Pune,0891,A,32,0,2018
+atp,Tel Aviv Open,Tel Aviv,4138,A,32,0,2022
+atp,Thailand Open,Bangkok,1720,A,28,0,2013
+atp,Tiriac Open,Bucharest,4462,A,28,-1,2026
+atp,Topshelf Open,s Hertogenbosch,M010,A,32,0,2016
+atp,U.S. Men's Clay Court Championships,Houston,0717,A,32,0,2024
+atp,U.S. National Indoor Tennis Championships,Memphis,402,A,28,0,2014
+atp,U.S.Men's Clay Court Championships,Houston,0717,A,28,0,2026
+atp,US Open,US Open,560,G,128,1,2025
+atp,Unicef Open,s Hertogenbosch,440,A,32,0,2012
+atp,VTR Open,Santiago,505,A,28,0,2013
+atp,Valencia Open 500,Valencia,573,A,28,0,2015
+atp,Vienna Open,Vienna,0337,A,32,0,2025
+atp,Viking International,Eastbourne,0741,A,32,-1,2021
+atp,Western & Southern Financial Group Masters,Cincinnati Masters,0422,M,96,0,2025
+atp,Wimbledon,Wimbledon,540,G,128,0,2025
+atp,Winston-Salem Open at Wake Forest University,Winston-Salem,6242,A,48,0,2025
+atp,Zhuhai Championships,Zhuhai,9164,A,32,0,2023
+atp,Zhuhai Open,Zhuhai,9164,A,32,0,2019
+atp,bet-at-home Open,Hamburg,414,A,32,0,2015
+atp,bett1HULKS Championship,Cologne 2,9406,A,32,0,2020
+atp,bett1HULKS Indoors,Cologne 1,9404,A,32,0,2020
+wta,AEGON Classic ,Birmingham,1052,P,32,0,2018
+wta,AEGON International,Eastbourne,M016,P,64,1,2017
+wta,ASB Classic,Auckland,1049,I,32,1,2026
+wta,ATX Open,Austin,2082,I,32,0,2026
+wta,Abierto Mexicano,Acapulco,W-INT-MEX-01A-2013,I,32,-1,2013
+wta,Abierto Zapopan,Guadalajara,2002,I,32,0,2022
+wta,Abu Dhabi WTA Women's Tennis Open,Abu Dhabi,2088,P,28,0,2026
+wta,Adelaide International,Adelaide,2014,P,30,0,2026
+wta,Adelaide International 1,Adelaide 1,800,P,32,1,2023
+wta,Adelaide International 2,Adelaide 2,2014,P,32,0,2023
+wta,Aegon Open,Nottingham,1080,I,32,0,2018
+wta,Andalucia Tennis Experience,Marbella,W-INT-ESP-01A-2011,I,32,0,2011
+wta,Apai International,Sydney,M001,I,32,1,2017
+wta,Astana Open,Nur-Sultan,2053,I,32,0,2021
+wta,Athens Open,Athens,x-athens,I,32,0,0
+wta,Australian Open,Australian Open,580,G,128,1,2026
+wta,BGL BNP Paribas Luxembourg Open,Luxembourg,0300,I,32,0,2019
+wta,BNP Paribas Fortis Diamond Games,Antwerp,W-PR-BEL-01A-2015,P,28,-1,2015
+wta,BNP Paribas Katowice Open,Katowice,W-INT-POL-01A-2013,I,32,0,2013
+wta,BNP Paribas Open,Indian Wells,609,PM,96,0,2026
+wta,BNP Paribas WTA Finals,Singapore,0808,F,8,1,2018
+wta,Bad Homburg Open,Bad Homburg,2017,P,28,0,2025
+wta,Baku Cup,Baku,W-INT-AZE-01A-2015,I,32,0,2015
+wta,Baltic Open,Jurmala,2006,I,32,0,2019
+wta,Bank of the West Classic,Stanford,0703,P,32,0,2017
+wta,Banka Koper Slovenia Open,Portoroz,W-INT-SLO-01A-2010,I,32,0,2010
+wta,Barcelona Ladies Open,Barcelona,W-INT-ESP-01A-2012,I,32,0,2012
+wta,Barclays Dubai Tennis Championships,Dubai,W-PR-UAE-01A-2010,P,56,1,2010
+wta,Bell Challenge,Quebec City,W-INT-CAN-01A-2013,I,32,0,2013
+wta,Bett1Open,Berlin,2012,P,32,0,2022
+wta,Birmingham Classic ,Birmingham,1052,P,32,0,2019
+wta,Brasil Tennis Cup,Florianopolis,1064,I,32,1,2016
+wta,Brisbane International,Brisbane,800,P,48,0,2026
+wta,Bronx Open,New York,2010,I,32,1,2019
+wta,Brussels Open,Brussels,W-PR-BEL-01A-2013,P,30,0,2013
+wta,Bucharest Open,Bucharest,1079,I,32,0,2019
+wta,Budapest Grand Prix,Budapest,W-INT-HUN-01A-2012,I,32,0,2012
+wta,Budapest Open,Budapest,2036,I,32,0,2024
+wta,Canadian Open,Montreal,806,PM,96,0,2025
+wta,Cellular South Cup,Memphis,W-INT-USA-01A-2011,I,32,1,2011
+wta,Championnats de Granby,Granby,2070,I,32,1,2022
+wta,Charleston Open,Charleston,804,P,48,0,2026
+wta,Chennai Open,Chennai,1148,I,32,-2,2025
+wta,Chicago Fall Tennis Classic,Chicago 2,2048,P,64,0,2021
+wta,Chicago Women's Opeen,Chicago 1,2047,W,32,1,2021
+wta,China Open,Beijing,1020,PM,96,0,2025
+wta,Citi Open,Washington,1045,P,28,0,2025
+wta,Collector Swedish Open,Bastad,W-INT-SWE-01A-2015,I,32,0,2015
+wta,Commonwealth Bank Tournament of Champions,Tournament of Champions,W-CHA-INA-01A-2011,F,8,-3,2011
+wta,Connecticut Open,New Haven,0602,P,32,1,2018
+wta,Copa BBVA Colsanitas,Bogota,W-INT-COL-01A-2012,I,32,0,2012
+wta,Copa Claro Colsanitas,Bogota,0894,I,32,0,2019
+wta,Copa Colsanitas,Bogota,894,I,32,0,2026
+wta,Copa Sony Ericsson Colsanitas,Bogota,W-INT-COL-01A-2009,I,32,0,2009
+wta,Coupe Banque Nationale,Quebec City,0656,I,32,0,2018
+wta,Courmayeur Ladies Open,Courmayeur,2046,I,32,0,2021
+wta,Dubai Duty Free Tennis Championships,Dubai,718,PM,56,0,2026
+wta,ECM Prague Open,Prague,W-INT-CZE-01A-2010,I,32,0,2010
+wta,Eastbourne International,Eastbourne,710,P,32,0,2023
+wta,Eastbourne Open,Eastbourne,710,I,32,0,2025
+wta,Emilia-Romagna Open,Parma,2041,W,32,1,2021
+wta,Ericsson Open,Bastad,1048,I,32,0,2017
+wta,Estoril Open,Estoril,W-INT-POR-01A-2012,I,32,0,2012
+wta,European Open,Hamburg,2042,I,32,0,2023
+wta,FORTIS Championships Luxembourg,Luxembourg,W-INT-LUX-01A-2010,I,32,0,2010
+wta,Family Circle Cup,Charleston,0804,P,64,0,2019
+wta,French Open,Roland Garros,520,G,128,1,2026
+wta,GDD-Guangzhou International Womens Open ,Guangzhou,W-INT-CHN-01A-2009,I,32,0,2009
+wta,GRC Bank Guangzhou International Women's Open,Guangzhou,W-INT-CHN-01A-2012,I,32,0,2012
+wta,Garanti Koza WTA Tournament of Champions,Tournament of Champions,W-CHA-BUL-01A-2014,F,4,-1,2014
+wta,Gastein Ladies,Bad Gastein,W-INT-AUT-01A-2015,I,32,0,2015
+wta,Gaz de France Budapest Grand Prix,Budapest,W-INT-HUN-01A-2010,I,32,0,2010
+wta,Generali Ladies Linz,Linz,0528,I,32,0,2019
+wta,Generali Ladies Linz Open,Linz,528,I,32,1,2021
+wta,German Open,Berlin,2012,P,28,0,2025
+wta,Gippsland Trophy,Gippsland Trophy,2029,P,54,1,2021
+wta,Grand Prix SAR Lalla Meryem,Rabat,1005,I,32,1,2022
+wta,Grand Prix de SAR La Princesse Lalla Meryem,Marrakech,W-INT-MAR-01A-2014,I,32,0,2014
+wta,Guadalajara Open,Guadalajara,2075,P,28,0,2025
+wta,Guangzhou Open,Guangzhou,1023,I,32,0,2025
+wta,HP Open,Osaka,W-INT-JPN-01A-2013,I,32,0,2013
+wta,Hamburg European Open,Hamburg,2042,I,32,0,0
+wta,Hamburg Open,Hamburg,2042,I,32,0,2025
+wta,Hansol Korea Open,Seoul,W-INT-KOR-01A-2011,I,32,0,2011
+wta,Hobart International,Hobart,1050,I,32,0,2026
+wta,Hong Kong Tennis Open,Hong Kong,1074,I,32,0,2025
+wta,Hungarian Grand Prix,Budapest,W-INT-HUN-01A-2013,I,31,0,2013
+wta,Hungarian Ladies Open,Budapest,1097,I,32,0,2019
+wta,Iasi Open,Iasi,2063,I,32,0,2025
+wta,Internationaux de Strasbourg,Strasbourg,406,P,28,0,2026
+wta,Internazionali BNL d'Italia,Rome,709,PM,96,0,2026
+wta,Internazionali Femminili di Palermo,Palermo,466,I,32,0,2024
+wta,Internazionali Femminili di Tennis di Palermo,Palermo,W-INT-ITA-01A-2011,I,32,0,2011
+wta,Istanbul Cup,Istanbul,2020,I,32,-1,2022
+wta,Italiacom Open,Palermo,W-INT-ITA-01A-2013,I,32,0,2013
+wta,J&T Banka Prague Open,Prague,1082,I,32,0,2020
+wta,Japan Open,Osaka,405,I,32,0,2025
+wta,Japan Women's Open Tennis,Osaka,W-INT-JPN-01A-2014,I,32,0,2014
+wta,Japan Women's Tennis Open,Hiroshima,0405,I,32,0,2019
+wta,Jasmin Open,Monastir,2072,I,32,0,2024
+wta,Jiangxi Open,Jiujiang,1077,I,32,0,2025
+wta,Jiangxi Tennis Open,Nanchang,1077,I,32,0,2023
+wta,Jiangxi Women's Tennis Open,Nanchang,1077,I,32,0,2019
+wta,KDB Korea Open,Seoul,W-INT-KOR-01A-2013,I,32,0,2013
+wta,Kia Korea Open,Seoul,W-INT-KOR-01A-2015,I,32,0,2015
+wta,Korea Open,Seoul,1024,P,28,0,2025
+wta,Kremlin Cup,Moscow,730,P,32,0,2021
+wta,LA Womens Tennis Championships,Los Angeles,W-PR-USA-03A-2009,P,56,0,2009
+wta,Ladies Championship Gstaad,Gstaad,1094,I,32,0,2018
+wta,Ladies Linz Open,Linz,528,P,28,0,2026
+wta,Ladies Open Biel Bienne,Biel,1098,I,32,0,2017
+wta,Ladies Open Lausanne,Lausanne,1094,I,32,0,2023
+wta,Ladies Trophy,St. Petersburg,1086,P,32,0,2022
+wta,Landsky Lighting Guangzhou International Women's Open,Guangzhou,W-INT-CHN-01A-2010,I,32,0,2010
+wta,Luxembourg Open,Luxembourg,300,I,32,0,2021
+wta,Lyon Open,Lyon,2011,I,32,0,2023
+wta,MPS Group Championships,Ponte Vedra Beach,W-INT-USA-02A-2010,I,32,0,2010
+wta,MUSC Health Women's Open,Charleston 2,2033,W,32,0,2021
+wta,Malaysia Open,Kuala Lumpur,1041,I,32,0,2017
+wta,Mallorca Open,Mallorca,1091,I,32,0,2019
+wta,Medibank International,Sydney,W-PR-AUS-01A-2011,P,30,1,2011
+wta,Melbourne Summer Set 1,Melbourne 1,2058,I,32,-1,2022
+wta,Melbourne Summer Set 2,Melbourne 2,2059,I,32,-1,2022
+wta,Memphis Classic,Memphis,x-memphis,I,32,0,0
+wta,Memphis International,Memphis,W-INT-USA-01A-2012,I,32,1,2012
+wta,Mercury Insurance Open,San Diego,W-PR-USA-03A-2012,P,28,0,2012
+wta,Merida Open,Merida,2085,P,28,0,2026
+wta,Miami Open,Miami,902,PM,96,0,2026
+wta,Monterrey Open,Monterrey,1039,P,28,0,2025
+wta,Moorilla Hobart International,Hobart,W-INT-AUS-01A-2013,I,32,1,2013
+wta,Morocco Open,Rabat,1005,I,32,0,2026
+wta,Moscow River Cup,Moscow,1105,I,32,0,2018
+wta,Mubadala Silicon Valley Classic,San Jose,703,P,32,0,2022
+wta,Mutua Madrid Open,Madrid,1038,PM,96,0,2026
+wta,Mutua Madrileña Madrid Open,Madrid,W-PM-ESP-01A-2011,PM,64,2,2011
+wta,New Haven Open at Yale,New Haven,W-PR-USA-05A-2013,P,30,1,2013
+wta,Ningbo Open,Ningbo,2092,P,28,0,2025
+wta,Nottingham Open,Nottingham,1080,I,32,0,2025
+wta,Nürnberger Versicherungscup,Nurnberg,1068,I,32,1,2019
+wta,Open Gaz de France,Paris,W-PR-FRA-01A-2009,P,32,0,2009
+wta,Open de Rouen,Rouen,2066,I,32,0,2026
+wta,Ordina Open,'s-Hertogenbosch,W-INT-NED-01A-2009,I,32,1,2009
+wta,Ostrava Open,Ostrava,1154,I,30,0,2026
+wta,POLI-FARBE Budapest Grand Prix,Budapest,W-INT-HUN-01A-2011,I,32,0,2011
+wta,Parma Ladies Open,Parma,2041,I,32,0,2022
+wta,Pattaya Women's Open,Pattaya,W-INT-THA-01A-2015,I,32,0,2015
+wta,Phillip Island Trophy,Phillip Island Trophy,2027,I,64,0,2021
+wta,Pilot Pen Tennis,New Haven,W-PR-USA-05A-2010,P,30,0,2010
+wta,Poland Open,Warsaw,2037,I,32,0,2022
+wta,Porsche Tennis Grand Prix,Stuttgart,1051,P,28,0,2026
+wta,Portugal Open,Oeiras,W-INT-POR-01A-2014,I,32,0,2014
+wta,Prague Open,Prague,1082,I,32,0,2025
+wta,Prudential Hong Kong Tennis Open,Hong Kong,1074,I,32,0,2018
+wta,Qatar Airways Tournament of Champions Sofia,Tournament of Champions,W-CHA-BUL-01A-2012,F,4,-1,2012
+wta,Qatar Ladies Open,Doha,W-PR-QAT-01A-2011,P,28,0,2011
+wta,Qatar Open,Doha,1003,PM,56,0,2026
+wta,Qatar Total Open,Doha,1003,P,32,0,2021
+wta,Queen's Club Championships,Queen's Club,1111,P,28,0,2025
+wta,Regions Morgan Keegan Championships & the Cellular South Cup,Memphis,W-INT-USA-01A-2010,I,32,1,2010
+wta,Ricoh Open,s-Hertogenbosch,M010,I,32,0,2018
+wta,Rio Open,Rio de Janeiro,M052,I,32,0,2016
+wta,Rogers Cup,Toronto ,0806,P,64,0,2019
+wta,Rosmalen Grass Court Championships,s Hertogenbosch,822,I,32,0,2025
+wta,Rothesay Classic ,Birmingham,1052,I,32,0,2024
+wta,Rothesay International,Eastbourne,710,P,32,0,2024
+wta,SP Open,Sao Paulo,1139,I,32,0,2025
+wta,Samsung Open,Lugano,1101,I,32,0,2019
+wta,San Diego Open,San Diego,2074,P,32,0,2024
+wta,Serbia Ladies Open,Belgrade,2035,W,32,1,2021
+wta,Shenzhen Open,Shenzhen,1063,I,32,1,2020
+wta,Singapore Open,Singapore,1096,I,32,0,2025
+wta,Slovenia Open,Portoroz,2044,I,32,0,2022
+wta,Sony Ericsson Championships,WTA Finals,W-WT-SIN-01A-2015,W,8,0,2015
+wta,Sony Ericsson Open,Miami,M007,PM,128,-2,2019
+wta,Sony Swedish Open,Bastad,W-INT-SWE-01A-2012,I,32,0,2012
+wta,Southern California Open,Carlsbad,W-PR-USA-04A-2013,P,28,0,2013
+wta,Sydney International,Sydney,M001,P,32,0,2019
+wta,Sydney Tennis Classic,Sydney,2060,P,30,0,2022
+wta,TEB BNP Paribas Istanbul Cup,Istanbul,1027,I,32,0,2016
+wta,Taiwan Open,Taipei,1096,I,32,0,2017
+wta,Tallinn Open,Tallinn,2073,I,32,0,2022
+wta,Tashkent Open,Tashkent,0825,I,32,0,2019
+wta,Tenerife Ladies Open,Tenerife,2049,I,32,0,2021
+wta,Tennis in the Land,Cleveland,2040,I,32,0,2025
+wta,Texas Tennis Open,Dallas,W-INT-USA-03A-2012,I,32,1,2012
+wta,Thailand Open,Hua Hin,1096,I,32,0,2024
+wta,Thailand Open 2,Hua Hin 2,1121,I,32,0,2024
+wta,Tianjin Open,Tianjin,1076,I,32,0,2019
+wta,Top Seed Open,Lexington,2022,I,32,0,2020
+wta,Topshelf Open,'s Hertogenbosch,M010,I,32,0,2016
+wta,Toray Pan Pacific Open,Tokyo,1056,P,32,0,2018
+wta,Toray Pan Pacific Open Tennis Tournament,Tokyo,1056,P,28,0,2025
+wta,Transylvania Open,Cluj-Napoca,2050,I,32,0,2026
+wta,US National Indoor Tennis Championships,Memphis,W-INT-USA-01A-2013,I,32,1,2013
+wta,US Open,US Open,560,G,128,1,2025
+wta,Unicef Open,'s Hertogenbosch,W-INT-NED-01A-2012,I,32,1,2012
+wta,Viking Classic ,Birmingham,1052,I,32,0,2021
+wta,Viking International,Eastbourne,710,W,32,-1,2021
+wta,Volvo Car Open,Charleston 1,804,P,64,0,2021
+wta,WANLIMA Guangzhou International Women's Open,Guangzhou,W-INT-CHN-01A-2011,I,32,0,2011
+wta,WTA Elite Trophy,Zhuhai,1081,F,12,-1,2023
+wta,WTA Finals,Riyadh Finals,808,F,8,2,2024
+wta,Warsaw Open,Warsaw,W-PR-POL-01A-2010,P,30,0,2010
+wta,Western & Southern Financial Group Women's Open,Cincinnati,1017,PM,96,0,2025
+wta,Wimbledon,Wimbledon,540,G,128,0,2025
+wta,Wuhan Open,Wuhan,1075,PM,56,0,2025
+wta,Yarra Valley Classic,Yarra Valley Classic,2026,P,64,1,2021
+wta,Zhengzhou Open,Zhengzhou,2008,P,32,0,2023
+wta,e-Boks Sony Ericsson Open,Copenhagen,W-INT-DEN-01A-2012,I,32,0,2012

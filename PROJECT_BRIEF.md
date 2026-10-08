@@ -64,7 +64,15 @@
 ### 2.3 공통 라이선스
 - CC BY-NC-SA 4.0 — 저작자 표시 + 비상업 + 동일조건. 푸터/README 명시.
 
-### 2.4 보조(선택)
+### 2.4 보조 — tennis-data.co.uk (2026-06 이후 필수)
+- ⚠️ **1차 소스 중단**: 2026-06 중 `JeffSackmann/tennis_atp`·`tennis_wta` 가 비공개
+  처리돼 전 URL 404. 과거분은 아카이브 미러(`Aneeshers/tennis-sackmann-archive`,
+  2026-06 스냅샷)로 유지하지만 **2026-06 이후 진행분은 미러에도 없다.**
+- 보조 소스: tennis-data.co.uk 연도별 xlsx(본선 단식, 승자 관점 세트 스코어).
+  `etl.td_supplement` 가 겹치는 구간(2023~2026-05)에서 대회·선수 식별자를 학습해
+  Sackmann 스키마 CSV(`{tour}_matches_{year}_td.csv`)로 변환 → `build_db` 가 그대로 적재.
+- 보조 소스에 없는 것: 서브 스탯(ace/df/svpt…)·경기 시간·시드·타이브레이크 득점
+  → 해당 경기는 `has_stats=0`, 스코어보드는 `7-6` 까지만.
 - 위키피디아 연도별 표로 tier·대회 메타(개최지·국가)·올림픽 도시 큐레이션.
 
 > (제거됨) slam_pointbypoint / MatchChartingProject — 모멘텀·샷 분석용이며 현재 범위 밖. §13.
@@ -243,6 +251,8 @@ tennis-records/
 ---
 
 ## 14. 출처
-- Jeff Sackmann *tennis_atp* / *tennis_wta* (CC BY-NC-SA 4.0)
+- Jeff Sackmann *tennis_atp* / *tennis_wta* (CC BY-NC-SA 4.0) — 2026-06 비공개 처리,
+  아카이브 미러 `Aneeshers/tennis-sackmann-archive` 로 유지
+- tennis-data.co.uk (2026-06 이후 진행 시즌 보조 소스, 비상업 이용)
 - 컬럼 정의: tennis_atp `matches_data_dictionary.txt`
 - 카테고리 구조: 위키피디아 연도별 ATP 1000/500/250, WTA 현행/Premier, Tennis at the Summer Olympics

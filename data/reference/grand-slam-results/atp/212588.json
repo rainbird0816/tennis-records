@@ -12,7 +12,9 @@
   "results": {
     "2026": {
       "Roland Garros": "QF",
-      "Australian Open": "2R"
+      "Wimbledon": "3R",
+      "Australian Open": "2R",
+      "US Open": "1R"
     }
   }
 }

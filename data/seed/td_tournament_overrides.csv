@@ -1,0 +1,4 @@
+tour,td_name,name,tourney_suffix,level_raw,draw_size,date_offset,note
+wta,Hamburg European Open,Hamburg,2042,I,32,0,TD 2026 대회명 변경 (2025 'Hamburg Open' = Sackmann 'Hamburg')
+wta,Athens Open,Athens,x-athens,I,32,0,2026 신설 WTA250 (Jiangxi Open 대체) — 1차 소스에 전례 없어 합성 id
+wta,Memphis Classic,Memphis,x-memphis,I,32,0,2026 신설 WTA250 (Cleveland 대체) — 1차 소스에 전례 없어 합성 id

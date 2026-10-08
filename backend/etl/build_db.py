@@ -151,7 +151,7 @@ def load_matches(conn: sqlite3.Connection, tour: str, seed_map: dict) -> None:
 
             tier = derive_tier(
                 tour=tour, season=season, name=name_,
-                level_raw=level_raw, seed_map=seed_map,
+                level_raw=level_raw, seed_map=seed_map, tourney_id=tourney_id,
             )
             if tier is None:
                 n_skipped += 1

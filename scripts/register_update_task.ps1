@@ -1,4 +1,4 @@
-# tennis-records 주간 데이터 갱신을 Windows 작업 스케줄러에 등록.
+﻿# tennis-records 주간 데이터 갱신을 Windows 작업 스케줄러에 등록.
 # 기본: 매주 월요일 05:00. 변경하려면 아래 -At / -DaysOfWeek 수정.
 # 실행:  powershell -ExecutionPolicy Bypass -File scripts\register_update_task.ps1
 # 해제:  Unregister-ScheduledTask -TaskName "tennis-records-update" -Confirm:$false

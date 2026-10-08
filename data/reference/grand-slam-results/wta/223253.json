@@ -1,0 +1,25 @@
+{
+  "tour": "wta",
+  "player_id": 223253,
+  "full_name": "Alexandra Eala",
+  "ioc": "PHI",
+  "slams": [
+    "Australian Open",
+    "Roland Garros",
+    "Wimbledon",
+    "US Open"
+  ],
+  "results": {
+    "2025": {
+      "US Open": "2R",
+      "Roland Garros": "1R",
+      "Wimbledon": "1R"
+    },
+    "2026": {
+      "Wimbledon": "4R",
+      "US Open": "3R",
+      "Australian Open": "1R",
+      "Roland Garros": "1R"
+    }
+  }
+}

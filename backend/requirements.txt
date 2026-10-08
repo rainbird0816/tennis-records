@@ -5,6 +5,8 @@ uvicorn[standard]==0.34.0
 # --- ETL ---
 pandas==2.2.3
 requests==2.32.3
+openpyxl==3.1.5          # 보조 소스(tennis-data.co.uk) xlsx 파싱 — etl.td_supplement
+xlrd==2.0.1              # 동 보조 소스 2012 이전 시즌은 .xls
 
 # --- dev / test ---
 pytest==8.3.4

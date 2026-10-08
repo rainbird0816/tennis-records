@@ -52,7 +52,9 @@
       "Wimbledon": "1R"
     },
     "2026": {
+      "Wimbledon": "F",
       "Australian Open": "4R",
+      "US Open": "3R",
       "Roland Garros": "3R"
     }
   }

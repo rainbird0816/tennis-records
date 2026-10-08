@@ -35,7 +35,9 @@
       "Wimbledon": "1R"
     },
     "2026": {
-      "Roland Garros": "1R"
+      "Wimbledon": "4R",
+      "Roland Garros": "1R",
+      "US Open": "1R"
     }
   }
 }

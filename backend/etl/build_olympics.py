@@ -6,18 +6,24 @@
   - 은  = 결승(F) 패자
   - 동  = 동메달 결정전(BR) 승자.  BR 라운드가 없으면(초기 대회) 동메달 None 또는 SF 패자 처리.
 
+원천에 대회가 아예 없거나(1996 WTA) BR 경기가 빠진 에디션(2000·2004 WTA)은
+`data/seed/olympic_medals.csv` 큐레이션으로 보강한다.
+
 build_db.py 이후 실행 (tennis.db 가 이미 있어야 함). 멱등.
 
 사용:  python -m etl.build_olympics
 """
 from __future__ import annotations
 
+import csv
 import sqlite3
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from app.config import DB_PATH  # noqa: E402
+from app.config import DB_PATH, SEED_DIR  # noqa: E402
+
+MEDALS_SEED = SEED_DIR / "olympic_medals.csv"
 
 
 def build(conn: sqlite3.Connection) -> int:
@@ -57,6 +63,15 @@ def build(conn: sqlite3.Connection) -> int:
                 (tour, tourney_id),
             ).fetchall():
                 rows.append((tour, season, "bronze", sf_loser))
+
+    n_seed = 0
+    if MEDALS_SEED.exists():
+        with MEDALS_SEED.open(encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                rows.append((row["tour"].strip(), int(row["season"]),
+                             row["medal"].strip(), int(row["player_id"])))
+                n_seed += 1
+        print(f"[build_olympics] 시드 메달 {n_seed} 건 보강")
 
     conn.executemany(
         "INSERT OR REPLACE INTO olympic_medals VALUES (?,?,?,?)", rows

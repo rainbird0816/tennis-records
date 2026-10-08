@@ -1,5 +1,7 @@
-# tennis-records 데이터 자동 갱신 스크립트
+﻿# tennis-records 데이터 자동 갱신 스크립트
 # - 진행 중인 시즌(올해)과 직전 연도 CSV 를 다시 받아 tennis.db 재빌드
+# - 1차 소스(JeffSackmann)가 2026-06 부터 404 이므로 td_supplement(보조 소스)로
+#   진행 시즌을 메운다. fetch_sources 는 아카이브 미러로 과거분만 유지.
 # - SQLite 쓰기 락을 피하려 파이썬 프로세스를 먼저 정리 (실행 중인 API 서버 포함)
 # 수동 실행:  powershell -ExecutionPolicy Bypass -File scripts\update_data.ps1
 # 스케줄:     register_update_task.ps1 가 주간 작업으로 등록
@@ -31,12 +33,16 @@ Push-Location $backend
 try {
   Log "fetch_sources..."
   & $py -m etl.fetch_sources --start $start --end $year 2>&1 | Tee-Object -FilePath $log -Append
+  Log "td_supplement (보조 소스)..."
+  & $py -m etl.td_supplement --end $year --year $start --year $year 2>&1 | Tee-Object -FilePath $log -Append
   Log "build_db..."
   & $py -m etl.build_db 2>&1 | Select-Object -Last 4 | Tee-Object -FilePath $log -Append
   Log "build_olympics..."
   & $py -m etl.build_olympics 2>&1 | Select-Object -Last 1 | Tee-Object -FilePath $log -Append
   Log "build_rankings..."
   & $py -m etl.build_rankings 2>&1 | Select-Object -Last 1 | Tee-Object -FilePath $log -Append
+  Log "gen_gs_reference..."
+  & $py (Join-Path $root "scripts\gen_gs_reference.py") --all 2>&1 | Select-Object -Last 1 | Tee-Object -FilePath $log -Append
   Log "=== 업데이트 완료 ==="
 }
 catch {
